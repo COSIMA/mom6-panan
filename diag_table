@@ -1,0 +1,9 @@
+panan
+1991 1 1 0 0 0
+
+"ocean_6hourly", 6, "hours", 1, "hours", "time"
+
+"ocean_model", "zos", "zos", "ocean_6hourly", "all", "mean", "none", 2
+"ocean_model", "tos", "tos", "ocean_6hourly", "all", "mean", "none", 2
+"ocean_model", "ubtav", "ubtav", "ocean_6hourly", "all", "mean", "none", 2
+"ocean_model", "vbtav", "vbtav", "ocean_6hourly", "all", "mean", "none", 2
