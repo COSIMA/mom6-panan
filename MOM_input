@@ -60,26 +60,32 @@ MAXIMUM_DEPTH = 6000.0
 
 ! === module MOM_open_boundary ===
 OBC_NUMBER_OF_SEGMENTS = 1
-#OBC_FREESLIP_VORTICITY = False
+OBC_FREESLIP_VORTICITY = True
+OBC_FREESLIP_STRAIN = True
 #OBC_COMPUTED_VORTICITY = True
+OBC_ZERO_BIHARMONIC = True
 
-OBC_SEGMENT_001 = "J=N,I=N:0,FLATHER,ORLANSKI,NUDGED,ORLANSKI_TAN,NUDGED_TAN"
-OBC_SEGMENT_001_VELOCITY_NUDGING_TIMESCALES = 3, 360.0 ! inflow and outflow timescales
+OBC_SEGMENT_001 = "J=N,I=N:0,FLATHER,ORLANSKI,NUDGED"
+OBC_SEGMENT_001_VELOCITY_NUDGING_TIMESCALES = .3, 360.0 ! inflow and outflow timescales
 BRUSHCUTTER_MODE = True ! read data on supergrid
-OBC_SEGMENT_001_DATA = "U=file:forcing_obc_converted.nc(u),V=file:forcing_obc_converted.nc(v),SSH=file:forcing_obc_converted.nc(eta_t),TEMP=file:forcing_obc_converted.nc(temp),SALT=file:forcing_obc_converted.nc(salt)"
-RAMP_OBCS = True
+OBC_SEGMENT_001_DATA = "U=file:forcing_obc_shifted.nc(u),V=file:forcing_obc_shifted.nc(v),SSH=file:forcing_obc_shifted.nc(eta_t),TEMP=file:forcing_obc_shifted.nc(temp),SALT=file:forcing_obc_shifted.nc(salt)"
+!RAMP_OBCS = True
+
+OBC_TRACER_RESERVOIR_LENGTH_SCALE_OUT = 30000
+OBC_TRACER_RESERVOIR_LENGTH_SCALE_IN = 3000
 
 ! sponges
-SPONGE = True
+SPONGE = False
 SPONGE_CONFIG = "file"
-SPONGE_DAMPING_FILE = "sponge_idamp_velonly.nc"
+SPONGE_DAMPING_FILE = "sponges/idamp_1deg_1h_linear.nc"
+SPONGE_STATE_FILE = "sponge_uvts.nc"
 SPONGE_IDAMP_VAR = "Idamp"
 ! if we're using separate or velocity-only damping?
 ! SPONGE_IDAMP_U_var = "Idamp_u"
 ! SPONGE_IDAMP_V_var = "Idamp_v"
 ! we have disabled reading tracers anyway
-SPONGE_PTEMP_VAR = "temp"
-SPONGE_SALT_VAR = "salt"
+SPONGE_PTEMP_VAR = "t"
+SPONGE_SALT_VAR = "s"
 ! gives the vertical grid for the sponge data
 SPONGE_ETA_VAR = "eta"
 SPONGE_U_VAR = "u"
@@ -89,7 +95,7 @@ SPONGE_UV = True
 
 ! for OBC-forced sponge:
 !SPONGE_ETA_VAR = "uv_thickness"
-SPONGE_UV_STATE_FILE = "sponge_uv.nc"
+SPONGE_UV_STATE_FILE = "sponge_uvts.nc"
 INTERPOLATE_SPONGE_TIME_SPACE = True
 SPONGE_DATA_ONGRID = True
 
@@ -275,3 +281,7 @@ MAXTRUNC = 100000
 
 REPORT_UNUSED_PARAMS = True
 !FATAL_UNUSED_PARAMS = True
+
+NUM_DIAG_COORDS = 1
+DIAG_COORDS = "z Z ZSTAR"
+DIAG_COORD_DEF_Z = "FILE:diag_lev.nc,dz"

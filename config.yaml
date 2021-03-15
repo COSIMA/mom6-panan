@@ -1,6 +1,6 @@
 project: x77
 queue: normal
-walltime: 04:00:00
+walltime: 06:00:00
 jobname: mom6_panan
 ncpus: 2569
 jobfs: 10GB
@@ -11,7 +11,7 @@ shortpath: /scratch/x77
 model: mom6
 input: /g/data/x77/ahg157/inputs/mom6/panan/
 exe: /home/157/ahg157/repos/mom6/build/ice_ocean_SIS2_symmetric/MOM6
-# exe: /home/157/ahg157/repos/mom6/build/ice_ocean_SIS2_symmetric_debug/MOM6
+#exe: /home/157/ahg157/repos/mom6/build/ice_ocean_SIS2_symmetric_debug/MOM6
 
 collate: false
 runlog: true
