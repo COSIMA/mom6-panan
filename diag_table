@@ -2,8 +2,22 @@ panan
 1991 1 1 0 0 0
 
 "ocean_daily", 1, "days", 1, "hours", "time"
+"ocean_3d_5daily", 5, "days", 1, "hours", "time"
+"ice_daily", 1, "days", 1, "hours", "time"
 
 "ocean_model", "zos", "zos", "ocean_daily", "all", "mean", "none", 2
 "ocean_model", "tos", "tos", "ocean_daily", "all", "mean", "none", 2
 "ocean_model_z", "u", "u_surf", "ocean_daily", "all", "mean", "none", 2
 "ocean_model_z", "v", "v_surf", "ocean_daily", "all", "mean", "none", 2
+"ocean_model", "net_heat_surface", "net_heat_surface", "ocean_daily", "all", "mean", "none", 2
+"ocean_model", "PRCmE", "PRCmE", "ocean_daily", "all", "mean", "none", 2
+
+"ocean_model", "u", "u", "ocean_3d_5daily", "all", "mean", "none", 2
+"ocean_model", "v", "v", "ocean_3d_5daily", "all", "mean", "none", 2
+"ocean_model", "rhopot2", "rhopot2", "ocean_3d_5daily", "all", "mean", "none", 2
+"ocean_model_rho2", "umo", "umo", "ocean_3d_5daily", "all", "mean", "none", 2
+"ocean_model_rho2", "vmo", "vmo", "ocean_3d_5daily", "all", "mean", "none", 2
+"ocean_model_rho2", "h", "hmo", "ocean_3d_5daily", "all", "mean", "none", 2
+
+"ice_model", "siconc", "siconc", "ice_daily", "all", "mean", "none", 2
+"ice_model", "sithick", "sithick", "ice_daily", "all", "mean", "none", 2
