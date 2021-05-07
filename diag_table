@@ -3,7 +3,14 @@ panan
 
 "ocean_daily", 1, "days", 1, "hours", "time"
 "ocean_3d_5daily", 5, "days", 1, "hours", "time"
+"ocean_static", -1, "days", 1, "days", "time"
+"ocean_thickness", -1, "days", 1, "days", "time"
 "ice_daily", 1, "days", 1, "hours", "time"
+
+"ocean_model", "area_t", "area_t", "ocean_static", "all", "none", "none", 2
+"ocean_model", "depth_ocean", "depth_ocean", "ocean_static", "all", "none", "none", 2
+
+"ocean_model", "h", "h", "ocean_thickness", "all", "mean", "none", 2
 
 "ocean_model", "zos", "zos", "ocean_daily", "all", "mean", "none", 2
 "ocean_model", "tos", "tos", "ocean_daily", "all", "mean", "none", 2
@@ -14,7 +21,10 @@ panan
 
 "ocean_model", "u", "u", "ocean_3d_5daily", "all", "mean", "none", 2
 "ocean_model", "v", "v", "ocean_3d_5daily", "all", "mean", "none", 2
+"ocean_model", "temp", "temp", "ocean_3d_5daily", "all", "mean", "none", 2
+"ocean_model", "salt", "salt", "ocean_3d_5daily", "all", "mean", "none", 2
 "ocean_model", "rhopot2", "rhopot2", "ocean_3d_5daily", "all", "mean", "none", 2
+
 "ocean_model_rho2", "umo", "umo", "ocean_3d_5daily", "all", "mean", "none", 2
 "ocean_model_rho2", "vmo", "vmo", "ocean_3d_5daily", "all", "mean", "none", 2
 "ocean_model_rho2", "h", "hmo", "ocean_3d_5daily", "all", "mean", "none", 2
