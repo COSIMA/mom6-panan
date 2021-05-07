@@ -53,7 +53,7 @@ INPUTDIR = "INPUT"
 GRID_CONFIG = "mosaic"
 GRID_FILE = "ocean_hgrid_0025.nc"
 TOPO_CONFIG = "file"
-TOPO_FILE = "ocean_topog.nc"
+TOPO_FILE = "ocean_topog_masked.nc"
 
 MINIMUM_DEPTH = 9.5
 MAXIMUM_DEPTH = 6000.0
