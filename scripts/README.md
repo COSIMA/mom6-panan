@@ -94,3 +94,29 @@ To generate the time-dependent velocity sponging, we use
 the OBC forcing. As the script names suggest, these use the
 lower-level netCDF4 library to generate the sponge files, as they can
 be quite large.
+
+
+# Input modification scripts
+
+With some experience of actually running the model under our belts,
+some issues with the input files have cropped up, particularly in the
+topography which was interpolated up from a lower resolution. There
+are a couple of scripts to tweak this interpolated topography without
+requiring it to be fully regenerated.
+
+## Filling basins
+
+There were a few small basins that played no role by being a single
+point, or connected by a channel one-cell wide. Upon interpolation,
+these got doubled in size, and started causing problems. The
+`fill_topog.py` script takes a list of points within any basins that
+should be filled, and flood-fills them in.
+
+## Smoothing coastlines
+
+Some coastlines from the original topography are very long and
+horizontal. With the interpolation, these stretches are separated by a
+two-point jump, and seem to excessively accelerate velocities, leading
+to a seasonal cycle of excessive CFL. As an attempt to fix this, we
+can specify a section of coastline with `smooth_coasts.py`, which will
+create an intermediate step between the two-point jumps.
