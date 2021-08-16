@@ -14,14 +14,14 @@ ICE_STATS_INTERVAL = 0.25
 
 NIGLOBAL = 7200
 NJGLOBAL = 1690
-LAYOUT = 120,28
-MASKTABLE = "masks/mask_table.791.120x28"
+LAYOUT = 144,34
+MASKTABLE = "masks/mask_table.1181.144x34"
 
 GRID_CONFIG = "mosaic"
 GRID_FILE = "ocean_hgrid_0025.nc"
 INPUTDIR = "INPUT"
 
-TOPO_FILE = "ocean_topog.nc"
+TOPO_FILE = "ocean_topog_filled.nc"
 
 MAXIMUM_DEPTH = 6000.0
 

@@ -38,10 +38,10 @@ WRITE_GEOM = 0
 NIGLOBAL = 7200
 NJGLOBAL = 1690
 
-LAYOUT = 120,28
+LAYOUT = 144,34
 IO_LAYOUT = 1,1
 
-MASKTABLE = "masks/mask_table.791.120x28"
+MASKTABLE = "masks/mask_table.1181.144x34"
 
 ! === module MOM_verticalGrid ===
 NK = 75
@@ -53,7 +53,7 @@ INPUTDIR = "INPUT"
 GRID_CONFIG = "mosaic"
 GRID_FILE = "ocean_hgrid_0025.nc"
 TOPO_CONFIG = "file"
-TOPO_FILE = "ocean_topog_masked.nc"
+TOPO_FILE = "ocean_topog_filled.nc"
 
 MINIMUM_DEPTH = 9.5
 MAXIMUM_DEPTH = 6000.0
@@ -264,7 +264,7 @@ CHECK_DIFFUSIVE_CFL = True
 ! === module ocean_model_init ===
 ! time between saves of energies and other global
 ! integrals
-TIMEUNIT = 3600
+TIMEUNIT = 86400
 ENERGYSAVEDAYS = 1.0
 
 ! === module MOM_surface_forcing ===
@@ -284,7 +284,7 @@ REPORT_UNUSED_PARAMS = True
 
 NUM_DIAG_COORDS = 2
 DIAG_COORDS = "z Z ZSTAR", "rho2 RHO2 RHO"
-DIAG_COORD_DEF_Z = "FILE:diag_lev.nc,dz"
+DIAG_COORD_DEF_Z = "FILE:vcoord.nc,interfaces=st_edges_ocean"
 ! drho (arg 5) is a bit magic and has a big impact on
 ! the tail of the coord...
 DIAG_COORD_DEF_RHO2 = "RFNC1:70,999.5,1028,1028.5,7.,1037.7,0.0078125"
