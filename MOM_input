@@ -284,7 +284,7 @@ REPORT_UNUSED_PARAMS = True
 
 NUM_DIAG_COORDS = 2
 DIAG_COORDS = "z Z ZSTAR", "rho2 RHO2 RHO"
-DIAG_COORD_DEF_Z = "FILE:diag_lev.nc,dz"
+DIAG_COORD_DEF_Z = "FILE:vcoord.nc,interfaces=st_edges_ocean"
 ! drho (arg 5) is a bit magic and has a big impact on
 ! the tail of the coord...
 DIAG_COORD_DEF_RHO2 = "RFNC1:70,999.5,1028,1028.5,7.,1037.7,0.0078125"
