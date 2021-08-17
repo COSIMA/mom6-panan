@@ -55,6 +55,11 @@ panan
 # Net surface water flux (precip+melt+lrunoff+ice calving-evap)
 "ocean_model",  "wfo",          "wfo",              "ocean_month",        "all", "mean", "none",2
 
+# Adding ocean_model output to see hybrid coord
+"ocean_model","u",       "u",              "ocean_month",   "all", "mean", "none",2
+"ocean_model","v",       "v",              "ocean_month",   "all", "mean", "none",2
+"ocean_model", "h",        "h",              "ocean_month",   "all", "mean", "none", 2
+
 # Surface area of tracer (T) cells
 "ocean_model", "areacello",   "areacello",   "ocean_static", "all", "none", "none", 2
 # Depth of the ocean at tracer points
