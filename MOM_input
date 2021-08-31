@@ -7,7 +7,7 @@ THICKNESSDIFFUSE = False
 ! do thickness diffusion before dynamics
 THICKNESSDIFFUSE_FIRST = True
 ! baroclinic timestep
-#DT = 450.0
+!DT = 450.0
 DT = 360.0
 
 ! thermodynamic and tracer advection timestep
@@ -283,6 +283,6 @@ DIAG_COORDS = "z Z ZSTAR", "rho2 RHO2 RHO"
 DIAG_COORD_DEF_Z = "FILE:vcoord.nc,interfaces=st_edges_ocean"
 ! drho (arg 5) is a bit magic and has a big impact on
 ! the tail of the coord...
-DIAG_COORD_DEF_RHO2 = "RFNC1:70,999.5,1033,1033.5,7.,1037.7,0.0078125"
+DIAG_COORD_DEF_RHO2 = "RFNC1:70,999.5,1033,1033.7,3.,1037.7,0.0078125"
 
 BAD_VAL_SST_MIN = -3.0
