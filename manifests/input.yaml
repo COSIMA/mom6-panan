@@ -146,6 +146,11 @@ work/INPUT/masks/mask_table.1083.125x36:
   hashes:
     binhash: 2826f9a682c5ec8ec31a0f9b6d80a893
     md5: 29f29b41a54b8a27a109b4de4380393b
+work/INPUT/masks/mask_table.1145.144x33:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.1145.144x33
+  hashes:
+    binhash: fc530df7a40851f9c80bf6c35a9f8648
+    md5: 05577d3feeb010074d2095f050d99aa4
 work/INPUT/masks/mask_table.1181.144x34:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.1181.144x34
   hashes:
@@ -181,6 +186,11 @@ work/INPUT/masks/mask_table.3375.240x56:
   hashes:
     binhash: e68e839e2a63fe1620c14fd5e5614a4b
     md5: 9ae56b802b52adda8f5299d5664fe0a2
+work/INPUT/masks/mask_table.428.90x21:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.428.90x21
+  hashes:
+    binhash: d83f7ba6cba887cd8b8c75887ba11da6
+    md5: 3b5631e3e8b782ed665b3ffe4ad80079
 work/INPUT/masks/mask_table.455.80x25:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.455.80x25
   hashes:
