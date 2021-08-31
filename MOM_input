@@ -75,23 +75,19 @@ OBC_TRACER_RESERVOIR_LENGTH_SCALE_OUT = 30000
 OBC_TRACER_RESERVOIR_LENGTH_SCALE_IN = 3000
 
 ! sponges
-SPONGE = False
+SPONGE = True
 SPONGE_CONFIG = "file"
-SPONGE_DAMPING_FILE = "sponges/idamp_1deg_1h_linear.nc"
+SPONGE_DAMPING_FILE = "sponges/idamp_1deg_10d_linear.nc"
 SPONGE_STATE_FILE = "sponge_uvts.nc"
 SPONGE_IDAMP_VAR = "Idamp"
-! if we're using separate or velocity-only damping?
-! SPONGE_IDAMP_U_var = "Idamp_u"
-! SPONGE_IDAMP_V_var = "Idamp_v"
-! we have disabled reading tracers anyway
 SPONGE_PTEMP_VAR = "t"
 SPONGE_SALT_VAR = "s"
 ! gives the vertical grid for the sponge data
 SPONGE_ETA_VAR = "eta"
-SPONGE_U_VAR = "u"
-SPONGE_V_VAR = "v"
-! specifically sponge velocities
-SPONGE_UV = True
+!SPONGE_U_VAR = "u"
+!SPONGE_V_VAR = "v"
+! specifically DO NOT sponge velocities
+SPONGE_UV = False
 
 ! for OBC-forced sponge:
 !SPONGE_ETA_VAR = "uv_thickness"
