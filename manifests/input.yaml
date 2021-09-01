@@ -146,6 +146,11 @@ work/INPUT/masks/mask_table.1083.125x36:
   hashes:
     binhash: 2826f9a682c5ec8ec31a0f9b6d80a893
     md5: 29f29b41a54b8a27a109b4de4380393b
+work/INPUT/masks/mask_table.1145.144x33:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.1145.144x33
+  hashes:
+    binhash: fc530df7a40851f9c80bf6c35a9f8648
+    md5: 05577d3feeb010074d2095f050d99aa4
 work/INPUT/masks/mask_table.1181.144x34:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.1181.144x34
   hashes:
@@ -181,6 +186,11 @@ work/INPUT/masks/mask_table.3375.240x56:
   hashes:
     binhash: e68e839e2a63fe1620c14fd5e5614a4b
     md5: 9ae56b802b52adda8f5299d5664fe0a2
+work/INPUT/masks/mask_table.428.90x21:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.428.90x21
+  hashes:
+    binhash: d83f7ba6cba887cd8b8c75887ba11da6
+    md5: 3b5631e3e8b782ed665b3ffe4ad80079
 work/INPUT/masks/mask_table.455.80x25:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.455.80x25
   hashes:
@@ -281,11 +291,21 @@ work/INPUT/sponge_uvts.nc:
   hashes:
     binhash: 2f8a00e2fcacc8b43c560fb4505fb74b
     md5: a2894a9f214c553e17eb720ecb4a7cd1
+work/INPUT/sponges/idamp_1deg_10d_linear.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/sponges/idamp_1deg_10d_linear.nc
+  hashes:
+    binhash: df7e26409e8e9db164e233f9fa65c335
+    md5: 77c429b3690e918c0f66a1b87b8daf63
 work/INPUT/sponges/idamp_1deg_1d.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/sponges/idamp_1deg_1d.nc
   hashes:
     binhash: 4d5be2b1c561a27053038022ef8854a7
     md5: e55ceac60f26b626283e74fc5e9324e7
+work/INPUT/sponges/idamp_1deg_1d_linear.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/sponges/idamp_1deg_1d_linear.nc
+  hashes:
+    binhash: b903a3352dbb4bbb9d81b834e27d529e
+    md5: cfc5a8b00c4b6255030d0a41906a16fd
 work/INPUT/sponges/idamp_1deg_1h.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/sponges/idamp_1deg_1h.nc
   hashes:

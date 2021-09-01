@@ -75,23 +75,17 @@ OBC_TRACER_RESERVOIR_LENGTH_SCALE_OUT = 30000
 OBC_TRACER_RESERVOIR_LENGTH_SCALE_IN = 3000
 
 ! sponges
-SPONGE = False
+SPONGE = True
 SPONGE_CONFIG = "file"
-SPONGE_DAMPING_FILE = "sponges/idamp_1deg_1h_linear.nc"
+SPONGE_DAMPING_FILE = "sponges/idamp_1deg_10d_linear.nc"
 SPONGE_STATE_FILE = "sponge_uvts.nc"
 SPONGE_IDAMP_VAR = "Idamp"
-! if we're using separate or velocity-only damping?
-! SPONGE_IDAMP_U_var = "Idamp_u"
-! SPONGE_IDAMP_V_var = "Idamp_v"
-! we have disabled reading tracers anyway
 SPONGE_PTEMP_VAR = "t"
 SPONGE_SALT_VAR = "s"
 ! gives the vertical grid for the sponge data
 SPONGE_ETA_VAR = "eta"
-SPONGE_U_VAR = "u"
-SPONGE_V_VAR = "v"
 ! specifically sponge velocities
-SPONGE_UV = True
+SPONGE_UV = False
 
 ! for OBC-forced sponge:
 !SPONGE_ETA_VAR = "uv_thickness"
@@ -287,6 +281,6 @@ DIAG_COORDS = "z Z ZSTAR", "rho2 RHO2 RHO"
 DIAG_COORD_DEF_Z = "FILE:vcoord.nc,interfaces=st_edges_ocean"
 ! drho (arg 5) is a bit magic and has a big impact on
 ! the tail of the coord...
-DIAG_COORD_DEF_RHO2 = "RFNC1:70,999.5,1028,1028.5,7.,1037.7,0.0078125"
+DIAG_COORD_DEF_RHO2 = "RFNC1:70,999.5,1033,1033.7,3.,1037.7,0.0078125"
 
 BAD_VAL_SST_MIN = -3.0

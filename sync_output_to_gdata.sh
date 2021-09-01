@@ -10,10 +10,13 @@
 # Set this directory to something in /g/data3/hh5/tmp/cosima/
 # Make a unique path for your set of runs.
 # DOUBLE-CHECK IT IS UNIQUE SO YOU DON'T OVERWRITE EXISTING OUTPUT!
-GDATADIR=/g/data/x77/amh157/PanAnt/archive/panant-v2
+GDATADIR=/g/data/x77/amh157/PanAnt/archive/panant-v3
 
 mkdir -p ${GDATADIR}
 cd archive
 rsync -vrltoD --safe-links output* ${GDATADIR}
 rsync -vrltoD --safe-links error_logs ${GDATADIR}
 rsync -vrltoD --safe-links pbs_logs ${GDATADIR}
+
+# Be careful here!
+#rsync -vrltoD --safe-links restart* ${GDATADIR}
