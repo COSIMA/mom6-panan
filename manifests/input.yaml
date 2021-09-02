@@ -221,6 +221,16 @@ work/INPUT/masks/mask_table.956.125x32:
   hashes:
     binhash: a08e47b0c64055a49da95e1240a188fe
     md5: 3a156b85257ab516397afceead8bf241
+work/INPUT/ncap2_tmp_dmm.nc.pid657401:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/ncap2_tmp_dmm.nc.pid657401
+  hashes:
+    binhash: 7cde42905c68c14b8f62a710c3c20308
+    md5: eeb1b7b6d06482f7d6380285a7c9464d
+work/INPUT/ncap2_tmp_dmm.nc.pid659987:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/ncap2_tmp_dmm.nc.pid659987
+  hashes:
+    binhash: 246e86cdd63ac97accfa4e33a909cd5e
+    md5: eeb1b7b6d06482f7d6380285a7c9464d
 work/INPUT/obc_vertical.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/obc_vertical.nc
   hashes:
@@ -289,7 +299,12 @@ work/INPUT/sponge_uv.nc:
 work/INPUT/sponge_uvts.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/sponge_uvts.nc
   hashes:
-    binhash: 2f8a00e2fcacc8b43c560fb4505fb74b
+    binhash: f771e276cbaae1741fedcc4a09f79be1
+    md5: 51b333751110b5c41b41c89924dfbeed
+work/INPUT/sponge_uvts.nc.bak:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/sponge_uvts.nc.bak
+  hashes:
+    binhash: 5c9791359cf8e5c32f42f28158962c5f
     md5: a2894a9f214c553e17eb720ecb4a7cd1
 work/INPUT/sponges/idamp_1deg_10d_linear.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/sponges/idamp_1deg_10d_linear.nc
