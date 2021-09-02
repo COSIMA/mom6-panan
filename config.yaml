@@ -1,6 +1,6 @@
 project: x77
 queue: normal
-walltime: 03:30:00
+walltime: 04:30:00
 jobname: mom6_panan
 ncpus: 3715
 jobfs: 10GB
