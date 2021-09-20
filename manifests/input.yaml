@@ -152,11 +152,161 @@ work/INPUT/RYF.licalvf.1990_1991.OM4_025.nc:
   hashes:
     binhash: 78a5d8bb21e2b4964f9d67ac6977278a
     md5: 2cd93eaa2eb6d6a835040c553a5b00e1
+work/INPUT/RYF.q_10.1984_1985.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.q_10.1984_1985.nc
+  hashes:
+    binhash: a432e60dba8ab1e48c131dd33dc313c7
+    md5: 094907fe5509f8c6d07d7072a3099c77
+work/INPUT/RYF.q_10.1990_1991.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.q_10.1990_1991.nc
+  hashes:
+    binhash: b465b59faf27f197fef8aeaa92d5c51d
+    md5: 2aa040c5f4639003dbc4f019c445bf33
+work/INPUT/RYF.q_10.2003_2004.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.q_10.2003_2004.nc
+  hashes:
+    binhash: 594a66d1d956bef3f0e162e17ae0fd2e
+    md5: 53064f44de424f2bcf0c1987c0c94938
+work/INPUT/RYF.rain.1984_1985.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rain.1984_1985.nc
+  hashes:
+    binhash: 382cda23802a351761b465c148477926
+    md5: b5e75395fda05e26932f50ec3dd31a61
+work/INPUT/RYF.rain.1990_1991.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rain.1990_1991.nc
+  hashes:
+    binhash: 2430fbcc2b921011d1a39048b5028ae6
+    md5: 98a063f5f9326645f41498e2a4282c0b
+work/INPUT/RYF.rain.2003_2004.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rain.2003_2004.nc
+  hashes:
+    binhash: e73609c598ff4b6911a9feaeefef53c0
+    md5: 94fb0e7c2319e266bade29cf559df3e8
+work/INPUT/RYF.rlds.1984_1985.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rlds.1984_1985.nc
+  hashes:
+    binhash: 733a3d8e1275b56c959a0fc2b26ce07b
+    md5: 0dfb74c54f26fb203a9fa5cb85d18e9f
+work/INPUT/RYF.rlds.1990_1991.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rlds.1990_1991.nc
+  hashes:
+    binhash: e9f4cc5013dd86bdf70a0c5a9b6221be
+    md5: b1fb56a065c06a9488c7534c0a6fefbe
+work/INPUT/RYF.rlds.2003_2004.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rlds.2003_2004.nc
+  hashes:
+    binhash: 88c701ae867bbf3917b3af42f62efa50
+    md5: 76e690c42146325bb566c994c1ec3910
+work/INPUT/RYF.rsds.1984_1985.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rsds.1984_1985.nc
+  hashes:
+    binhash: f878baf1d647e850980a458a61c7f30c
+    md5: 47715b42745c016a3f363def133fa0a0
+work/INPUT/RYF.rsds.1990_1991.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rsds.1990_1991.nc
+  hashes:
+    binhash: c9c12cbef0ada0d29fe1f864e526f65c
+    md5: 2d4cb0f10338dc090880233564dd5f4a
+work/INPUT/RYF.rsds.2003_2004.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rsds.2003_2004.nc
+  hashes:
+    binhash: 04e45f06ae49a8555ce41536917f5468
+    md5: 3abda0630790f98d6459f7224d14614d
+work/INPUT/RYF.runoff_all.1984_1985.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.runoff_all.1984_1985.nc
+  hashes:
+    binhash: 21eeac4e8ed834b19e89ec371bd69ac7
+    md5: 6a88bf00cef5f7902d872a45dcea44d4
+work/INPUT/RYF.runoff_all.1990_1991.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.runoff_all.1990_1991.nc
+  hashes:
+    binhash: bc61cc1bace24811cda860684deeb586
+    md5: 7ce1f8aee9e06611936c2bdf3b69f3f0
 work/INPUT/RYF.runoff_all.1990_1991.panan01.nc:
   fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/RYF.runoff_all.1990_1991.panan01.nc
   hashes:
     binhash: ee8636a0d67330ff97e000b6a6aa738c
     md5: 35211a12c7c1a338542ae8fc92ae941b
+work/INPUT/RYF.runoff_all.2003_2004.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.runoff_all.2003_2004.nc
+  hashes:
+    binhash: ff1c44868909d40d611912a98c0a8f43
+    md5: 55c0ccf8f5e006ce18e221404e19eb65
+work/INPUT/RYF.slp.1984_1985.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.slp.1984_1985.nc
+  hashes:
+    binhash: f7fa74b0b045d450a9ad128052fd9ab4
+    md5: 58a44a44ccd93e10ae9de26ee70d1f45
+work/INPUT/RYF.slp.1990_1991.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.slp.1990_1991.nc
+  hashes:
+    binhash: 784be894a5b4a29fcb9e2cb4b7d987bd
+    md5: d1e10cceb1dd42c298d73b46c2fbf511
+work/INPUT/RYF.slp.2003_2004.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.slp.2003_2004.nc
+  hashes:
+    binhash: 07c5426033ae02d657f71b1d4189cdfa
+    md5: 3c08ed89da9936446e055d4b9b3f3306
+work/INPUT/RYF.snow.1984_1985.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.snow.1984_1985.nc
+  hashes:
+    binhash: 8d768c3ddb11a6401f5800bbaf238894
+    md5: 5eb6f11e1163689e6c668dc608f73c71
+work/INPUT/RYF.snow.1990_1991.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.snow.1990_1991.nc
+  hashes:
+    binhash: 8b982abddf374d5721f923808a0c9608
+    md5: 38a51a0d5a6897206ae91ea05f1998d5
+work/INPUT/RYF.snow.2003_2004.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.snow.2003_2004.nc
+  hashes:
+    binhash: f255713078b6a147eae255ef1e585be5
+    md5: f6d9d2709c363a7ffb10158af091cf41
+work/INPUT/RYF.t_10.1984_1985.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.t_10.1984_1985.nc
+  hashes:
+    binhash: 42e26f64a121112ffff5a6d27c8f58b1
+    md5: ef99e4dc7912142cd26b9c67fdc49161
+work/INPUT/RYF.t_10.1990_1991.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.t_10.1990_1991.nc
+  hashes:
+    binhash: f0845bf87748e4e494e1025ddece3a5d
+    md5: f4dbd5d509a3c3479df66ae398310ace
+work/INPUT/RYF.t_10.2003_2004.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.t_10.2003_2004.nc
+  hashes:
+    binhash: df848da85ec34a7570b23924adb9af6b
+    md5: 5c752aa45a8038dc025acd272bafa25a
+work/INPUT/RYF.u_10.1984_1985.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.u_10.1984_1985.nc
+  hashes:
+    binhash: 804eff5c700555da834b968dec9243b6
+    md5: ff6e32522eeddd775da71cb19858247e
+work/INPUT/RYF.u_10.1990_1991.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.u_10.1990_1991.nc
+  hashes:
+    binhash: b373e1ab54ef89a5ec478d793d8e8482
+    md5: 99a3975202c1db658b0e69ab134c5263
+work/INPUT/RYF.u_10.2003_2004.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.u_10.2003_2004.nc
+  hashes:
+    binhash: 0eaf67a40aead945600800f13bc982bd
+    md5: b815c0882971859b190151dafb5cce8f
+work/INPUT/RYF.v_10.1984_1985.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.v_10.1984_1985.nc
+  hashes:
+    binhash: 22dcb8943225207908a807b4a50d8312
+    md5: a48f2c7efd11e328ac246f4c22adad21
+work/INPUT/RYF.v_10.1990_1991.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.v_10.1990_1991.nc
+  hashes:
+    binhash: f1aa09e46060cec9e6d0b845564bef71
+    md5: 88f10317d163542a6d1b6d21686c89a9
+work/INPUT/RYF.v_10.2003_2004.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.v_10.2003_2004.nc
+  hashes:
+    binhash: d4ab1c739180d9653a51954ddee0767e
+    md5: 4e93d297b872db1fc14665048b6a5e1c
 work/INPUT/Regrid runoff data.ipynb:
   fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/Regrid runoff data.ipynb
   hashes:
