@@ -1,0 +1,269 @@
+format: yamanifest
+version: 1.0
+---
+work/INPUT/.git/HEAD:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/HEAD
+  hashes:
+    binhash: 95721451bc000aaf74c1c849573211e5
+    md5: 4cf2d64e44205fe628ddd534e1151b58
+work/INPUT/.git/config:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/config
+  hashes:
+    binhash: fd19bdfe79a1c7b35bbabb7960d5921d
+    md5: d8d53cf221b4f7d13d2a9bbee50be99a
+work/INPUT/.git/description:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/description
+  hashes:
+    binhash: d5b0b0171cdcacfae8ea2e54af8069cb
+    md5: a0a7c3fff21f2aea3cfa1d0316dd816c
+work/INPUT/.git/hooks/applypatch-msg.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/applypatch-msg.sample
+  hashes:
+    binhash: 883d5dbce7f7734f905441bdaebb2466
+    md5: ce562e08d8098926a3862fc6e7905199
+work/INPUT/.git/hooks/commit-msg.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/commit-msg.sample
+  hashes:
+    binhash: bc06148444eb09d6191e8522381472e2
+    md5: 579a3c1e12a1e74a98169175fb913012
+work/INPUT/.git/hooks/fsmonitor-watchman.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/fsmonitor-watchman.sample
+  hashes:
+    binhash: 17cebee491466b33fee6dc26cda30bc2
+    md5: ea587b0fae70333bce92257152996e70
+work/INPUT/.git/hooks/post-update.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/post-update.sample
+  hashes:
+    binhash: d0f9371e8f37d0fb051283946e26df96
+    md5: 2b7ea5cee3c49ff53d41e00785eb974c
+work/INPUT/.git/hooks/pre-applypatch.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/pre-applypatch.sample
+  hashes:
+    binhash: 68b5e93a185935f01c486e76d445f82d
+    md5: 054f9ffb8bfe04a599751cc757226dda
+work/INPUT/.git/hooks/pre-commit.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/pre-commit.sample
+  hashes:
+    binhash: 301f60cdc40644f2b03a6482d89e4023
+    md5: 305eadbbcd6f6d2567e033ad12aabbc4
+work/INPUT/.git/hooks/pre-merge-commit.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/pre-merge-commit.sample
+  hashes:
+    binhash: 8bb9ed9cd006429842640c8977eccbc0
+    md5: 39cb268e2a85d436b9eb6f47614c3cbc
+work/INPUT/.git/hooks/pre-push.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/pre-push.sample
+  hashes:
+    binhash: f612329fe23ce199cf190acfc4a313d1
+    md5: 2c642152299a94e05ea26eae11993b13
+work/INPUT/.git/hooks/pre-rebase.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/pre-rebase.sample
+  hashes:
+    binhash: 3e5307877013c37d26ccc32a9bd0458a
+    md5: f4f15211d835b40272bf02b2a3ab609d
+work/INPUT/.git/hooks/pre-receive.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/pre-receive.sample
+  hashes:
+    binhash: 0db701d77a6cc8b12da55a6084ff4566
+    md5: 2ad18ec82c20af7b5926ed9cea6aeedd
+work/INPUT/.git/hooks/prepare-commit-msg.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/prepare-commit-msg.sample
+  hashes:
+    binhash: f5c78b722ce904fe4107e26083b94d87
+    md5: 52d621c197777800cb27c3c7e53da0b0
+work/INPUT/.git/hooks/push-to-checkout.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/push-to-checkout.sample
+  hashes:
+    binhash: 467b87912f85cb67db9e2a524defb985
+    md5: c7ab00c7784efeadad3ae9b228d4b4db
+work/INPUT/.git/hooks/update.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/update.sample
+  hashes:
+    binhash: 9d7868bd6c4e35602c40db798ea5edc7
+    md5: 647ae13c682f7827c22f5fc08a03674e
+work/INPUT/.git/index:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/index
+  hashes:
+    binhash: f62bd7c59e44bf5ddb17350079b60a03
+    md5: 5b926f15f96be57958ba8feb2d50420e
+work/INPUT/.git/info/exclude:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/info/exclude
+  hashes:
+    binhash: cbc3d19d15bbccf607397909e22acdf4
+    md5: 036208b4a1ab4a235d75c181e685e5a3
+work/INPUT/.git/logs/HEAD:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/logs/HEAD
+  hashes:
+    binhash: 6914b094c2570b8300ad84055420c670
+    md5: 089b1a7ab4060dac1c47f9e6e6736e3a
+work/INPUT/.git/logs/refs/heads/master:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/logs/refs/heads/master
+  hashes:
+    binhash: eb197a093e526d9ec80b4dcaed79fed7
+    md5: 089b1a7ab4060dac1c47f9e6e6736e3a
+work/INPUT/.git/logs/refs/remotes/origin/HEAD:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/logs/refs/remotes/origin/HEAD
+  hashes:
+    binhash: 6914b094c2570b8300ad84055420c670
+    md5: 089b1a7ab4060dac1c47f9e6e6736e3a
+work/INPUT/.git/objects/pack/pack-c5103e9f11db47ec51826c975e4b2d93898b7bd4.idx:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/objects/pack/pack-c5103e9f11db47ec51826c975e4b2d93898b7bd4.idx
+  hashes:
+    binhash: 46c6866da9f9beda9662b3d21321ac0e
+    md5: c80173fb738eb53c5ae1e881d7302e9d
+work/INPUT/.git/objects/pack/pack-c5103e9f11db47ec51826c975e4b2d93898b7bd4.pack:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/objects/pack/pack-c5103e9f11db47ec51826c975e4b2d93898b7bd4.pack
+  hashes:
+    binhash: 63921b6c5dab4c2bd1bba715d4425fe9
+    md5: b8a76753c88d8699e4a8f93a9ab81229
+work/INPUT/.git/packed-refs:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/packed-refs
+  hashes:
+    binhash: afe13645cc8f3df695ed733b7e4bc9dd
+    md5: b2681ff1924a577cb29bfd5898a93bb9
+work/INPUT/.git/refs/heads/master:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/refs/heads/master
+  hashes:
+    binhash: 224afc18e5dd10619c1f627fdf4cad64
+    md5: 0d0e515465061f59d800366940a7074f
+work/INPUT/.git/refs/remotes/origin/HEAD:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/refs/remotes/origin/HEAD
+  hashes:
+    binhash: 91f8ecd8f05619ee6e3160e37cb305bb
+    md5: 73a00957034783b7b5c8294c54cd3e12
+work/INPUT/.ipynb_checkpoints/Regrid runoff data-checkpoint.ipynb:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.ipynb_checkpoints/Regrid runoff
+    data-checkpoint.ipynb
+  hashes:
+    binhash: 7685e8512c342440acadebe75ad71b70
+    md5: 69c66e4762947b1ffa29b85ad847932f
+work/INPUT/README.md:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/README.md
+  hashes:
+    binhash: fe2da061ea1482891fb0b0f05418c14c
+    md5: e3436530e7c288f54cc5418516a97c0c
+work/INPUT/RYF.friver.1990_1991.OM4_025.nc:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/RYF.friver.1990_1991.OM4_025.nc
+  hashes:
+    binhash: b81066a9cb6c3db3b8d7974392ff5427
+    md5: 312747756aeee242d90e50ada209122b
+work/INPUT/RYF.licalvf.1990_1991.OM4_025.nc:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/RYF.licalvf.1990_1991.OM4_025.nc
+  hashes:
+    binhash: 78a5d8bb21e2b4964f9d67ac6977278a
+    md5: 2cd93eaa2eb6d6a835040c553a5b00e1
+work/INPUT/RYF.runoff_all.1990_1991.panan01.nc:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/RYF.runoff_all.1990_1991.panan01.nc
+  hashes:
+    binhash: ee8636a0d67330ff97e000b6a6aa738c
+    md5: 35211a12c7c1a338542ae8fc92ae941b
+work/INPUT/Regrid runoff data.ipynb:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/Regrid runoff data.ipynb
+  hashes:
+    binhash: fcc10fef354130ca545795c5014426f2
+    md5: 78f05654fc0aa490324f2c2e97f07f6c
+work/INPUT/atmos_mosaic_tile1Xland_mosaic_tile1.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/atmos_mosaic_tile1Xland_mosaic_tile1.nc
+  hashes:
+    binhash: 7a699c995c4b11d2c2becfa88941efb3
+    md5: e75f3f372b8da1c51e6ebfe472491615
+work/INPUT/atmos_mosaic_tile1Xocean_mosaic_tile1.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/atmos_mosaic_tile1Xocean_mosaic_tile1.nc
+  hashes:
+    binhash: 872da8417ebb69d5b2d6449a8542137b
+    md5: e7f22aa6bd7df03b7dc8794675d47215
+work/INPUT/forcing/forcing_obc.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/forcing/forcing_obc.nc
+  hashes:
+    binhash: b17484497e437608a33eab70a0483bf7
+    md5: 0f90ece1f7d98347779369c5408b779c
+work/INPUT/forcing/forcing_obc_shifted.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/forcing/forcing_obc_shifted.nc
+  hashes:
+    binhash: 5b0d1e58bbae2c22156e462e4f0c10ae
+    md5: 33fd9c0950d4f27066c3a44e2bf35599
+work/INPUT/forcing/temp_salt_init_z.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/forcing/temp_salt_init_z.nc
+  hashes:
+    binhash: b9e9d5ebbb183c39e4036a1b8774b672
+    md5: 15b78def5d1f2d5f5ce2de80ea200352
+work/INPUT/forcing/temp_salt_init_z_0025.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/forcing/temp_salt_init_z_0025.nc
+  hashes:
+    binhash: 2b15415b797e2f8f765038a5d2247a53
+    md5: 24088e849324198e8bc02c848eb57098
+work/INPUT/grid_spec.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/grid_spec.nc
+  hashes:
+    binhash: 05806c52f95b128b271f568a8f42732d
+    md5: fc66a49b8ae7fb12c3ee5f0a0cae7ae9
+work/INPUT/land_mask.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/land_mask.nc
+  hashes:
+    binhash: e3f4780b897dc8e9c7a2ff810bad1812
+    md5: 5262ad0971be37491a80929e0dbcfc14
+work/INPUT/land_mosaic_tile1Xocean_mosaic_tile1.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/land_mosaic_tile1Xocean_mosaic_tile1.nc
+  hashes:
+    binhash: 4cf32241ec078b6c5c583bc910d81915
+    md5: 884abd9e8b822c32203e7413f76ce063
+work/INPUT/masks/mask_table.262.72x17:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/masks/mask_table.262.72x17
+  hashes:
+    binhash: 05824265d788ea82a98b3b2d60238be0
+    md5: 42db5287a23f3105c1e917d60136106b
+work/INPUT/ocean_hgrid.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/ocean_hgrid.nc
+  hashes:
+    binhash: 74f7cfc0e9f524e67cf6f878732923b1
+    md5: b2b541d3fc0ca9a167a6d467e8e2450c
+work/INPUT/ocean_mask.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/ocean_mask.nc
+  hashes:
+    binhash: e196a39fd1a45420f617f7521413b42e
+    md5: 10bea35746097915f0317be62abbf61f
+work/INPUT/ocean_mosaic.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/ocean_mosaic.nc
+  hashes:
+    binhash: 211e52737c82520648db1ddd51435f82
+    md5: b353a4114198ab8982b5c1cee33a69b6
+work/INPUT/ocean_topog.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/ocean_topog.nc
+  hashes:
+    binhash: 601a949009e5f1b705ebbde4427982a2
+    md5: 7987fa845db4b0efaa2b20eac716fe72
+work/INPUT/pickle.regrid_runoff_A:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/pickle.regrid_runoff_A
+  hashes:
+    binhash: af6cfd067d2826386d76e12943f93fbd
+    md5: 043f6deb7ead059fbf6b4ea3ce5edc36
+work/INPUT/regrid_runoff.py:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/regrid_runoff.py
+  hashes:
+    binhash: e3b8e72d40909e7386b1c68e6c778214
+    md5: 80a1a9074062557be4875201e89d7e93
+work/INPUT/sponges/idamp_1deg_10d_linear.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/sponges/idamp_1deg_10d_linear.nc
+  hashes:
+    binhash: c294175e2de238ac850838bfac559923
+    md5: 641cf57844fd8117681f8635dada106d
+work/INPUT/sponges/sponge_uvts.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/sponges/sponge_uvts.nc
+  hashes:
+    binhash: e5f9fd642d8ee1238017bb571a420d86
+    md5: fbe68772cdd71ff4be93b632d3a8f53f
+work/INPUT/test/Makefile:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/test/Makefile
+  hashes:
+    binhash: 4b96a2a2d6547dc4d03795436e50e530
+    md5: 609bd8c774a3560f2e4d0e68c88ac8cf
+work/INPUT/test/check.md5:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/test/check.md5
+  hashes:
+    binhash: 2610a6f6ca431a9ab1b1905288deb918
+    md5: 465998efe8ed8a7d7f9867897b903d40
+work/INPUT/vcoord.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/vcoord.nc
+  hashes:
+    binhash: d16decda9642a3378c92b76dd1d07cf7
+    md5: 667cfc4be085364b8544f84a34d16a00
