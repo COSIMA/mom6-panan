@@ -1,18 +1,20 @@
 project: x77
 queue: normal
-walltime: 04:30:00
-jobname: mom6_panan
-ncpus: 3715
+walltime: 02:00:00
+jobname: mom6_panan_01
+ncpus: 962
 jobfs: 10GB
 
 shortpath: /scratch/x77
 
 model: mom6
-input: /g/data/x77/ahg157/inputs/mom6/panan/
+input:
+    - /g/data/x77/ahg157/inputs/mom6/panan-01/
+    - /g/data/ik11/inputs/mom6/regrid_runoff/
 exe: /scratch/x77/ahg157/mom6/bin/MOM6-panan
 
 collate: false
-runlog: true
+#runlog: true
 storage:
   gdata:
     - ua8

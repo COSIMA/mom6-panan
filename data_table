@@ -13,7 +13,7 @@
 "ICE", "sw_flux_nir_dif_dn", "rsds", "/g/data/ua8/JRA55-do/RYF/v1-3/RYF.rsds.1990_1991.nc", "bilinear", 0.215
 "ICE", "lprec", "prrn", "/g/data/ua8/JRA55-do/RYF/v1-3/RYF.rain.1990_1991.nc", "bilinear", 1.0
 "ICE", "fprec", "prsn", "/g/data/ua8/JRA55-do/RYF/v1-3/RYF.snow.1990_1991.nc", "bilinear", 1.0
-"ICE", "runoff", "friver", "/g/data/ua8/JRA55-do/RYF/v1-3/RYF.runoff_all.1990_1991.nc", "bilinear", 1.0
+"ICE", "runoff", "friver", "/g/data/ua8/JRA55-do/RYF/v1-3/RYF.runoff_all.1990_1991.panan01.nc", "none", 1.0
 "ICE", "dhdt", "", "", "none", 80.0
 "ICE", "dedt", "", "", "none", 2.0e-6
 "ICE", "drdt", "", "", "none", 10.0

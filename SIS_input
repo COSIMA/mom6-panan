@@ -12,16 +12,16 @@ DO_ICEBERGS = False
 ! time between writes of global ice diags and conservation
 ICE_STATS_INTERVAL = 0.25
 
-NIGLOBAL = 7200
-NJGLOBAL = 1690
-LAYOUT = 144,34
-MASKTABLE = "masks/mask_table.1181.144x34"
+NIGLOBAL = 3600
+NJGLOBAL = 845
+LAYOUT = 72,17
+MASKTABLE = "masks/mask_table.262.72x17"
 
 GRID_CONFIG = "mosaic"
-GRID_FILE = "ocean_hgrid_0025.nc"
+GRID_FILE = "ocean_hgrid.nc"
 INPUTDIR = "INPUT"
 
-TOPO_FILE = "ocean_topog_filled.nc"
+TOPO_FILE = "ocean_topog.nc"
 
 MAXIMUM_DEPTH = 6000.0
 
