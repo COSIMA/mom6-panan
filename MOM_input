@@ -75,7 +75,7 @@ OBC_TRACER_RESERVOIR_LENGTH_SCALE_OUT = 30000
 OBC_TRACER_RESERVOIR_LENGTH_SCALE_IN = 3000
 
 ! sponges
-SPONGE = True
+SPONGE = False
 SPONGE_CONFIG = "file"
 SPONGE_DAMPING_FILE = "sponges/idamp_1deg_10d_linear.nc"
 SPONGE_STATE_FILE = "sponges/sponge_uvts.nc"
@@ -97,8 +97,6 @@ SPONGE_DATA_ONGRID = True
 ! don't define layers in ALE mode
 COORD_CONFIG = "ALE"
 
-! HyCOM-like coordinate -- regrid to a target density, bounded
-! by a minimum interface depth
 REGRIDDING_COORDINATE_MODE = "ZSTAR"
 ! use high-order scheme at boundary cells for remapping,
 ! instead of just piecewise-constant
