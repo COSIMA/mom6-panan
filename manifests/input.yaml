@@ -1,0 +1,503 @@
+format: yamanifest
+version: 1.0
+---
+work/INPUT/RYF.q_10.1984_1985.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.q_10.1984_1985.nc
+  hashes:
+    binhash: a432e60dba8ab1e48c131dd33dc313c7
+    md5: 094907fe5509f8c6d07d7072a3099c77
+work/INPUT/RYF.q_10.1990_1991.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.q_10.1990_1991.nc
+  hashes:
+    binhash: b465b59faf27f197fef8aeaa92d5c51d
+    md5: 2aa040c5f4639003dbc4f019c445bf33
+work/INPUT/RYF.q_10.2003_2004.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.q_10.2003_2004.nc
+  hashes:
+    binhash: 594a66d1d956bef3f0e162e17ae0fd2e
+    md5: 53064f44de424f2bcf0c1987c0c94938
+work/INPUT/RYF.rain.1984_1985.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rain.1984_1985.nc
+  hashes:
+    binhash: 382cda23802a351761b465c148477926
+    md5: b5e75395fda05e26932f50ec3dd31a61
+work/INPUT/RYF.rain.1990_1991.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rain.1990_1991.nc
+  hashes:
+    binhash: 2430fbcc2b921011d1a39048b5028ae6
+    md5: 98a063f5f9326645f41498e2a4282c0b
+work/INPUT/RYF.rain.2003_2004.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rain.2003_2004.nc
+  hashes:
+    binhash: e73609c598ff4b6911a9feaeefef53c0
+    md5: 94fb0e7c2319e266bade29cf559df3e8
+work/INPUT/RYF.rlds.1984_1985.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rlds.1984_1985.nc
+  hashes:
+    binhash: 733a3d8e1275b56c959a0fc2b26ce07b
+    md5: 0dfb74c54f26fb203a9fa5cb85d18e9f
+work/INPUT/RYF.rlds.1990_1991.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rlds.1990_1991.nc
+  hashes:
+    binhash: e9f4cc5013dd86bdf70a0c5a9b6221be
+    md5: b1fb56a065c06a9488c7534c0a6fefbe
+work/INPUT/RYF.rlds.2003_2004.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rlds.2003_2004.nc
+  hashes:
+    binhash: 88c701ae867bbf3917b3af42f62efa50
+    md5: 76e690c42146325bb566c994c1ec3910
+work/INPUT/RYF.rsds.1984_1985.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rsds.1984_1985.nc
+  hashes:
+    binhash: f878baf1d647e850980a458a61c7f30c
+    md5: 47715b42745c016a3f363def133fa0a0
+work/INPUT/RYF.rsds.1990_1991.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rsds.1990_1991.nc
+  hashes:
+    binhash: c9c12cbef0ada0d29fe1f864e526f65c
+    md5: 2d4cb0f10338dc090880233564dd5f4a
+work/INPUT/RYF.rsds.2003_2004.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rsds.2003_2004.nc
+  hashes:
+    binhash: 04e45f06ae49a8555ce41536917f5468
+    md5: 3abda0630790f98d6459f7224d14614d
+work/INPUT/RYF.runoff_all.1984_1985.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.runoff_all.1984_1985.nc
+  hashes:
+    binhash: 21eeac4e8ed834b19e89ec371bd69ac7
+    md5: 6a88bf00cef5f7902d872a45dcea44d4
+work/INPUT/RYF.runoff_all.1990_1991.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.runoff_all.1990_1991.nc
+  hashes:
+    binhash: bc61cc1bace24811cda860684deeb586
+    md5: 7ce1f8aee9e06611936c2bdf3b69f3f0
+work/INPUT/RYF.runoff_all.2003_2004.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.runoff_all.2003_2004.nc
+  hashes:
+    binhash: ff1c44868909d40d611912a98c0a8f43
+    md5: 55c0ccf8f5e006ce18e221404e19eb65
+work/INPUT/RYF.slp.1984_1985.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.slp.1984_1985.nc
+  hashes:
+    binhash: f7fa74b0b045d450a9ad128052fd9ab4
+    md5: 58a44a44ccd93e10ae9de26ee70d1f45
+work/INPUT/RYF.slp.1990_1991.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.slp.1990_1991.nc
+  hashes:
+    binhash: 784be894a5b4a29fcb9e2cb4b7d987bd
+    md5: d1e10cceb1dd42c298d73b46c2fbf511
+work/INPUT/RYF.slp.2003_2004.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.slp.2003_2004.nc
+  hashes:
+    binhash: 07c5426033ae02d657f71b1d4189cdfa
+    md5: 3c08ed89da9936446e055d4b9b3f3306
+work/INPUT/RYF.snow.1984_1985.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.snow.1984_1985.nc
+  hashes:
+    binhash: 8d768c3ddb11a6401f5800bbaf238894
+    md5: 5eb6f11e1163689e6c668dc608f73c71
+work/INPUT/RYF.snow.1990_1991.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.snow.1990_1991.nc
+  hashes:
+    binhash: 8b982abddf374d5721f923808a0c9608
+    md5: 38a51a0d5a6897206ae91ea05f1998d5
+work/INPUT/RYF.snow.2003_2004.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.snow.2003_2004.nc
+  hashes:
+    binhash: f255713078b6a147eae255ef1e585be5
+    md5: f6d9d2709c363a7ffb10158af091cf41
+work/INPUT/RYF.t_10.1984_1985.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.t_10.1984_1985.nc
+  hashes:
+    binhash: 42e26f64a121112ffff5a6d27c8f58b1
+    md5: ef99e4dc7912142cd26b9c67fdc49161
+work/INPUT/RYF.t_10.1990_1991.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.t_10.1990_1991.nc
+  hashes:
+    binhash: f0845bf87748e4e494e1025ddece3a5d
+    md5: f4dbd5d509a3c3479df66ae398310ace
+work/INPUT/RYF.t_10.2003_2004.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.t_10.2003_2004.nc
+  hashes:
+    binhash: df848da85ec34a7570b23924adb9af6b
+    md5: 5c752aa45a8038dc025acd272bafa25a
+work/INPUT/RYF.u_10.1984_1985.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.u_10.1984_1985.nc
+  hashes:
+    binhash: 804eff5c700555da834b968dec9243b6
+    md5: ff6e32522eeddd775da71cb19858247e
+work/INPUT/RYF.u_10.1990_1991.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.u_10.1990_1991.nc
+  hashes:
+    binhash: b373e1ab54ef89a5ec478d793d8e8482
+    md5: 99a3975202c1db658b0e69ab134c5263
+work/INPUT/RYF.u_10.2003_2004.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.u_10.2003_2004.nc
+  hashes:
+    binhash: 0eaf67a40aead945600800f13bc982bd
+    md5: b815c0882971859b190151dafb5cce8f
+work/INPUT/RYF.v_10.1984_1985.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.v_10.1984_1985.nc
+  hashes:
+    binhash: 22dcb8943225207908a807b4a50d8312
+    md5: a48f2c7efd11e328ac246f4c22adad21
+work/INPUT/RYF.v_10.1990_1991.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.v_10.1990_1991.nc
+  hashes:
+    binhash: f1aa09e46060cec9e6d0b845564bef71
+    md5: 88f10317d163542a6d1b6d21686c89a9
+work/INPUT/RYF.v_10.2003_2004.nc:
+  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.v_10.2003_2004.nc
+  hashes:
+    binhash: d4ab1c739180d9653a51954ddee0767e
+    md5: 4e93d297b872db1fc14665048b6a5e1c
+work/INPUT/atmos_mosaic_tile1Xland_mosaic_tile1.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/atmos_mosaic_tile1Xland_mosaic_tile1.nc
+  hashes:
+    binhash: ce18c7b956b7738edd43ed1e613f62b3
+    md5: a0d0e38073592f0aa1d3780a75d60def
+work/INPUT/atmos_mosaic_tile1Xocean_mosaic_tile1.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/atmos_mosaic_tile1Xocean_mosaic_tile1.nc
+  hashes:
+    binhash: 554d051854b0897d1b48a34c97c30539
+    md5: 9ca8a8796fb15fbd1c0b4ecb8ee288be
+work/INPUT/backup_grids/forcing_obc.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/backup_grids/forcing_obc.nc
+  hashes:
+    binhash: 7a0c0425d5e3731c18c37e3e7d197af7
+    md5: 551b16ad27bcd6486e6f7fbb4219dd85
+work/INPUT/backup_grids/grid_0025.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/backup_grids/grid_0025.nc
+  hashes:
+    binhash: 68e9bc421008c42fc778da70fdf5ea63
+    md5: 6a8b6ee109f3ef45d5db36c7202de1ad
+work/INPUT/backup_grids/mosiac/atmos_mosaic_tile1Xland_mosaic_tile1.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/backup_grids/mosiac/atmos_mosaic_tile1Xland_mosaic_tile1.nc
+  hashes:
+    binhash: 10ffb6810dd199bd5e4f16d8859be7bf
+    md5: 9617d86aba401953ab64d3a225651012
+work/INPUT/backup_grids/mosiac/atmos_mosaic_tile1Xocean_mosaic_tile1.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/backup_grids/mosiac/atmos_mosaic_tile1Xocean_mosaic_tile1.nc
+  hashes:
+    binhash: 8af5a1aa00d41608eef5d6c1f676a5ad
+    md5: 19b363eabee1fd11d2905fe35e706741
+work/INPUT/backup_grids/mosiac/grid_spec.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/backup_grids/mosiac/grid_spec.nc
+  hashes:
+    binhash: 636ac3467a18089f599c653482fca0f6
+    md5: eea1b581b431fafe0fe44026f1f4ef58
+work/INPUT/backup_grids/mosiac/land_mask.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/backup_grids/mosiac/land_mask.nc
+  hashes:
+    binhash: 7743d91043216e0f4abbc6f8fffe7774
+    md5: 6ebad03d1c8595a9b05b1655caa26b50
+work/INPUT/backup_grids/mosiac/land_mosaic_tile1Xocean_mosaic_tile1.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/backup_grids/mosiac/land_mosaic_tile1Xocean_mosaic_tile1.nc
+  hashes:
+    binhash: 30dc3eb27a5ffe30a4b6a2bad0d12a83
+    md5: b615083d992f24381d016eb0b8e86973
+work/INPUT/backup_grids/mosiac/ocean_mask.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/backup_grids/mosiac/ocean_mask.nc
+  hashes:
+    binhash: 33b5604a907c7eb413b53aa017611a8c
+    md5: 9b92cc40ac3aae0a7d53ed9321f097f8
+work/INPUT/backup_grids/obc_vertical.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/backup_grids/obc_vertical.nc
+  hashes:
+    binhash: 1ec3ba4c18bfa27f639cfa034f0be3f4
+    md5: 0a2d3045eb0380b397137f4528fdaf14
+work/INPUT/backup_grids/ocean_hgrid_0025.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/backup_grids/ocean_hgrid_0025.nc
+  hashes:
+    binhash: 5722e38661b00d88a734f96fc6867385
+    md5: 2cd84e3022b72ae21b816c4270eb4e2c
+work/INPUT/backup_grids/ocean_topog.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/backup_grids/ocean_topog.nc
+  hashes:
+    binhash: 2dc3db2e92c75932a97a50df6664f548
+    md5: 7b0713b491b272aa959ec59d90b18450
+work/INPUT/backup_grids/scrip_dest.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/backup_grids/scrip_dest.nc
+  hashes:
+    binhash: 99b486f84805dddee145d7ed1c97b2b7
+    md5: e8cdd91cdad6ba8b5be7a6c7e058c864
+work/INPUT/bilinear_2d_weights.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/bilinear_2d_weights.nc
+  hashes:
+    binhash: 19d06cd66633d13ce8a3016c7d44963b
+    md5: 88a17ffb6bba5ac10559210985eaf619
+work/INPUT/bilinear_2d_weights.nc.bak:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/bilinear_2d_weights.nc.bak
+  hashes:
+    binhash: 2d14518654b395d4155cd9bd38c2c810
+    md5: 88a17ffb6bba5ac10559210985eaf619
+work/INPUT/bilinear_tracer_weights.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/bilinear_tracer_weights.nc
+  hashes:
+    binhash: 85cbdc58cdaa1414542315d70acf75ea
+    md5: a47fb94a919a39e1353de1db60c331f1
+work/INPUT/bilinear_velocity_weights.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/bilinear_velocity_weights.nc
+  hashes:
+    binhash: f6060872543f45a9215f091626d92ccf
+    md5: 308d8ba294022b11b1d7cea2eb140d91
+work/INPUT/diag_lev.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/diag_lev.nc
+  hashes:
+    binhash: 132d40211e784f3807c0d135c4c3a0d1
+    md5: 39680b663ddb07dbec5f5390d2b78ff2
+work/INPUT/forcing_obc.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/forcing_obc.nc
+  hashes:
+    binhash: 1db4cd23bd166fb28c47e793c54a0bd6
+    md5: 5a896acfaa82597f358f4ad337b42594
+work/INPUT/forcing_obc_converted.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/forcing_obc_converted.nc
+  hashes:
+    binhash: e57cbfb794e421a3cf1d19b6750bf878
+    md5: 766a0a49690207f01c10ca702f6eb9e0
+work/INPUT/forcing_obc_converted.nc.bak:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/forcing_obc_converted.nc.bak
+  hashes:
+    binhash: 066be095bc1cf0fef4a10aa407f95475
+    md5: d04de77d152e0066c99ade127903e287
+work/INPUT/forcing_obc_shifted.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/forcing_obc_shifted.nc
+  hashes:
+    binhash: 5eb627967753c85317b651858514e0bb
+    md5: 33fd9c0950d4f27066c3a44e2bf35599
+work/INPUT/grid_0025.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/grid_0025.nc
+  hashes:
+    binhash: 6afd547f989744e9f91b63cad9899be1
+    md5: 5cee699d8422aa88d2d6d3ce737a3032
+work/INPUT/grid_spec.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/grid_spec.nc
+  hashes:
+    binhash: b20c38ca9fc612d7e827e5fd981fde3f
+    md5: ec33a6b3878ffc7846a5860a2ce4a9bc
+work/INPUT/hycom1_75_800m.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/hycom1_75_800m.nc
+  hashes:
+    binhash: 9ebbcff85ecbe68fc079d1399da959d3
+    md5: 023b23f6b55e6f3b3de6778e608d0d3d
+work/INPUT/land_mask.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/land_mask.nc
+  hashes:
+    binhash: 5e3a31d4c354f84ce017809dd9db6ddd
+    md5: 266161a4aea10a1bea766a4f118983b2
+work/INPUT/land_mosaic_tile1Xocean_mosaic_tile1.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/land_mosaic_tile1Xocean_mosaic_tile1.nc
+  hashes:
+    binhash: 2ba5f524696dab2639f9ebc0cdc615dd
+    md5: 3fe2b76db59bc09e84d1909e5f4b61e4
+work/INPUT/masks/mask_table.1083.125x36:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.1083.125x36
+  hashes:
+    binhash: 2826f9a682c5ec8ec31a0f9b6d80a893
+    md5: 29f29b41a54b8a27a109b4de4380393b
+work/INPUT/masks/mask_table.1145.144x33:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.1145.144x33
+  hashes:
+    binhash: fc530df7a40851f9c80bf6c35a9f8648
+    md5: 05577d3feeb010074d2095f050d99aa4
+work/INPUT/masks/mask_table.1181.144x34:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.1181.144x34
+  hashes:
+    binhash: f264235bcb3656f0592bd76f1efda30a
+    md5: 3b1f9d49c56103cd6f00b464b01c847b
+work/INPUT/masks/mask_table.1203.125x40:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.1203.125x40
+  hashes:
+    binhash: d255510e9aba97e431bc8c61e65c68cb
+    md5: c338ca3ec9c08d36048d769097d0bdc8
+work/INPUT/masks/mask_table.1465.150x40:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.1465.150x40
+  hashes:
+    binhash: 09495575948839746120463c5c9d89b6
+    md5: 4762c8592ff416f6a544b4cde619e7e7
+work/INPUT/masks/mask_table.179.60x14:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.179.60x14
+  hashes:
+    binhash: 69034203f2c39316020933e5e4995fd7
+    md5: 1050fb146e2b6d2d0cf298dedafb1502
+work/INPUT/masks/mask_table.1856.180x42:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.1856.180x42
+  hashes:
+    binhash: 5b4abaf677bd48f2f82d0a1e5bb62e65
+    md5: 4a3b6c5369b181b3c4fd7b47475c0b21
+work/INPUT/masks/mask_table.334.75x20:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.334.75x20
+  hashes:
+    binhash: c7a3c6708e690060ca7455978d60cb38
+    md5: 6f23515a3a1d3abe54382aac7da96bff
+work/INPUT/masks/mask_table.3375.240x56:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.3375.240x56
+  hashes:
+    binhash: e68e839e2a63fe1620c14fd5e5614a4b
+    md5: 9ae56b802b52adda8f5299d5664fe0a2
+work/INPUT/masks/mask_table.428.90x21:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.428.90x21
+  hashes:
+    binhash: d83f7ba6cba887cd8b8c75887ba11da6
+    md5: 3b5631e3e8b782ed665b3ffe4ad80079
+work/INPUT/masks/mask_table.455.80x25:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.455.80x25
+  hashes:
+    binhash: fd22cb154d190a4ae124912920b8861a
+    md5: dfb3defcbc71824759942cded5454a12
+work/INPUT/masks/mask_table.482.84x25:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.482.84x25
+  hashes:
+    binhash: 72d6f410f74fd1a660cbac399e7650d9
+    md5: 278f10f105845e4acf94454108b31570
+work/INPUT/masks/mask_table.578.100x25:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.578.100x25
+  hashes:
+    binhash: e0b8510e1707491cfbe28313dd2ddeac
+    md5: 35ccc563e17bcb508ab9b16f0f547f47
+work/INPUT/masks/mask_table.791.120x28:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.791.120x28
+  hashes:
+    binhash: f621a9d0465659e7a6dead293ead55dd
+    md5: 3982ff40bfa198afd51a2cd2c5c2c252
+work/INPUT/masks/mask_table.825.100x35:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.825.100x35
+  hashes:
+    binhash: 0b812937a661242063af25727c3c01b4
+    md5: 788c2bed9aa5a99ed997e03c62432d84
+work/INPUT/masks/mask_table.956.125x32:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.956.125x32
+  hashes:
+    binhash: a08e47b0c64055a49da95e1240a188fe
+    md5: 3a156b85257ab516397afceead8bf241
+work/INPUT/obc_vertical.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/obc_vertical.nc
+  hashes:
+    binhash: 7b171d48f140ff869187d139c6eab3a8
+    md5: 746f67fce0ba6a1486ed00ea19facdd3
+work/INPUT/ocean_hgrid.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/ocean_hgrid.nc
+  hashes:
+    binhash: 7050abfffb73d953f3a59d7ad2bb4352
+    md5: ef95b8d3fe0713124901f3fb2649fd57
+work/INPUT/ocean_hgrid_0025.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/ocean_hgrid_0025.nc
+  hashes:
+    binhash: 22b45d85f71003b9b4f9b68dea46bc9d
+    md5: f5ff7b6375819c3871ddf906b14f0dae
+work/INPUT/ocean_mask.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/ocean_mask.nc
+  hashes:
+    binhash: 7b8ec36dc44e312539c5b82400fa2917
+    md5: 60a68ec845f287d645cad1c4b28e2979
+work/INPUT/ocean_mosaic.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/ocean_mosaic.nc
+  hashes:
+    binhash: e36162723416c6f4296bbbb533010a5c
+    md5: fa066de9cae37d07b6d44a66a4157db5
+work/INPUT/ocean_topog.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/ocean_topog.nc
+  hashes:
+    binhash: 842d45dc49df66208edca802befe2948
+    md5: 36b664f34bc9e230ad9a9d6b0688fd15
+work/INPUT/ocean_topog_filled.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/ocean_topog_filled.nc
+  hashes:
+    binhash: bfa0f0cc00bdc1c93683efa6fdd14774
+    md5: f3463f3e34aafb482e2adc4bed15e136
+work/INPUT/ocean_topog_filled.nc.bak:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/ocean_topog_filled.nc.bak
+  hashes:
+    binhash: 3ef2c2f183afd8a73a77763fa9b01a56
+    md5: 22094ae7f429037ff4c3cb9159cb2526
+work/INPUT/ocean_topog_masked.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/ocean_topog_masked.nc
+  hashes:
+    binhash: bf4c40cf968558bf22deeb4f1ca87697
+    md5: d208daa23a8d442e0b126bae0282a948
+work/INPUT/scrip_dest.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/scrip_dest.nc
+  hashes:
+    binhash: 9aba28be473bd446676b14fd0b9a93c7
+    md5: 86277df2ca8a44acd9a04bd0464a6d5c
+work/INPUT/scrip_src.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/scrip_src.nc
+  hashes:
+    binhash: 318c23de27c1bfdafebb5e602cdb40d9
+    md5: 9efa2bf1c259ea3f83af8db3348159cc
+work/INPUT/sponge_idamp.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/sponge_idamp.nc
+  hashes:
+    binhash: 0ed6626eead28773bc51c2ba62e99d35
+    md5: 098db1bffe7f96ae2315910f1c5c7e05
+work/INPUT/sponge_uv.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/sponge_uv.nc
+  hashes:
+    binhash: c09c85bd14eb037f078863dd22ce79ff
+    md5: b3df318683ceb92b8c5bfd2bb797cc0a
+work/INPUT/sponge_uvts.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/sponge_uvts.nc
+  hashes:
+    binhash: f771e276cbaae1741fedcc4a09f79be1
+    md5: 51b333751110b5c41b41c89924dfbeed
+work/INPUT/sponge_uvts.nc.bak:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/sponge_uvts.nc.bak
+  hashes:
+    binhash: 5c9791359cf8e5c32f42f28158962c5f
+    md5: a2894a9f214c553e17eb720ecb4a7cd1
+work/INPUT/sponges/idamp_1deg_10d_linear.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/sponges/idamp_1deg_10d_linear.nc
+  hashes:
+    binhash: df7e26409e8e9db164e233f9fa65c335
+    md5: 77c429b3690e918c0f66a1b87b8daf63
+work/INPUT/sponges/idamp_1deg_1d.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/sponges/idamp_1deg_1d.nc
+  hashes:
+    binhash: 4d5be2b1c561a27053038022ef8854a7
+    md5: e55ceac60f26b626283e74fc5e9324e7
+work/INPUT/sponges/idamp_1deg_1d_linear.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/sponges/idamp_1deg_1d_linear.nc
+  hashes:
+    binhash: b903a3352dbb4bbb9d81b834e27d529e
+    md5: cfc5a8b00c4b6255030d0a41906a16fd
+work/INPUT/sponges/idamp_1deg_1h.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/sponges/idamp_1deg_1h.nc
+  hashes:
+    binhash: 90235d4bb2108db18a374737a690a118
+    md5: c6aff5011ef4926a06f03d2bbd042bb6
+work/INPUT/sponges/idamp_1deg_1h_linear.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/sponges/idamp_1deg_1h_linear.nc
+  hashes:
+    binhash: 8a13853a9e7823175c5a5ea3315b2ba2
+    md5: f7822520f5e4d2b097f8b4a861e253ad
+work/INPUT/sponges/idamp_1point_1d.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/sponges/idamp_1point_1d.nc
+  hashes:
+    binhash: 8a2b7c9352cf05a9ed599644d2b6534b
+    md5: e9d630f8b4788269411cb36dffb699aa
+work/INPUT/sponges/idamp_1point_1h.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/sponges/idamp_1point_1h.nc
+  hashes:
+    binhash: 16d1e8ce05a23c437aa6ad37b0ef402a
+    md5: 8dd551b022bbb320beaf8618d72dcec5
+work/INPUT/temp_salt_init_z.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/temp_salt_init_z.nc
+  hashes:
+    binhash: 0664afbec29aec332575bbd49328004c
+    md5: c9643e649d794afda5a4820bd257026a
+work/INPUT/temp_salt_init_z_0025.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/temp_salt_init_z_0025.nc
+  hashes:
+    binhash: 573eae15ee1e4ec326e73131e0991de5
+    md5: 24088e849324198e8bc02c848eb57098
+work/INPUT/temp_salt_init_z_0025.nc.bak:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/temp_salt_init_z_0025.nc.bak
+  hashes:
+    binhash: c8d51f0f5446ab3ee013d8eafb004772
+    md5: 07bb7666f233e37b3caa0cdd0327304d
+work/INPUT/vcoord.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/vcoord.nc
+  hashes:
+    binhash: 5e808c3099b96712d4d76493ff200f70
+    md5: 667cfc4be085364b8544f84a34d16a00
