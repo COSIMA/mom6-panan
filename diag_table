@@ -54,8 +54,7 @@ panan
 "ocean_model",  "hfds",            "hfds",             "ocean_month",        "all", "mean", "none",2
 # Net surface water flux (precip+melt+lrunoff+ice calving-evap)
 "ocean_model",  "wfo",          "wfo",              "ocean_month",        "all", "mean", "none",2
-"ocean_model",  "friver",       "friver",           "ocean_month",        "all", "mean
-", "none",2
+"ocean_model",  "friver",       "friver",           "ocean_month",        "all", "mean", "none",2
 
 # Surface area of tracer (T) cells
 "ocean_model", "areacello",   "areacello",   "ocean_static", "all", "none", "none", 2
