@@ -8,8 +8,10 @@ jobfs: 10GB
 shortpath: /scratch/x77
 
 model: mom6
-input: /g/data/x77/ahg157/inputs/mom6/panan/
 exe: /scratch/x77/ahg157/mom6/bin/MOM6-panan
+input: 
+        - /g/data/x77/ahg157/inputs/mom6/panan/
+        - /g/data/ua8/JRA55-do/RYF/v1-3/
 
 collate: false
 runlog: true
