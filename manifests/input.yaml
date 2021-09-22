@@ -237,6 +237,11 @@ work/INPUT/RYF.runoff_all.1990_1991.panan01_new.nc:
   hashes:
     binhash: 63cda60213cc8734a39e69390a5d7f8a
     md5: 46176868a71f726ace9a069217afbf49
+work/INPUT/RYF.runoff_all.1990_1991.panan01_new_new.nc:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/RYF.runoff_all.1990_1991.panan01_new_new.nc
+  hashes:
+    binhash: 90ad10dcf275f7f06a4dfea4d5cb66c0
+    md5: 46176868a71f726ace9a069217afbf49
 work/INPUT/RYF.runoff_all.2003_2004.nc:
   fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.runoff_all.2003_2004.nc
   hashes:
@@ -395,7 +400,7 @@ work/INPUT/ocean_topog.nc:
 work/INPUT/pickle.regrid_runoff_A:
   fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/pickle.regrid_runoff_A
   hashes:
-    binhash: 95555180f5e7ede77fd10b893654d550
+    binhash: 97629701edf836d106c27d1c0a5d7c74
     md5: 8304f1ed742a9c29ff3c32a4d83a2655
 work/INPUT/regrid_runoff.py:
   fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/regrid_runoff.py
