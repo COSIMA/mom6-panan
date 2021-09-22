@@ -362,6 +362,11 @@ work/INPUT/grid_spec.nc:
   hashes:
     binhash: 05806c52f95b128b271f568a8f42732d
     md5: fc66a49b8ae7fb12c3ee5f0a0cae7ae9
+work/INPUT/hycom1_75_800m.nc:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/hycom1_75_800m.nc
+  hashes:
+    binhash: a7b88d90c7d0bef830a2c078bf3bf161
+    md5: 023b23f6b55e6f3b3de6778e608d0d3d
 work/INPUT/land_mask.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/land_mask.nc
   hashes:
