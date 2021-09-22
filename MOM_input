@@ -7,7 +7,7 @@ THICKNESSDIFFUSE = False
 ! do thickness diffusion before dynamics
 THICKNESSDIFFUSE_FIRST = True
 ! baroclinic timestep
-DT = 600.0
+DT = 900.0
 !DT = 360.0
 
 ! thermodynamic and tracer advection timestep
