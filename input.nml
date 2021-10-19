@@ -16,7 +16,17 @@
 
 &fms_nml
 	domains_stack_size = 1600000,
-	stack_size = 0
+	stack_size = 0,
+	clock_grain = 'LOOP'
+/
+
+&fms2_io_nml
+    netcdf_default_format = "netcdf4"
+/
+
+&mpp_io_nml
+    deflate_level = 5,
+    shuffle = 1
 /
 
 &coupler_nml
