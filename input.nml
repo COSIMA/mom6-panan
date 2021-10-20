@@ -21,12 +21,9 @@
 /
 
 &fms2_io_nml
-    netcdf_default_format = "netcdf4"
-/
-
-&mpp_io_nml
-    deflate_level = 5,
-    shuffle = 1
+        netcdf_default_format = "netcdf4"
+	shuffle = .true.,
+	deflate = 5 
 /
 
 &coupler_nml
