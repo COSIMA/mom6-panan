@@ -12,7 +12,7 @@ input:
     - /g/data/x77/ahg157/inputs/mom6/panan-01/
     - /g/data/ik11/inputs/mom6/regrid_runoff/
     - /g/data/ua8/JRA55-do/RYF/v1-3/
-exe: /scratch/x77/ahg157/mom6/bin/MOM6-SIS2-fms2compress
+exe: /scratch/x77/ahg157/mom6/bin/MOM6-SIS2-fms1
 
 collate: false
 #runlog: true
