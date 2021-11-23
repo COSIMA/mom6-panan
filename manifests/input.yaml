@@ -340,8 +340,8 @@ work/INPUT/atmos_mosaic_tile1Xocean_mosaic_tile1.nc:
 work/INPUT/diag_rho2.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/diag_rho2.nc
   hashes:
-    binhash: 1e887de37315dba2987a14207ba34e3d
-    md5: 1d1b782e37a72b75b64b1c12084b12fe
+    binhash: 2199d22f5d3e2f3c0b9143954440e93b
+    md5: 2e28890e50220397a167a2b3c4a30271
 work/INPUT/forcing/forcing_obc.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/forcing/forcing_obc.nc
   hashes:
