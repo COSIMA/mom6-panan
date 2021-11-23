@@ -28,5 +28,5 @@ platform:
 mpi:
   module: openmpi/4.0.3
 
-userscripts:
-   archive: qsub sync_output_to_gdata.sh
+#userscripts:
+#   archive: qsub sync_output_to_gdata.sh
