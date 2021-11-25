@@ -1,8 +1,8 @@
 format: yamanifest
 version: 1.0
 ---
-work/MOM6-SIS2-fms2compress-restart:
-  fullpath: /scratch/x77/ahg157/mom6/bin/MOM6-SIS2-fms2compress-restart
+work/MOM6-SIS2-fms1:
+  fullpath: /scratch/x77/ahg157/mom6/bin/MOM6-SIS2-fms1
   hashes:
-    binhash: 4f127febe2aacd803d02ca76c02648fa
-    md5: 205cee02910d5c0ec0f1ccba62fc2731
+    binhash: 73b441dddaf7c4c555fc10530bb955af
+    md5: 77a804b1888680981c482305e3c0a14e
