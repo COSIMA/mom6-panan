@@ -21,11 +21,6 @@
 /
 
 
-&mpp_io_nml
-    deflate_level = 5,
-    shuffle = 1
-/
-
 &coupler_nml
 	months = 3,
 	days = 0,
