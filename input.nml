@@ -20,6 +20,11 @@
 	clock_grain = 'LOOP'
 /
 
+&fms2_io_nml
+        netcdf_default_format = "netcdf4"
+	shuffle = .true.,
+	deflate = 5
+/
 
 &coupler_nml
 	months = 3,
