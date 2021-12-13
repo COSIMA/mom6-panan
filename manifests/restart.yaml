@@ -1,3 +1,58 @@
 format: yamanifest
 version: 1.0
---- {}
+---
+work/INPUT/MOM.res.nc:
+  fullpath: /scratch/x77/amh157/mom6/archive/panan-01-hycom1/restart000/MOM.res.nc
+  hashes:
+    binhash: a43053705f5d5be08d23cf7f8d1cb819
+    md5: bd69b4e51830cd6bc77d0a07ff0e6f5c
+work/INPUT/MOM.res_1.nc:
+  fullpath: /scratch/x77/amh157/mom6/archive/panan-01-hycom1/restart000/MOM.res_1.nc
+  hashes:
+    binhash: 3ce92a74a183926354f5155393148667
+    md5: ec75219f5c75f9bdfb92a2d8d080690d
+work/INPUT/MOM.res_2.nc:
+  fullpath: /scratch/x77/amh157/mom6/archive/panan-01-hycom1/restart000/MOM.res_2.nc
+  hashes:
+    binhash: 2033c558a6dc355fe9bdef30a73c6c26
+    md5: 07df15223970e575bdb3bfefe053f944
+work/INPUT/MOM.res_3.nc:
+  fullpath: /scratch/x77/amh157/mom6/archive/panan-01-hycom1/restart000/MOM.res_3.nc
+  hashes:
+    binhash: 53ac221d9f98d23c59c5f655e6927c66
+    md5: c959b95b81a26bb44fc7c4c4dfb6bf9b
+work/INPUT/MOM.res_4.nc:
+  fullpath: /scratch/x77/amh157/mom6/archive/panan-01-hycom1/restart000/MOM.res_4.nc
+  hashes:
+    binhash: 842edf5d293d56da98984980ca619ee4
+    md5: d7f1b12c156382be68c7324d43feff62
+work/INPUT/MOM.res_5.nc:
+  fullpath: /scratch/x77/amh157/mom6/archive/panan-01-hycom1/restart000/MOM.res_5.nc
+  hashes:
+    binhash: 05fa8426088a3325746fc68d4324ce33
+    md5: d6f59e61509a7ce6bf61f993cf9b1baf
+work/INPUT/MOM.res_6.nc:
+  fullpath: /scratch/x77/amh157/mom6/archive/panan-01-hycom1/restart000/MOM.res_6.nc
+  hashes:
+    binhash: 73249deebd0cf0a0624551d4b7c4ece7
+    md5: c98b8ec5e259270eb464e94c83d8e89d
+work/INPUT/MOM.res_7.nc:
+  fullpath: /scratch/x77/amh157/mom6/archive/panan-01-hycom1/restart000/MOM.res_7.nc
+  hashes:
+    binhash: 1638b2def75390346d56ed7845f204a4
+    md5: aa6943709a2137087b9590d985cfced5
+work/INPUT/MOM.res_8.nc:
+  fullpath: /scratch/x77/amh157/mom6/archive/panan-01-hycom1/restart000/MOM.res_8.nc
+  hashes:
+    binhash: d5a10af0b3ef0a044e2564befbc76069
+    md5: 853a52f25f5002cabd58171646d51cf9
+work/INPUT/coupler.res:
+  fullpath: /scratch/x77/amh157/mom6/archive/panan-01-hycom1/restart000/coupler.res
+  hashes:
+    binhash: 4e3cef1e86eeb40e1026db78aa617d73
+    md5: ee0c666f491fabfcf9a2a553393fdb39
+work/INPUT/ice_model.res.nc:
+  fullpath: /scratch/x77/amh157/mom6/archive/panan-01-hycom1/restart000/ice_model.res.nc
+  hashes:
+    binhash: a02260959fe3359ccddd22b513143e12
+    md5: f429e34e804b9e26fd250086f171ad71
