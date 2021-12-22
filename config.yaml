@@ -1,6 +1,6 @@
-project: g40
+project: v45
 queue: normal
-walltime: 04:00:00
+walltime: 04:30:00
 jobname: mom6_panan_hybrid
 ncpus: 962
 jobfs: 10GB
