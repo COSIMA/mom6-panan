@@ -1,8 +1,8 @@
 format: yamanifest
 version: 1.0
 ---
-work/MOM6-panan:
-  fullpath: /scratch/x77/ahg157/mom6/bin/MOM6-panan
+work/symmetric_FMS2-e7d09b7:
+  fullpath: /g/data/x77/ahg157/exes/MOM6_SIS2/symmetric_FMS2-e7d09b7
   hashes:
-    binhash: 9f1f28a4b20c0b4e8d1dea9e64030120
-    md5: 3dd81f1a4b555b5f5b80bce4600d5ae8
+    binhash: 89e0922838f48b57e84efd076def75ac
+    md5: bfde64d72a5dc9ca2003c0fe55f6e751
