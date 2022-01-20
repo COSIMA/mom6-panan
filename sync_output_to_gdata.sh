@@ -10,7 +10,7 @@
 # Set this directory to something in /g/data3/hh5/tmp/cosima/
 # Make a unique path for your set of runs.
 # DOUBLE-CHECK IT IS UNIQUE SO YOU DON'T OVERWRITE EXISTING OUTPUT!
-GDATADIR=/g/data/ik11/outputs/mom6-panan/panant-01-hycom1-v8
+GDATADIR=/g/data/ik11/outputs/mom6-panan/panant-01-hycom1-v10
 
 mkdir -p ${GDATADIR}
 cd archive
