@@ -180,6 +180,7 @@ MLE_MLD_DECAY_TIME = 2.592E+06
 ! === module MOM_diabatic_driver ===
 ENERGETICS_SFC_PBL = True
 EPBL_IS_ADDITIVE = False
+EPBL_MLD_BISECTION = True
 
 ! === module MOM_set_diffusivity ===
 ! add BBL mixing diffusivity, instead of taking maximum
