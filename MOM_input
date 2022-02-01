@@ -206,6 +206,9 @@ INT_TIDE_DISSIPATION = False
 ! to mix above the BBL
 !TKE_ITIDE_MAX = 0.1
 
+
+INTERNAL_WAVE_SPEED_BETTER_EST = False
+
 ! === MOM_kappa_shear ===
 USE_JACKSON_PARAM = True
 !MAX_RINO_INT = 25
