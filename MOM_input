@@ -180,7 +180,6 @@ MLE_MLD_DECAY_TIME = 2.592E+06
 ! === module MOM_diabatic_driver ===
 ENERGETICS_SFC_PBL = True
 EPBL_IS_ADDITIVE = False
-EPBL_MLD_BISECTION = True
 
 ! === module MOM_set_diffusivity ===
 ! add BBL mixing diffusivity, instead of taking maximum
@@ -205,9 +204,6 @@ INT_TIDE_DISSIPATION = False
 ! maximum internal tide energy source available
 ! to mix above the BBL
 !TKE_ITIDE_MAX = 0.1
-
-
-INTERNAL_WAVE_SPEED_BETTER_EST = False
 
 ! === MOM_kappa_shear ===
 USE_JACKSON_PARAM = True
