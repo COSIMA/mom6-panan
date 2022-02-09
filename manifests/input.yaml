@@ -337,6 +337,11 @@ work/INPUT/atmos_mosaic_tile1Xocean_mosaic_tile1.nc:
   hashes:
     binhash: 872da8417ebb69d5b2d6449a8542137b
     md5: e7f22aa6bd7df03b7dc8794675d47215
+work/INPUT/diag_rho2.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/diag_rho2.nc
+  hashes:
+    binhash: 2199d22f5d3e2f3c0b9143954440e93b
+    md5: 2e28890e50220397a167a2b3c4a30271
 work/INPUT/forcing/forcing_obc.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/forcing/forcing_obc.nc
   hashes:
@@ -367,6 +372,11 @@ work/INPUT/hycom1_75_800m.nc:
   hashes:
     binhash: ac28072dd366757af7a1a6d201174e8b
     md5: 023b23f6b55e6f3b3de6778e608d0d3d
+work/INPUT/hycom1_panant.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/hycom1_panant.nc
+  hashes:
+    binhash: fe6c0ad093465be972c4d77e021766f0
+    md5: 15dcc7048ed27e05e1a2d7d64dc4b235
 work/INPUT/land_mask.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/land_mask.nc
   hashes:
