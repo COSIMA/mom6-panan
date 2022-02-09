@@ -33,6 +33,7 @@ WRITE_GEOM = 0
 
 ! for debug: save initial conditions
 !SAVE_INITIAL_CONDS = True
+RESTART_CHECKSUMS_REQUIRED = False
 
 ! === module MOM_domains ===
 NIGLOBAL = 3600
@@ -76,22 +77,6 @@ OBC_TRACER_RESERVOIR_LENGTH_SCALE_IN = 3000
 
 ! sponges
 SPONGE = False
-SPONGE_CONFIG = "file"
-SPONGE_DAMPING_FILE = "sponges/idamp_1deg_10d_linear.nc"
-SPONGE_STATE_FILE = "sponges/sponge_uvts.nc"
-SPONGE_IDAMP_VAR = "Idamp"
-SPONGE_PTEMP_VAR = "t"
-SPONGE_SALT_VAR = "s"
-! gives the vertical grid for the sponge data
-SPONGE_ETA_VAR = "eta"
-! specifically sponge velocities
-SPONGE_UV = False
-
-! for OBC-forced sponge:
-!SPONGE_ETA_VAR = "uv_thickness"
-SPONGE_UV_STATE_FILE = "sponge_uvts.nc"
-INTERPOLATE_SPONGE_TIME_SPACE = True
-SPONGE_DATA_ONGRID = True
 
 ! === module MOM_coord_initialization ===
 ! don't define layers in ALE mode
@@ -106,12 +91,6 @@ BOUNDARY_EXTRAPOLATION = True
 ! from profile: minimum dz=2, 4000m total thickness, profile is dz^4.5
 ALE_COORDINATE_CONFIG = "FILE:vcoord.nc,interfaces=st_edges_ocean"
 
-! artificial compressibility to make homogeneous regions appear stratified
-! REGRID_COMPRESSIBILITY_FRACTION = 0.01
-
-! maximum limits on interfaces/layers
-! MAXIMUM_INT_DEPTH_CONFIG = "FNC1:5,8000.0,1.0,.01"
-! MAX_LAYER_THICKNESS_CONFIG = "FNC1:400,31000.0,0.1,.01"
 REMAPPING_SCHEME = "PPM_H4"
 
 ! === module MOM_state_initialization ===
@@ -279,6 +258,6 @@ DIAG_COORDS = "z Z ZSTAR", "rho2 RHO2 RHO"
 DIAG_COORD_DEF_Z = "FILE:vcoord.nc,interfaces=st_edges_ocean"
 ! drho (arg 5) is a bit magic and has a big impact on
 ! the tail of the coord...
-DIAG_COORD_DEF_RHO2 = "RFNC1:70,999.5,1033,1033.7,3.,1037.7,0.0078125"
+DIAG_COORD_DEF_RHO2 = "FILE:diag_rho2.nc,interfaces=rho2"
 
 BAD_VAL_SST_MIN = -3.0
