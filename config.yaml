@@ -23,4 +23,4 @@ platform:
   nodesize: 48
 
 mpi:
-  module: openmpi/4.0.3
+  module: openmpi/4.1.2
