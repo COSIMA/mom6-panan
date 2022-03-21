@@ -7,13 +7,13 @@ THICKNESSDIFFUSE = False
 ! do thickness diffusion before dynamics
 THICKNESSDIFFUSE_FIRST = True
 ! baroclinic timestep
-DT = 450.0
+DT = 900.0
 !DT = 360.0
 
 ! thermodynamic and tracer advection timestep
 !DT_THERM = 3600.0
-!DT_THERM = 1800.0
-DT_THERM = 900.0
+DT_THERM = 1800.0
+!DT_THERM = 900.0
 ! thermo timesteps can be longer than coupling timestep
 THERMO_SPANS_COUPLING = True
 ! form frazil ice (accumulated heat deficit is returned
@@ -33,15 +33,16 @@ WRITE_GEOM = 0
 
 ! for debug: save initial conditions
 !SAVE_INITIAL_CONDS = True
+RESTART_CHECKSUMS_REQUIRED = False
 
 ! === module MOM_domains ===
-NIGLOBAL = 7200
-NJGLOBAL = 1690
+NIGLOBAL = 3600
+NJGLOBAL = 845
 
-LAYOUT = 144,34
+LAYOUT = 72,17
 IO_LAYOUT = 1,1
 
-MASKTABLE = "masks/mask_table.1181.144x34"
+MASKTABLE = "masks/mask_table.262.72x17"
 
 ! === module MOM_verticalGrid ===
 NK = 75
@@ -51,9 +52,9 @@ INPUTDIR = "INPUT"
 
 ! === module MOM_grid_init ===
 GRID_CONFIG = "mosaic"
-GRID_FILE = "ocean_hgrid_0025.nc"
+GRID_FILE = "ocean_hgrid.nc"
 TOPO_CONFIG = "file"
-TOPO_FILE = "ocean_topog_filled.nc"
+TOPO_FILE = "ocean_topog.nc"
 
 MINIMUM_DEPTH = 9.5
 MAXIMUM_DEPTH = 6000.0
@@ -68,37 +69,19 @@ OBC_ZERO_BIHARMONIC = True
 OBC_SEGMENT_001 = "J=N,I=N:0,FLATHER,ORLANSKI,NUDGED"
 OBC_SEGMENT_001_VELOCITY_NUDGING_TIMESCALES = .3, 360.0 ! inflow and outflow timescales
 BRUSHCUTTER_MODE = True ! read data on supergrid
-OBC_SEGMENT_001_DATA = "U=file:forcing_obc_shifted.nc(u),V=file:forcing_obc_shifted.nc(v),SSH=file:forcing_obc_shifted.nc(eta_t),TEMP=file:forcing_obc_shifted.nc(temp),SALT=file:forcing_obc_shifted.nc(salt)"
+OBC_SEGMENT_001_DATA = "U=file:forcing/forcing_obc.nc(u),V=file:forcing/forcing_obc.nc(v),SSH=file:forcing/forcing_obc.nc(eta_t),TEMP=file:forcing/forcing_obc.nc(temp),SALT=file:forcing/forcing_obc.nc(salt)"
 !RAMP_OBCS = True
 
 OBC_TRACER_RESERVOIR_LENGTH_SCALE_OUT = 30000
 OBC_TRACER_RESERVOIR_LENGTH_SCALE_IN = 3000
 
 ! sponges
-SPONGE = True
-SPONGE_CONFIG = "file"
-SPONGE_DAMPING_FILE = "sponges/idamp_1deg_10d_linear.nc"
-SPONGE_STATE_FILE = "sponge_uvts.nc"
-SPONGE_IDAMP_VAR = "Idamp"
-SPONGE_PTEMP_VAR = "t"
-SPONGE_SALT_VAR = "s"
-! gives the vertical grid for the sponge data
-SPONGE_ETA_VAR = "eta"
-! specifically sponge velocities
-SPONGE_UV = False
-
-! for OBC-forced sponge:
-!SPONGE_ETA_VAR = "uv_thickness"
-SPONGE_UV_STATE_FILE = "sponge_uvts.nc"
-INTERPOLATE_SPONGE_TIME_SPACE = True
-SPONGE_DATA_ONGRID = True
+SPONGE = False
 
 ! === module MOM_coord_initialization ===
 ! don't define layers in ALE mode
 COORD_CONFIG = "ALE"
 
-! HyCOM-like coordinate -- regrid to a target density, bounded
-! by a minimum interface depth
 REGRIDDING_COORDINATE_MODE = "ZSTAR"
 ! use high-order scheme at boundary cells for remapping,
 ! instead of just piecewise-constant
@@ -108,12 +91,6 @@ BOUNDARY_EXTRAPOLATION = True
 ! from profile: minimum dz=2, 4000m total thickness, profile is dz^4.5
 ALE_COORDINATE_CONFIG = "FILE:vcoord.nc,interfaces=st_edges_ocean"
 
-! artificial compressibility to make homogeneous regions appear stratified
-! REGRID_COMPRESSIBILITY_FRACTION = 0.01
-
-! maximum limits on interfaces/layers
-! MAXIMUM_INT_DEPTH_CONFIG = "FNC1:5,8000.0,1.0,.01"
-! MAX_LAYER_THICKNESS_CONFIG = "FNC1:400,31000.0,0.1,.01"
 REMAPPING_SCHEME = "PPM_H4"
 
 ! === module MOM_state_initialization ===
@@ -125,7 +102,7 @@ TEMP_SALT_INIT_VERTICAL_REMAP_ONLY = True
 
 ! === module MOM_initialize_layers_from_Z ===
 ! read "temp" and "salt" from a z-space file
-TEMP_SALT_Z_INIT_FILE = "temp_salt_init_z_0025.nc"
+TEMP_SALT_Z_INIT_FILE = "forcing/temp_salt_init_z.nc"
 Z_INIT_FILE_PTEMP_VAR = "temp"
 ! remap straight to the model coordinate
 Z_INIT_ALE_REMAPPING = True
@@ -281,6 +258,6 @@ DIAG_COORDS = "z Z ZSTAR", "rho2 RHO2 RHO"
 DIAG_COORD_DEF_Z = "FILE:vcoord.nc,interfaces=st_edges_ocean"
 ! drho (arg 5) is a bit magic and has a big impact on
 ! the tail of the coord...
-DIAG_COORD_DEF_RHO2 = "RFNC1:70,999.5,1033,1033.7,3.,1037.7,0.0078125"
+DIAG_COORD_DEF_RHO2 = "FILE:diag_rho2.nc,interfaces=rho2"
 
 BAD_VAL_SST_MIN = -3.0

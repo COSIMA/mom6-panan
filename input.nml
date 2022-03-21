@@ -16,21 +16,18 @@
 
 &fms_nml
 	domains_stack_size = 1600000,
-	stack_size = 0
+	stack_size = 0,
+	clock_grain = 'LOOP'
 /
 
-&atmos_model_nml
-	layout = 144, 34,
-	mask_table = 'INPUT/masks/mask_table.1181.144x34'
-/
-
-&land_model_nml
-	layout = 144, 34,
-	mask_table = 'INPUT/masks/mask_table.1181.144x34'
+&fms2_io_nml
+        netcdf_default_format = "netcdf4"
+	shuffle = .true.,
+	deflate = 5
 /
 
 &coupler_nml
-	months = 1,
+	months = 3,
 	days = 0,
 	hours = 0,
 	current_date = 1991,1,1,0,0,0,
