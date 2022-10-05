@@ -7,13 +7,13 @@ THICKNESSDIFFUSE = False
 ! do thickness diffusion before dynamics
 THICKNESSDIFFUSE_FIRST = True
 ! baroclinic timestep
-DT = 900.0
+DT = 450.0
 !DT = 360.0
 
 ! thermodynamic and tracer advection timestep
 !DT_THERM = 3600.0
-DT_THERM = 1800.0
-!DT_THERM = 900.0
+!DT_THERM = 1800.0
+DT_THERM = 900.0
 ! thermo timesteps can be longer than coupling timestep
 THERMO_SPANS_COUPLING = True
 ! form frazil ice (accumulated heat deficit is returned
@@ -36,13 +36,13 @@ WRITE_GEOM = 0
 RESTART_CHECKSUMS_REQUIRED = False
 
 ! === module MOM_domains ===
-NIGLOBAL = 3600
-NJGLOBAL = 845
+NIGLOBAL = 7200
+NJGLOBAL = 1690
 
-LAYOUT = 72,17
+LAYOUT = 144,34
 IO_LAYOUT = 1,1
 
-MASKTABLE = "masks/mask_table.262.72x17"
+MASKTABLE = "masks/mask_table.1181.144x34"
 
 ! === module MOM_verticalGrid ===
 NK = 75
@@ -52,7 +52,7 @@ INPUTDIR = "INPUT"
 
 ! === module MOM_grid_init ===
 GRID_CONFIG = "mosaic"
-GRID_FILE = "ocean_hgrid.nc"
+GRID_FILE = "ocean_hgrid_0025.nc"
 TOPO_CONFIG = "file"
 TOPO_FILE = "ocean_topog.nc"
 
@@ -69,7 +69,7 @@ OBC_ZERO_BIHARMONIC = True
 OBC_SEGMENT_001 = "J=N,I=N:0,FLATHER,ORLANSKI,NUDGED"
 OBC_SEGMENT_001_VELOCITY_NUDGING_TIMESCALES = .3, 360.0 ! inflow and outflow timescales
 BRUSHCUTTER_MODE = True ! read data on supergrid
-OBC_SEGMENT_001_DATA = "U=file:forcing/forcing_obc.nc(u),V=file:forcing/forcing_obc.nc(v),SSH=file:forcing/forcing_obc.nc(eta_t),TEMP=file:forcing/forcing_obc.nc(temp),SALT=file:forcing/forcing_obc.nc(salt)"
+OBC_SEGMENT_001_DATA = "U=file:forcing_obc_shifted.nc(u),V=file:forcing_obc_shifted.nc(v),SSH=file:forcing_obc_shifted.nc(eta_t),TEMP=forcing/forcing_obc_shifted.nc(temp),SALT=file:forcing_obc_shifted.nc(salt)"
 !RAMP_OBCS = True
 
 OBC_TRACER_RESERVOIR_LENGTH_SCALE_OUT = 30000
@@ -102,7 +102,7 @@ TEMP_SALT_INIT_VERTICAL_REMAP_ONLY = True
 
 ! === module MOM_initialize_layers_from_Z ===
 ! read "temp" and "salt" from a z-space file
-TEMP_SALT_Z_INIT_FILE = "forcing/temp_salt_init_z.nc"
+TEMP_SALT_Z_INIT_FILE = "temp_salt_init_z_0025.nc"
 Z_INIT_FILE_PTEMP_VAR = "temp"
 ! remap straight to the model coordinate
 Z_INIT_ALE_REMAPPING = True
