@@ -243,7 +243,7 @@ ENERGYSAVEDAYS = 1.0
 ! by atmosphere and floating sea-ice
 MAX_P_SURF = 0.0
 CD_TIDES = 0.0018
-GUST_CONST = 1.E-2
+GUST_CONST = 0.0
 USE_RIGID_SEA_ICE = True
 SEA_ICE_RIGID_MASS = 100.0
 
