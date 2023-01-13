@@ -159,13 +159,13 @@ work/INPUT/RYF.v_10.2003_2004.nc:
 work/INPUT/atmos_mosaic_tile1Xland_mosaic_tile1.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/atmos_mosaic_tile1Xland_mosaic_tile1.nc
   hashes:
-    binhash: ce18c7b956b7738edd43ed1e613f62b3
-    md5: a0d0e38073592f0aa1d3780a75d60def
+    binhash: d23574249b6466de51aa11af09d510bc
+    md5: 0962775ee6206d4646cd48dccf33e8de
 work/INPUT/atmos_mosaic_tile1Xocean_mosaic_tile1.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/atmos_mosaic_tile1Xocean_mosaic_tile1.nc
   hashes:
-    binhash: 554d051854b0897d1b48a34c97c30539
-    md5: 9ca8a8796fb15fbd1c0b4ecb8ee288be
+    binhash: aac2bfec5c3bf3d9037c1bf1852bac12
+    md5: 4c4fb833dc3a28c54f93e8536777edd4
 work/INPUT/backup_grids/forcing_obc.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/backup_grids/forcing_obc.nc
   hashes:
@@ -284,8 +284,18 @@ work/INPUT/grid_0025.nc:
 work/INPUT/grid_spec.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/grid_spec.nc
   hashes:
-    binhash: b20c38ca9fc612d7e827e5fd981fde3f
+    binhash: 2c93431ffa3dcd516198dd84f911810a
+    md5: 90f69d4b088fde79e27776699684cd26
+work/INPUT/grid_spec.nc.old:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/grid_spec.nc.old
+  hashes:
+    binhash: 1ddab02b65ea6aa836a55b0e5dbf22ab
     md5: ec33a6b3878ffc7846a5860a2ce4a9bc
+work/INPUT/grid_spec_new.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/grid_spec_new.nc
+  hashes:
+    binhash: b4b7debc26f5e1fc5bf8c51ab9cfa458
+    md5: 48322685c259d2978dc7eaefe0fcfc00
 work/INPUT/hycom1_75_800m.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/hycom1_75_800m.nc
   hashes:
@@ -294,13 +304,13 @@ work/INPUT/hycom1_75_800m.nc:
 work/INPUT/land_mask.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/land_mask.nc
   hashes:
-    binhash: 5e3a31d4c354f84ce017809dd9db6ddd
-    md5: 266161a4aea10a1bea766a4f118983b2
+    binhash: ce4df3cbc5ce26b3f1d38703ece2afc7
+    md5: e62409fb611d6a6366184f0b5bfd95b1
 work/INPUT/land_mosaic_tile1Xocean_mosaic_tile1.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/land_mosaic_tile1Xocean_mosaic_tile1.nc
   hashes:
-    binhash: 2ba5f524696dab2639f9ebc0cdc615dd
-    md5: 3fe2b76db59bc09e84d1909e5f4b61e4
+    binhash: 086c6db2194387410a944225715283ab
+    md5: 65c61895b40ceaa05850adfa2f414009
 work/INPUT/masks/mask_table.1083.125x36:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.1083.125x36
   hashes:
@@ -311,10 +321,20 @@ work/INPUT/masks/mask_table.1145.144x33:
   hashes:
     binhash: fc530df7a40851f9c80bf6c35a9f8648
     md5: 05577d3feeb010074d2095f050d99aa4
+work/INPUT/masks/mask_table.1171.144x34:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.1171.144x34
+  hashes:
+    binhash: db116c4a45e3c12c360e4c8b9a4560d6
+    md5: b33e421e9ed65e2641fb233e2ea8f8c7
+work/INPUT/masks/mask_table.1176.144x34:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.1176.144x34
+  hashes:
+    binhash: f21aae751a059cc0186469c9c750605c
+    md5: b582cd605e60639cf335926f98d26c22
 work/INPUT/masks/mask_table.1179.144x34:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.1179.144x34
   hashes:
-    binhash: bf99a72006f604fac1a5051256f39911
+    binhash: 8b7fc99b71cf289d9e8435e305696ca0
     md5: 2d2245bef53e00ca247e22b5412771bb
 work/INPUT/masks/mask_table.1181.144x34:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/masks/mask_table.1181.144x34
@@ -439,8 +459,8 @@ work/INPUT/ocean_hgrid_0025.nc:
 work/INPUT/ocean_mask.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/ocean_mask.nc
   hashes:
-    binhash: 7b8ec36dc44e312539c5b82400fa2917
-    md5: 60a68ec845f287d645cad1c4b28e2979
+    binhash: 81b3d3d1f9766ea2515f63697d79a887
+    md5: c8df78d184737cfc19be592bdd8342b8
 work/INPUT/ocean_mosaic.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/ocean_mosaic.nc
   hashes:
@@ -546,6 +566,11 @@ work/INPUT/temp_salt_init_z_0025.nc.bak:
   hashes:
     binhash: c8d51f0f5446ab3ee013d8eafb004772
     md5: 07bb7666f233e37b3caa0cdd0327304d
+work/INPUT/temp_salt_init_z_0025_filled.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/temp_salt_init_z_0025_filled.nc
+  hashes:
+    binhash: c07213460de25dd9b5030ded02708eb2
+    md5: 0a28339a735f3929d6f7e28f058cc06d
 work/INPUT/temp_salt_init_z_0025_filled_NaNs.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/temp_salt_init_z_0025_filled_NaNs.nc
   hashes:
