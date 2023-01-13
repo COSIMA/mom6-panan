@@ -406,41 +406,11 @@ work/INPUT/masks/mask_table.956.125x32:
   hashes:
     binhash: a08e47b0c64055a49da95e1240a188fe
     md5: 3a156b85257ab516397afceead8bf241
-work/INPUT/new_cice_mask.nc:
-  fullpath: /g/data/e14/cs6673/shared/panan-005_bathy/new_cice_mask.nc
-  hashes:
-    binhash: 2d39dbbd8eb5db3fadbb3065cfbe04ff
-    md5: 4142897c96e017654405f397eabff32f
-work/INPUT/new_cice_mask_37S.nc:
-  fullpath: /g/data/e14/cs6673/shared/panan-005_bathy/new_cice_mask_37S.nc
-  hashes:
-    binhash: 489b5bbb91e92aebd9bbde9b79470163
-    md5: df16b96e9e0fe9c2d086633e2d6bc080
-work/INPUT/new_mom_mask.nc:
-  fullpath: /g/data/e14/cs6673/shared/panan-005_bathy/new_mom_mask.nc
-  hashes:
-    binhash: f62c10af8f7ff06c08147825445ee927
-    md5: 56de931f575a40a66f2880f2e8cc2069
-work/INPUT/new_mom_mask_37S.nc:
-  fullpath: /g/data/e14/cs6673/shared/panan-005_bathy/new_mom_mask_37S.nc
-  hashes:
-    binhash: 52fc7d5612954aa6aa6c2c7b5d2d683a
-    md5: a03c0c9c1f98888144c212883197533d
-work/INPUT/new_topog.nc:
-  fullpath: /g/data/e14/cs6673/shared/panan-005_bathy/new_topog.nc
-  hashes:
-    binhash: 72161c20ae3e50550c031b49e2fc4491
-    md5: dc10e28c9e77230b0ca8950a1d1e3313
 work/INPUT/new_topog_37S.nc:
-  fullpath: /g/data/e14/cs6673/shared/panan-005_bathy/new_topog_37S.nc
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/new_topog_37S.nc
   hashes:
-    binhash: 6a3a7c3aa9a0c09a2a305dc62ccb8d79
-    md5: b61a7e81edfdaf959db1e4e3ffb3f99b
-work/INPUT/new_topog_37S_init_dim_names.nc:
-  fullpath: /g/data/e14/cs6673/shared/panan-005_bathy/new_topog_37S_init_dim_names.nc
-  hashes:
-    binhash: e94faf1e99ade0013278d9cbb1f11d36
-    md5: 5894379dc9db813a366bed4765f70629
+    binhash: 179664a12b69b9cb4832c10d511d91c2
+    md5: 86510f58679f4bcd5e22ed353f1e8a4c
 work/INPUT/obc_vertical.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/obc_vertical.nc
   hashes:
