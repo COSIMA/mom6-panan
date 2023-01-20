@@ -7,3 +7,8 @@ contains the model configurations, and the scripts required to
 generate the input forcing.
 
 For up to date diagnostics on the model output see the [mom6-panan-diagnostics](https://github.com/COSIMA/mom6-panan-diagnostics) repository.
+
+Upcoming panan development meetings:
+
+* Friday 27th Jan, 9:30-11:30am
+* Friday 3rd Feb, 9:30-11:30am
