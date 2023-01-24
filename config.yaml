@@ -14,6 +14,8 @@ input:
     - /g/data/ua8/JRA55-do/RYF/v1-3/
 exe: /g/data/x77/ahg157/exes/MOM6_SIS2/symmetric_FMS2-e7d09b7
 
+restart: /g/data/ik11/outputs/mom6-panan/panant-01-zstar-v13/restart040
+
 collate: false
 #runlog: true
 storage:
