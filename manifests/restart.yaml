@@ -1,3 +1,128 @@
 format: yamanifest
 version: 1.0
---- {}
+---
+work/INPUT/MOM.res.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res.nc
+  hashes:
+    binhash: f67bd5261605936f07dbe63cfaff12e7
+    md5: acfc47d0c6e63434554b7c84674fb786
+work/INPUT/MOM.res_1.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res_1.nc
+  hashes:
+    binhash: d67520eb31408e0d9ea72ce14ef89f40
+    md5: e82759b2a4b6d3f6ebad11b272476c18
+work/INPUT/MOM.res_10.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res_10.nc
+  hashes:
+    binhash: 7d79515cdaec412136978cf554ae46ce
+    md5: 3d27c9ae00e0610ebcc422762cf1495f
+work/INPUT/MOM.res_11.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res_11.nc
+  hashes:
+    binhash: dc8838cefeff1d072e83a699dff0b4ed
+    md5: adc2d1370f11935c91ba8148d6dc8594
+work/INPUT/MOM.res_12.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res_12.nc
+  hashes:
+    binhash: 25a5689a4a04e41f6f19d3fd8553bab1
+    md5: eee8ed4ab77a2c002fc0a4fa8287c2c5
+work/INPUT/MOM.res_13.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res_13.nc
+  hashes:
+    binhash: d2a1ba302e30dff9f96ab6e883e0b2d1
+    md5: 779c864cdb781e7101e739460f1203f0
+work/INPUT/MOM.res_14.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res_14.nc
+  hashes:
+    binhash: 95a959c83908a62c2461915d1d71c391
+    md5: 9777f8ef791bfc14686d427503513f3c
+work/INPUT/MOM.res_15.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res_15.nc
+  hashes:
+    binhash: 47c5fe9f570fb51bddef70da42c80991
+    md5: bb1a4dc2c585bc45ac77303cee6da734
+work/INPUT/MOM.res_16.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res_16.nc
+  hashes:
+    binhash: 2b8c01dc7d3f5fefefebdbb1b59dd283
+    md5: d72345f1d5b488ad27331f84e1b6f28d
+work/INPUT/MOM.res_17.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res_17.nc
+  hashes:
+    binhash: 85f444cb5f3e6b0a3343dc8cb63292ac
+    md5: 111ceee6bfc1ffc6286e09d4db3a6195
+work/INPUT/MOM.res_18.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res_18.nc
+  hashes:
+    binhash: a97a137c136bf854625cfcf547d4ef93
+    md5: 393daf0914680fa8c2b19580685bbfcf
+work/INPUT/MOM.res_19.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res_19.nc
+  hashes:
+    binhash: 26f0489085863cd6ade2c647ca0b25f4
+    md5: b433c7e52c1e2d8bbb5d57766da93114
+work/INPUT/MOM.res_2.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res_2.nc
+  hashes:
+    binhash: 959dd99c84255408b329172f71b233ad
+    md5: edddc7be4b832f672dc04195f62abbf6
+work/INPUT/MOM.res_20.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res_20.nc
+  hashes:
+    binhash: c861f7079333bf2db216bc449aa09c8b
+    md5: 788984217c7fd4d59356c8f95b82417f
+work/INPUT/MOM.res_3.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res_3.nc
+  hashes:
+    binhash: 93a8edc70211ba27701d38281121b02f
+    md5: 88b514a4b7605c2688aa3dc638750743
+work/INPUT/MOM.res_4.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res_4.nc
+  hashes:
+    binhash: 188a0ef7f484e99c8caa35cbcb9d4454
+    md5: 9e7c00d46bcde562677ff1a5192ebcb6
+work/INPUT/MOM.res_5.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res_5.nc
+  hashes:
+    binhash: 414646ca2409052999e45ebb354fefdb
+    md5: 76ea398a2bef4628ce96df7e5ff77945
+work/INPUT/MOM.res_6.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res_6.nc
+  hashes:
+    binhash: d2c77b956698dab3e27002d297c003c1
+    md5: bd6ff7a20753bcb1de51b3f0b13f4ccf
+work/INPUT/MOM.res_7.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res_7.nc
+  hashes:
+    binhash: 54432e98e389b2d20836c857cd0c7f6f
+    md5: e2bc415df03e56392c876b0a64ee8298
+work/INPUT/MOM.res_8.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res_8.nc
+  hashes:
+    binhash: 1a10c1e5f3de79c051609c04481a9bcd
+    md5: 7fb5fdb47db19e70565d43be44877d15
+work/INPUT/MOM.res_9.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res_9.nc
+  hashes:
+    binhash: 73d56f20164d6c230728c8a5dd750cf1
+    md5: 5c4f019db5d59f6e9758aceceda49abb
+work/INPUT/coupler.res:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/coupler.res
+  hashes:
+    binhash: f16f9bf6a7e68f5c9527914a73e7277e
+    md5: 494a08b45556d64bf6a11711db452419
+work/INPUT/ice_model.res.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/ice_model.res.nc
+  hashes:
+    binhash: 30287b05fc29b418b0028ae449fbb69f
+    md5: 9972398837d9720d869ddac26ad3c59d
+work/INPUT/ice_model.res_1.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/ice_model.res_1.nc
+  hashes:
+    binhash: 7addf42eb659d996adb439fd06630879
+    md5: 0f99cbe1eb04ee5a292a5256c0edcde6
+work/INPUT/ice_model.res_2.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/ice_model.res_2.nc
+  hashes:
+    binhash: d2fb44bb6ce9dd1b8ad8ba4f73f934a6
+    md5: 8b1dbd94487c472f207ba41ab05fd8ec

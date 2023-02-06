@@ -11,7 +11,7 @@ panan
 
 # Ocean grid-cell volume
 "ocean_model_z", "volcello",     "volcello",         "ocean_month_z",       "all", "mean", "none",2
-# "ocean_model_rho2", "volcello",  "volcello",         "ocean_month_rho2",    "all", "mean", "none",2
+"ocean_model_rho2", "volcello",  "volcello",         "ocean_month_rho2",    "all", "mean", "none",2
 
 # Sea surface height above geoid
 "ocean_model",   "zos",          "zos",              "ocean_daily",         "all", "mean", "none",2
@@ -29,9 +29,9 @@ panan
 "ocean_model",   "speed",        "speed",            "ocean_daily",         "all", "mean", "none",2
 
 # (umo,vmo)  =net mass transport from residual mean velocity (model resolved + SGS)
-# "ocean_model_rho2","umo",       "umo",              "ocean_month_rho2",   "all", "mean", "none",2
-# "ocean_model_rho2","vmo",       "vmo",              "ocean_month_rho2",   "all", "mean", "none",2
-# "ocean_model_rho2", "h",        "hmo",              "ocean_month_rho2",   "all", "mean", "none", 2
+"ocean_model_rho2","umo",       "umo",              "ocean_month_rho2",   "all", "mean", "none",2
+"ocean_model_rho2","vmo",       "vmo",              "ocean_month_rho2",   "all", "mean", "none",2
+"ocean_model_rho2", "h",        "hmo",              "ocean_month_rho2",   "all", "mean", "none", 2
 
 # Zonal/Meridional velocity
 "ocean_model_z","uo",           "uo",               "ocean_month_z",      "all", "mean", "none",2
