@@ -11,7 +11,7 @@ shortpath: /scratch/e14
 
 model: mom6
 input:
-    - /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/
+        #    - /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/
     - /g/data/e14/cs6673/panan-005/domain-tools/new_topog_exchange_grid/ 
     - /g/data/x77/ahg157/inputs/mom6/panan/
     - /g/data/ik11/inputs/JRA-55/RYF/v1-3/
