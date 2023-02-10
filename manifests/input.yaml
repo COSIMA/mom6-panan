@@ -256,6 +256,26 @@ work/INPUT/diag_rho2.nc:
   hashes:
     binhash: 8485371c796e828cddea1739a282fc2c
     md5: 2e28890e50220397a167a2b3c4a30271
+work/INPUT/error_logs/env.72032803.gadi-pbs.yaml:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/error_logs/env.72032803.gadi-pbs.yaml
+  hashes:
+    binhash: c5500e88b7f90862232f1423e86b360b
+    md5: f2a7a466a828b6c13fdbd12bd3024388
+work/INPUT/error_logs/job.72032803.gadi-pbs.yaml:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/error_logs/job.72032803.gadi-pbs.yaml
+  hashes:
+    binhash: a38d93345f174749a256751fe5f41302
+    md5: c6b5b830ee06d7315390366cafd739ee
+work/INPUT/error_logs/mom6.72032803.gadi-pbs.err:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/error_logs/mom6.72032803.gadi-pbs.err
+  hashes:
+    binhash: 39c943fe5ead2e54351c387d5f64c2cb
+    md5: 7e2923eac4d2ab835a28c914c7b68446
+work/INPUT/error_logs/mom6.72032803.gadi-pbs.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/error_logs/mom6.72032803.gadi-pbs.out
+  hashes:
+    binhash: 01d4e97e5e9a0b72a196d06028359931
+    md5: 02ba0a25006330bc747074f4c765ca4d
 work/INPUT/forcing_obc.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/forcing_obc.nc
   hashes:
@@ -3201,6 +3221,11 @@ work/INPUT/pbs_logs/mom6_panan-005.e71999697:
   hashes:
     binhash: 508eef94491b4687c31e1ae9c1a9fc95
     md5: cd997e8783fa60b21b76e9698fe984c2
+work/INPUT/pbs_logs/mom6_panan-005.e72032803:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/pbs_logs/mom6_panan-005.e72032803
+  hashes:
+    binhash: fbe6d8c0e7e7f76d1fb84e7a5ff663a2
+    md5: b8b0544154f0454c378af04d19986b1d
 work/INPUT/pbs_logs/mom6_panan-005.o71765546:
   fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/pbs_logs/mom6_panan-005.o71765546
   hashes:
@@ -3246,6 +3271,11 @@ work/INPUT/pbs_logs/mom6_panan-005.o71999697:
   hashes:
     binhash: ee483f26854fafa40b9c79605d92c1b0
     md5: 705c5ab780a0b69c314e52214f371584
+work/INPUT/pbs_logs/mom6_panan-005.o72032803:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/pbs_logs/mom6_panan-005.o72032803
+  hashes:
+    binhash: 6c79eb70ac1c965e7c9d432f302790d2
+    md5: 578522358ce7757736e3453612e33547
 work/INPUT/restart000/MOM.res.nc:
   fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res.nc
   hashes:
