@@ -3196,6 +3196,11 @@ work/INPUT/pbs_logs/mom6_panan-005.e71999543:
   hashes:
     binhash: a3b627db3a1fd56d814fcbc64a874066
     md5: d41d8cd98f00b204e9800998ecf8427e
+work/INPUT/pbs_logs/mom6_panan-005.e71999697:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/pbs_logs/mom6_panan-005.e71999697
+  hashes:
+    binhash: 508eef94491b4687c31e1ae9c1a9fc95
+    md5: cd997e8783fa60b21b76e9698fe984c2
 work/INPUT/pbs_logs/mom6_panan-005.o71765546:
   fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/pbs_logs/mom6_panan-005.o71765546
   hashes:
@@ -3236,6 +3241,11 @@ work/INPUT/pbs_logs/mom6_panan-005.o71999543:
   hashes:
     binhash: 249873c62af439e6789f1804a3488abb
     md5: 6e5f2d08d61719fc7aee2d8d5d6025d2
+work/INPUT/pbs_logs/mom6_panan-005.o71999697:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/pbs_logs/mom6_panan-005.o71999697
+  hashes:
+    binhash: ee483f26854fafa40b9c79605d92c1b0
+    md5: 705c5ab780a0b69c314e52214f371584
 work/INPUT/restart000/MOM.res.nc:
   fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart000/MOM.res.nc
   hashes:
