@@ -4991,6 +4991,901 @@ work/INPUT/output004/time_stamp.out:
   hashes:
     binhash: 5c2ef4b9283949354e31ea4040739318
     md5: 178ab8f2501fc32ebff525c430e981bb
+work/INPUT/output005/19910601.ice_daily.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/19910601.ice_daily.nc
+  hashes:
+    binhash: 1fcd9952e7af55257026966a975b0d75
+    md5: 2ec5ae3949d59ed2e777542318d3c7c7
+work/INPUT/output005/19910601.ice_month.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/19910601.ice_month.nc
+  hashes:
+    binhash: 8eef8bf4e34a923dedbb36dc1a9d68ef
+    md5: 398973bf69c9a54e26287a13e8612fe3
+work/INPUT/output005/19910601.ocean_daily.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/19910601.ocean_daily.nc
+  hashes:
+    binhash: 9da621b59842cfb79a8b68393fb76314
+    md5: 1deedca7d6c99aa9da78bd05039c7687
+work/INPUT/output005/19910601.ocean_month.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/19910601.ocean_month.nc
+  hashes:
+    binhash: dde7c444c5a0a8289b55342f4a1b2915
+    md5: ac11d90f424cbc6043aca070a992bef6
+work/INPUT/output005/19910601.ocean_month_rho2.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/19910601.ocean_month_rho2.nc
+  hashes:
+    binhash: 14f74107f760d877dc39686ba51ff6bb
+    md5: a6b006d60f90d9538f468b64659a6af0
+work/INPUT/output005/19910601.ocean_month_z.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/19910601.ocean_month_z.nc
+  hashes:
+    binhash: ed4467c5b8b6745328aa1fe8014a7b85
+    md5: 8a10e1765b2791d23e298d03f0558e18
+work/INPUT/output005/19910601.ocean_static.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/19910601.ocean_static.nc
+  hashes:
+    binhash: 263d4d15287556f9c6d9b4335c1cc1d7
+    md5: 8bfeaea5285c25799526ef1a2b0d71d8
+work/INPUT/output005/MOM_input:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/MOM_input
+  hashes:
+    binhash: 3cea82ff9dacf6aaba311cc35a62b851
+    md5: 4d7a9285e2c8bd03129351c0ee7992b8
+work/INPUT/output005/MOM_parameter_doc.all:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/MOM_parameter_doc.all
+  hashes:
+    binhash: 898b5d367834abb7c9b6d6394d39d41c
+    md5: f6fa6a78182103d20029b03a1507fea3
+work/INPUT/output005/MOM_parameter_doc.debugging:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/MOM_parameter_doc.debugging
+  hashes:
+    binhash: 3ee22c3e30a16b5aa948d85eb3435c98
+    md5: d8c70c751f35c2bd9a2ff7c590cd152a
+work/INPUT/output005/MOM_parameter_doc.layout:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/MOM_parameter_doc.layout
+  hashes:
+    binhash: b0a90f0fb74893ab273fe5eb3d68ac76
+    md5: 47750be09b35fe6d890f1bd55b744804
+work/INPUT/output005/MOM_parameter_doc.short:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/MOM_parameter_doc.short
+  hashes:
+    binhash: 802700b11d1fffde94a94c1b50a08968
+    md5: 7bc29b5a2edcbd913bd30cc3bebe2cf5
+work/INPUT/output005/SIS.available_diags:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/SIS.available_diags
+  hashes:
+    binhash: ebb129b92ba9ba0be2cd061f35d269cd
+    md5: 8f8a53c185039a68af8f0b05f481d312
+work/INPUT/output005/SIS_fast.available_diags:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/SIS_fast.available_diags
+  hashes:
+    binhash: e1ae603c55d2952ba7546d31c3e7096a
+    md5: d63a06d2fd407ba9d8f6463a1a2bde16
+work/INPUT/output005/SIS_input:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/SIS_input
+  hashes:
+    binhash: f853ba359400156ef45151cce5f3d156
+    md5: a63f220686536f61371c492c2a658649
+work/INPUT/output005/SIS_parameter_doc.all:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/SIS_parameter_doc.all
+  hashes:
+    binhash: ae8b99cf4b3072f26bf801bc511c0d2c
+    md5: e9f148398ed8d5618cfcd26d5d92e9fa
+work/INPUT/output005/SIS_parameter_doc.debugging:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/SIS_parameter_doc.debugging
+  hashes:
+    binhash: 9778791cf3bc70d664ad76127798bb48
+    md5: 253ddabb41ee7f0c7aed95567cc6dcdb
+work/INPUT/output005/SIS_parameter_doc.layout:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/SIS_parameter_doc.layout
+  hashes:
+    binhash: 2206850146285165eaecc2c86e80d288
+    md5: 1acf29e2317c12fef08c6963511c73fc
+work/INPUT/output005/SIS_parameter_doc.short:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/SIS_parameter_doc.short
+  hashes:
+    binhash: 893f3efe37969072b52f3bac9d553f9d
+    md5: bc8e4c98e401a884dcbd8c8bb358f53c
+work/INPUT/output005/Vertical_coordinate.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/Vertical_coordinate.nc
+  hashes:
+    binhash: 6e9c97c33253ae2d88d009aea6107d02
+    md5: e4d16a8cfe5a5ebca7c66b1438e46e1d
+work/INPUT/output005/available_diags.000000:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/available_diags.000000
+  hashes:
+    binhash: b85bf8899cac0668fa2542e4b72d8f41
+    md5: d0834e773d5be29b66604d04ad1ea5cf
+work/INPUT/output005/config.yaml:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/config.yaml
+  hashes:
+    binhash: 925596b4152116904b7b2971517bb76f
+    md5: 2c7a6ffad1932d73fe358879f481305d
+work/INPUT/output005/data_table:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/data_table
+  hashes:
+    binhash: 6b6806b823134c4e577fee2166cc7847
+    md5: 0e2587d7bab7c1ce277b3e99af629c0b
+work/INPUT/output005/diag_table:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/diag_table
+  hashes:
+    binhash: e5f781180bc92b4f71e1a8c77e126a61
+    md5: 29f3bb9be6c454a4d73ea429ebbd8886
+work/INPUT/output005/env.yaml:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/env.yaml
+  hashes:
+    binhash: 8ebcabc3ef7e940068862d250a07de4b
+    md5: 388ba8e510af5388e235d0326504f819
+work/INPUT/output005/field_table:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/field_table
+  hashes:
+    binhash: 4488f06e30bb4b8005e30b8edcf9158e
+    md5: a663a871ffae8093a84457dd5395f54c
+work/INPUT/output005/input.nml:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/input.nml
+  hashes:
+    binhash: 3ad3693e2f0df6748f1290bb75ca631c
+    md5: d09b786ed749a1b5d622e782a90aa709
+work/INPUT/output005/job.yaml:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/job.yaml
+  hashes:
+    binhash: 97103619b097278c462e5cffc6fa2e2a
+    md5: 9c9ef6b269a29ddb3c51a730a9bd844f
+work/INPUT/output005/logfile.000000.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.000000.out
+  hashes:
+    binhash: 28e414042a9676439ab3166cfb2caee3
+    md5: b4e245d327d25d76982e842eb0064f54
+work/INPUT/output005/logfile.003577.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003577.out
+  hashes:
+    binhash: f02b3091dd5bb0a3256fb4e1c927665e
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003578.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003578.out
+  hashes:
+    binhash: 6bb52b05ffe1096ae2655e3c3b018cc0
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003579.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003579.out
+  hashes:
+    binhash: 95daa6ca42b6d0715686915c9d79ee9a
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003580.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003580.out
+  hashes:
+    binhash: 7921ed1ff709a39ad425cfd69e9e7f63
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003581.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003581.out
+  hashes:
+    binhash: 050edd4cbb678287829853e075a27f27
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003582.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003582.out
+  hashes:
+    binhash: 3d0931457c0493c4ac1de754e150b2ec
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003583.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003583.out
+  hashes:
+    binhash: c7df943b372dd2eae3d7a618deefd81c
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003584.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003584.out
+  hashes:
+    binhash: ac17942e9531821602504759aaad20fa
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003585.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003585.out
+  hashes:
+    binhash: 6c230a100c2a8a0d881715bbcceb50be
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003586.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003586.out
+  hashes:
+    binhash: 36e22450bde8353fff076382ec993b64
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003587.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003587.out
+  hashes:
+    binhash: 37504d11bd08978ed723cb424f97a25c
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003588.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003588.out
+  hashes:
+    binhash: 163cd9b089331cd34294b4228b874788
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003589.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003589.out
+  hashes:
+    binhash: 1b455ba7cf83bf1ac531ccaa1a1b0cb3
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003590.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003590.out
+  hashes:
+    binhash: adec92bd8e3951eda15a933769bccb16
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003591.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003591.out
+  hashes:
+    binhash: e094b46374fcd4e422e66dd6d84b6e3c
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003592.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003592.out
+  hashes:
+    binhash: 168db716e205ccdb1f53b0a7949d11f1
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003593.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003593.out
+  hashes:
+    binhash: 02e31a3f98b03353b9bcf5d299e426e6
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003594.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003594.out
+  hashes:
+    binhash: 533a72a84812c81fbe5cb52f299b1e31
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003595.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003595.out
+  hashes:
+    binhash: e64f6553ec70df7e4fa88c2eb7262c82
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003596.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003596.out
+  hashes:
+    binhash: 43772ad1b4088e74a3e85186434b2819
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003597.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003597.out
+  hashes:
+    binhash: c283e4904a815fde2a96822c021f29de
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003598.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003598.out
+  hashes:
+    binhash: e90fec4dbcadd61d909b1533aa1481a6
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003599.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003599.out
+  hashes:
+    binhash: 77d05e28364e103cc99dbcfeedd984fa
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003600.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003600.out
+  hashes:
+    binhash: 8a635f3fd63b71036c7ca51d5d6f01c3
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003601.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003601.out
+  hashes:
+    binhash: bbdc130f1cf74472d70f0f835702c4d3
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003602.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003602.out
+  hashes:
+    binhash: eba489823f63c9c809d4fca7771d255d
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003603.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003603.out
+  hashes:
+    binhash: 7856d2cfeb9f9aacef18fc0015f3c80c
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003604.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003604.out
+  hashes:
+    binhash: b4eae55e6cbb861198edb7bb9af516f7
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003605.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003605.out
+  hashes:
+    binhash: c6e8f691fcbb70eb0aeeb70d1f335409
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003606.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003606.out
+  hashes:
+    binhash: 56ec2ae97e72b2f6ae7e9ba07488c61c
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003607.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003607.out
+  hashes:
+    binhash: 4f47d10e352204e76533366a1823caac
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003608.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003608.out
+  hashes:
+    binhash: 68cbf6c057f4ee5112529919ed559e57
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003609.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003609.out
+  hashes:
+    binhash: f247995a93710d49830d896cf7dbf796
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003610.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003610.out
+  hashes:
+    binhash: 7da234e7908a0f5b6157af7b691737d2
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003611.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003611.out
+  hashes:
+    binhash: 0b666f58a8d0c7da4669db5ddcfcdd4a
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003612.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003612.out
+  hashes:
+    binhash: 44fb7d0bdb25c81a605e3b13817e17e4
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003613.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003613.out
+  hashes:
+    binhash: b22737289cc5d16919726cf5a9e0e7da
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003614.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003614.out
+  hashes:
+    binhash: ec141cc8ab39c65c01d479777e1b6207
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003615.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003615.out
+  hashes:
+    binhash: 7e2dcf35472f70d032aa218e7986ff61
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003616.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003616.out
+  hashes:
+    binhash: 6d72f0967ffd9b947d7b3215d3dd2b72
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003617.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003617.out
+  hashes:
+    binhash: 8ad4894a8c6181f2ea54290375a8d783
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003618.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003618.out
+  hashes:
+    binhash: edc914eb30475b24d59ae3343d368e0a
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003619.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003619.out
+  hashes:
+    binhash: 0f374f40a741e4921673367ff98008a4
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003620.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003620.out
+  hashes:
+    binhash: 66d73847b4ebfbf42b8025bb9c81aec4
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003621.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003621.out
+  hashes:
+    binhash: 5ed6872ef91eadaece1403aa466d8643
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003622.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003622.out
+  hashes:
+    binhash: abc352834330cf44e501b5e62ffc4a9f
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003623.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003623.out
+  hashes:
+    binhash: 7bc858e885b7506e3d53a50db8a1e0ed
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003624.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003624.out
+  hashes:
+    binhash: 504885aec735d5c5848d4844a6fbc9f0
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003625.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003625.out
+  hashes:
+    binhash: 49e774aa62dc99be28925b903c5c8ff1
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003626.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003626.out
+  hashes:
+    binhash: 3a26030e514bbd092d6b91d913e34087
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003627.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003627.out
+  hashes:
+    binhash: a0885d3a1ab99c3a7ab5597900883b51
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003628.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003628.out
+  hashes:
+    binhash: 08e412fd35d2643b6209304ed19ae081
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003629.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003629.out
+  hashes:
+    binhash: 3dc297a2271db2609985ca58da0f1e2c
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003630.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003630.out
+  hashes:
+    binhash: 9e1afc675a64312119c492961b33b91f
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003631.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003631.out
+  hashes:
+    binhash: eaa209a4219031ef8eb93a7ae57aea8a
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003632.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003632.out
+  hashes:
+    binhash: 436893105d2c811ac0778e1dd0bab357
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003633.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003633.out
+  hashes:
+    binhash: 1363968e5e91ff937441942edc7d0eba
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003634.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003634.out
+  hashes:
+    binhash: 474f93dd8c35faeac97d231bd70ff7ae
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003635.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003635.out
+  hashes:
+    binhash: 955780a8c687cb1fccb1af8c5138fed4
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003636.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003636.out
+  hashes:
+    binhash: 5f436cb0b15c6f15d99d45a78b12d85c
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003637.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003637.out
+  hashes:
+    binhash: f49fc666d4edf05d06028c432de8d8e6
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003638.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003638.out
+  hashes:
+    binhash: 927b6f631fb95d6619a289e869e1227e
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003639.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003639.out
+  hashes:
+    binhash: 04a65ecf59cc06e89e4155e878ccb523
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003640.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003640.out
+  hashes:
+    binhash: c751d4d4de9120135e72bf4868502734
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003641.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003641.out
+  hashes:
+    binhash: 3cd1884723cba9ed848caef2dc46b093
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003642.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003642.out
+  hashes:
+    binhash: 665e36109e1ec1131697bf1509d4b065
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003643.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003643.out
+  hashes:
+    binhash: 872eca6786e7812deacc5638fd8fec4d
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003644.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003644.out
+  hashes:
+    binhash: 41cd1d32f9180e97075f0fcffb3d7a0f
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003645.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003645.out
+  hashes:
+    binhash: ce72d00de51b1654a0c5ffdc7787eece
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003646.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003646.out
+  hashes:
+    binhash: e03258437336b6da60443d3c9ac9a7d6
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003647.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003647.out
+  hashes:
+    binhash: 1009c5defe4f3e7817f2df05c18f6467
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003648.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003648.out
+  hashes:
+    binhash: 88f5bdbd550c5b9af2fde7d8f16e7a14
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003649.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003649.out
+  hashes:
+    binhash: 63397e88fa3207a6ed5a3756f26c26ed
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003650.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003650.out
+  hashes:
+    binhash: bd84794941265c2f2a20f95f84c39bef
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003651.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003651.out
+  hashes:
+    binhash: 0e905b7f915e91b33233630fdf05cbd9
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003652.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003652.out
+  hashes:
+    binhash: 579cd46f9448c1cf05260a8df0780e8d
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003653.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003653.out
+  hashes:
+    binhash: a66d00038840d65d07bce23d445a9f24
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003654.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003654.out
+  hashes:
+    binhash: 7e0929c2cdc4c2bfe4e8d3deed12b396
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003655.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003655.out
+  hashes:
+    binhash: 48d424c1c4b51e56fcf792ad3c703250
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003656.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003656.out
+  hashes:
+    binhash: fb9a8f455d710766e8289a068f0160d8
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003657.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003657.out
+  hashes:
+    binhash: 7f015270404cd4de2ce3b078b65261ff
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003658.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003658.out
+  hashes:
+    binhash: 1cc9a8e71ed55e48e383aea0185df308
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003659.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003659.out
+  hashes:
+    binhash: 494c97607514fa60004863253edbdc07
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003660.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003660.out
+  hashes:
+    binhash: c498352563f6587d7ed345515c54e319
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003661.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003661.out
+  hashes:
+    binhash: f6812803a2529be266b71d88f4d25ed4
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003662.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003662.out
+  hashes:
+    binhash: d16db324f6802d723382ceb8f8623434
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003663.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003663.out
+  hashes:
+    binhash: c691a798bfefad9505c7f13e50b6407e
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003664.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003664.out
+  hashes:
+    binhash: 83673a2d5120c0a8e03939f67298e692
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003665.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003665.out
+  hashes:
+    binhash: d0c58eaa40f4a0e5737e92175b5c63d7
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003666.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003666.out
+  hashes:
+    binhash: 91c43db519a66bfa98ffea61299137ce
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003667.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003667.out
+  hashes:
+    binhash: 881dded7612fc077e3af5f21788395ec
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003668.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003668.out
+  hashes:
+    binhash: cfff0328347a5a725fbc96cd6f292243
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003669.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003669.out
+  hashes:
+    binhash: 4e689e575a24be889b38dce623a652c7
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003670.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003670.out
+  hashes:
+    binhash: 0cc6b2c055629e57b44d3c885fc69757
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003671.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003671.out
+  hashes:
+    binhash: 136095b3d19c8946f9fc049e105bbe30
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003672.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003672.out
+  hashes:
+    binhash: 3d95b189c61c587219edb48b594d2a87
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003673.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003673.out
+  hashes:
+    binhash: d9037575e2e7af24d37dd0f9ad8aafc8
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003674.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003674.out
+  hashes:
+    binhash: 1f375ef17e720bcae2d59a4f8fb581c6
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003675.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003675.out
+  hashes:
+    binhash: 22384cbdd5a6b66956ca8f62f96090dc
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003676.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003676.out
+  hashes:
+    binhash: 9edbb4fff1f48f0ce5fc0f448e887fd2
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003677.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003677.out
+  hashes:
+    binhash: 4ae822c39c525dc43e41d2f46b7f940e
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003678.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003678.out
+  hashes:
+    binhash: f98907615b25cae78a3ae4b9635dbbc9
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003679.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003679.out
+  hashes:
+    binhash: 0c6db2bd508fac8f11803c7339afcdf3
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003680.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003680.out
+  hashes:
+    binhash: 549f09f34b201d1ad121aa9f84f2ddcb
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003681.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003681.out
+  hashes:
+    binhash: 111111b0256458ad69cb9518492cdd32
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003682.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003682.out
+  hashes:
+    binhash: 50abf26c9834e7737ec31b9bdf0875e8
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003683.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003683.out
+  hashes:
+    binhash: 1b27143178eaad26e44d15d0f3757d39
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003684.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003684.out
+  hashes:
+    binhash: 407cf7c63e8dde99b6441248f200d918
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003685.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003685.out
+  hashes:
+    binhash: 46dd55d9c11467fc85561154a1ed4e51
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003686.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003686.out
+  hashes:
+    binhash: 9ada9190bdca1ae76655c4e5ac557ad7
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003687.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003687.out
+  hashes:
+    binhash: ddc923bbcab9a55bc764b4edb14a86f5
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003688.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003688.out
+  hashes:
+    binhash: 3d9b39dd372322dfcab8e32f54e8e2e9
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003689.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003689.out
+  hashes:
+    binhash: 0efa3dc9d6c0cdaab16b8f9e945ae5aa
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003690.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003690.out
+  hashes:
+    binhash: 45fdd935e112fef5d1ee401c6febb9d9
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003691.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003691.out
+  hashes:
+    binhash: 0dd2109a4f7ca86dbdc945235da77df1
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003692.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003692.out
+  hashes:
+    binhash: c96e11d981a4e39c729e5278e1e73faa
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003693.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003693.out
+  hashes:
+    binhash: 2b14a1645bfa51dc7db30f70f77b4120
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003694.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003694.out
+  hashes:
+    binhash: f71a1436ab8be64ac487ca3bed82376a
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003695.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003695.out
+  hashes:
+    binhash: 3b32b9898ff002fb59a4e9fda090cb47
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003696.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003696.out
+  hashes:
+    binhash: ddcc634d12713d2dd3128c6f7a46f58f
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003697.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003697.out
+  hashes:
+    binhash: 5698b2c553243888c91b93ca3b0029ca
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003698.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003698.out
+  hashes:
+    binhash: c555d72a0183be6988c2c5f6875538f4
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003699.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003699.out
+  hashes:
+    binhash: af197082652ecb11a323139ac5e8f500
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003700.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003700.out
+  hashes:
+    binhash: 29e31da87c1118f1791c5eb5a91a3683
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003701.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003701.out
+  hashes:
+    binhash: 6fa47a7a0a99e784b9d9bf796be34cef
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003702.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003702.out
+  hashes:
+    binhash: fe1fd8b9498a4603337b0569d4b5180b
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003703.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003703.out
+  hashes:
+    binhash: c41b0647e070438dac6d9ab02edd9418
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003704.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003704.out
+  hashes:
+    binhash: 93794068a90fc126b7ff11a63452c348
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003705.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003705.out
+  hashes:
+    binhash: 5e3683432dba729482f569aa7e8b465d
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003706.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003706.out
+  hashes:
+    binhash: fa0d4a20d770406390ff5afbbd21536e
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003707.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003707.out
+  hashes:
+    binhash: 3a4f766ad6ee27d39a6c7aadca435a2d
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003708.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003708.out
+  hashes:
+    binhash: 724804402355ff019579fbe1553c40c7
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003709.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003709.out
+  hashes:
+    binhash: 21bd3952e1bcabdcbff8139fd444228d
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003710.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003710.out
+  hashes:
+    binhash: bfc99c6a961687d5cdaa6221286e3bfc
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003711.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003711.out
+  hashes:
+    binhash: d7fc4d61da81db4913b024b272025aa0
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003712.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003712.out
+  hashes:
+    binhash: 3c6e276df631d0f8bc5e000d215777a5
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003713.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003713.out
+  hashes:
+    binhash: 14b969feefa7e4f2a782452ac0e754fb
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003714.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003714.out
+  hashes:
+    binhash: 7e900683403a3c506d357f1c2c41d9c4
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003715.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003715.out
+  hashes:
+    binhash: 3c99793b8fd84c336abb57ca18774991
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/logfile.003716.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/logfile.003716.out
+  hashes:
+    binhash: 799e9b14ee212cc085a48858e2a9d2df
+    md5: 005c4bc084585bf417a86b7e5132fa83
+work/INPUT/output005/manifests/exe.yaml:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/manifests/exe.yaml
+  hashes:
+    binhash: 1875e430e1809e559e55f472d469adfb
+    md5: 895525865b9d4810a675ec3dc0ba9b03
+work/INPUT/output005/manifests/input.yaml:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/manifests/input.yaml
+  hashes:
+    binhash: ab5aaf3d1d2498528cc19776f2768f54
+    md5: b9f91ec19558cd41132673ba94199fc5
+work/INPUT/output005/manifests/restart.yaml:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/manifests/restart.yaml
+  hashes:
+    binhash: bcd466190f683f9b85d7b30b40ce3ad4
+    md5: e798f67ca81f5b16ad04d85f53ece821
+work/INPUT/output005/mom6.err:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/mom6.err
+  hashes:
+    binhash: 0ca1485167c2694e28340e34f620bbab
+    md5: aae758055546f929e7b29ecdaa0fcdce
+work/INPUT/output005/mom6.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/mom6.out
+  hashes:
+    binhash: 74ee70999a7be14a10b3dfbe83bb21c0
+    md5: 66911c96c505e7a2ed7a8442f136371a
+work/INPUT/output005/ocean.stats:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/ocean.stats
+  hashes:
+    binhash: d1714fb191850084ef463bb73d0efc7c
+    md5: e063f51bb57301ccc60ed507f3146b11
+work/INPUT/output005/ocean.stats.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/ocean.stats.nc
+  hashes:
+    binhash: 56753988c919004b57e0495fc8ca3072
+    md5: 8027655eb29cad34fcc4999a745e4547
+work/INPUT/output005/seaice.stats:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/seaice.stats
+  hashes:
+    binhash: 0be15591d76c0238422cd236af002e75
+    md5: b629fa4fe5554675a891463945eeea60
+work/INPUT/output005/stocks.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/stocks.out
+  hashes:
+    binhash: 40dcf724ed6e9438fa69410200818ed4
+    md5: d99ab02c457dd3c989569a815e94819f
+work/INPUT/output005/time_stamp.out:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/output005/time_stamp.out
+  hashes:
+    binhash: 9b5bab76fb14eeb9b74b0f302a9ad297
+    md5: d825944daeff3cf2b1e8f85a7b1c31f9
 work/INPUT/pbs_logs/mom6_panan-005.e71765546:
   fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/pbs_logs/mom6_panan-005.e71765546
   hashes:
@@ -5736,6 +6631,131 @@ work/INPUT/restart004/ice_model.res_2.nc:
   hashes:
     binhash: 1e6d98d355898b0770a1f66351e31cba
     md5: cf103a8312ccec6ae1ab287dbd6b83ec
+work/INPUT/restart005/MOM.res.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/MOM.res.nc
+  hashes:
+    binhash: 3ad18fb51052968d1fe278816ec55f66
+    md5: c2c147bd6e9456394dd9f8c6c5572655
+work/INPUT/restart005/MOM.res_1.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/MOM.res_1.nc
+  hashes:
+    binhash: c98a509e2622992d2e355ccade12ddcf
+    md5: 8c467e92672190164faacd9bd6705118
+work/INPUT/restart005/MOM.res_10.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/MOM.res_10.nc
+  hashes:
+    binhash: 5c29c78695f68ea6c38ecb34204144af
+    md5: fbd3c7b1a2599bc92dfff136148f134b
+work/INPUT/restart005/MOM.res_11.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/MOM.res_11.nc
+  hashes:
+    binhash: 929c4dba984d0cef23786f397a857440
+    md5: b3b4a1feb958fbb48db8cece06842f91
+work/INPUT/restart005/MOM.res_12.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/MOM.res_12.nc
+  hashes:
+    binhash: b00c40db4c30c5c7c5f06e240a003638
+    md5: a3ff27773ab4daba848154320c12e689
+work/INPUT/restart005/MOM.res_13.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/MOM.res_13.nc
+  hashes:
+    binhash: 9a862629fdf658b2a86d4286ca962806
+    md5: fd6d93dc093f588e90be81edee51bdad
+work/INPUT/restart005/MOM.res_14.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/MOM.res_14.nc
+  hashes:
+    binhash: 2a8e54524457efca49c8670476ca2173
+    md5: 46caedcc2f217f38181fe62dc6ec9f26
+work/INPUT/restart005/MOM.res_15.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/MOM.res_15.nc
+  hashes:
+    binhash: fa28985a0ef94ccaab34dd5dff5f0b0f
+    md5: 78fae08026032757cf567568f45ce44e
+work/INPUT/restart005/MOM.res_16.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/MOM.res_16.nc
+  hashes:
+    binhash: a6767883cef8a55a479aadd9d59da5bd
+    md5: cbfe7fb0d0380384ebf838e0f853a633
+work/INPUT/restart005/MOM.res_17.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/MOM.res_17.nc
+  hashes:
+    binhash: cb49c63e9b871456ec32e7c0881f7534
+    md5: 8ee864b12bb7d82b64eb8fd02a786a8c
+work/INPUT/restart005/MOM.res_18.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/MOM.res_18.nc
+  hashes:
+    binhash: 6053c92e696d24ae0ba071000277a427
+    md5: 62ec447252e1f1f5dd426037175ff014
+work/INPUT/restart005/MOM.res_19.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/MOM.res_19.nc
+  hashes:
+    binhash: 5937e85e1e22d75901e637674d571eac
+    md5: 5e3a1c4e7ac522766216bcb5483fc94f
+work/INPUT/restart005/MOM.res_2.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/MOM.res_2.nc
+  hashes:
+    binhash: 5ee99c10c297fd37ea0fb8f1d6204ebf
+    md5: 7c2efa3702ebe4b7363ee6bd88fc860b
+work/INPUT/restart005/MOM.res_20.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/MOM.res_20.nc
+  hashes:
+    binhash: 6ec6ab11ac32460a7a606f79aad2e09e
+    md5: c0024a6900efd1b0fe17c8e430d73b44
+work/INPUT/restart005/MOM.res_3.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/MOM.res_3.nc
+  hashes:
+    binhash: 693d4334079f4843c3d59a657caf859a
+    md5: 38d943307a6ee65a8bbb97a316b697c2
+work/INPUT/restart005/MOM.res_4.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/MOM.res_4.nc
+  hashes:
+    binhash: 00b48359326903e4a99aed55bb8418e2
+    md5: 21ae05e2a1bea562be256955aeb7fdc9
+work/INPUT/restart005/MOM.res_5.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/MOM.res_5.nc
+  hashes:
+    binhash: 58eb14d03fae72a30ac74e5a165312bc
+    md5: 1a4c56d7839179f33bb2795413f20d7f
+work/INPUT/restart005/MOM.res_6.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/MOM.res_6.nc
+  hashes:
+    binhash: a761a734476faf04101a41a9e7399da9
+    md5: fd43efe3cdb8949648c97a7a8530d032
+work/INPUT/restart005/MOM.res_7.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/MOM.res_7.nc
+  hashes:
+    binhash: 2496273cfa624454780009691bf335a0
+    md5: 0844206172dbff8b194b4034fe12b309
+work/INPUT/restart005/MOM.res_8.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/MOM.res_8.nc
+  hashes:
+    binhash: 97747996d5967efa08a396e0bfa3291b
+    md5: 9f90e581eb10f4814b04f3621617320d
+work/INPUT/restart005/MOM.res_9.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/MOM.res_9.nc
+  hashes:
+    binhash: b9ff19763c164a302de240d9e50c250f
+    md5: 34d7e9b0d14cc7e401a5f8819129ae5c
+work/INPUT/restart005/coupler.res:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/coupler.res
+  hashes:
+    binhash: b5b046ba18b1da5089739ebede37328d
+    md5: 9e17051a0e7a31fa2a1661c5d9dad2e0
+work/INPUT/restart005/ice_model.res.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/ice_model.res.nc
+  hashes:
+    binhash: f1bc2fa02f74f80bc940e1651582136c
+    md5: a7942487a3e4ad24c5c913f0e980510b
+work/INPUT/restart005/ice_model.res_1.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/ice_model.res_1.nc
+  hashes:
+    binhash: 51d3acd37faba13405e73a83150dde9d
+    md5: 3b554cb495c6404773174292f476d343
+work/INPUT/restart005/ice_model.res_2.nc:
+  fullpath: /scratch/e14/cs6673/mom6/archive/panan_005deg_jra55_ryf/restart005/ice_model.res_2.nc
+  hashes:
+    binhash: 0ab4182fad9fc849f31b5231d26a1807
+    md5: d443e7151e77a5281310b4ac9f230917
 work/INPUT/runoff/regridded-box.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/runoff/regridded-box.nc
   hashes:
