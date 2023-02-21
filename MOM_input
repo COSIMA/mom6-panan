@@ -54,7 +54,7 @@ INPUTDIR = "INPUT"
 GRID_CONFIG = "mosaic"
 GRID_FILE = "ocean_hgrid_0025.nc"
 TOPO_CONFIG = "file"
-TOPO_FILE = "new_topog_37S.nc"
+TOPO_FILE = "topog.nc"
 
 MINIMUM_DEPTH = 9.5
 MAXIMUM_DEPTH = 6000.0
@@ -69,7 +69,7 @@ OBC_ZERO_BIHARMONIC = True
 OBC_SEGMENT_001 = "J=N,I=N:0,FLATHER,ORLANSKI,NUDGED"
 OBC_SEGMENT_001_VELOCITY_NUDGING_TIMESCALES = .3, 360.0 ! inflow and outflow timescales
 BRUSHCUTTER_MODE = True ! read data on supergrid
-OBC_SEGMENT_001_DATA = "U=file:forcing_obc_shifted.nc(u),V=file:forcing_obc_shifted.nc(v),SSH=file:forcing_obc_shifted.nc(eta_t),TEMP=forcing/forcing_obc_shifted.nc(temp),SALT=file:forcing_obc_shifted.nc(salt)"
+OBC_SEGMENT_001_DATA = "U=file:forcing_obc_shifted.nc(u),V=file:forcing_obc_shifted.nc(v),SSH=file:forcing_obc_shifted.nc(eta_t),TEMP=file:forcing_obc_shifted.nc(temp),SALT=file:forcing_obc_shifted.nc(salt)"
 !RAMP_OBCS = True
 
 OBC_TRACER_RESERVOIR_LENGTH_SCALE_OUT = 30000
@@ -102,7 +102,7 @@ TEMP_SALT_INIT_VERTICAL_REMAP_ONLY = True
 
 ! === module MOM_initialize_layers_from_Z ===
 ! read "temp" and "salt" from a z-space file
-TEMP_SALT_Z_INIT_FILE = "temp_salt_init_z_0025.nc"
+TEMP_SALT_Z_INIT_FILE = "temp_salt_init_z_0025_filled_NaNs.nc"
 Z_INIT_FILE_PTEMP_VAR = "temp"
 ! remap straight to the model coordinate
 Z_INIT_ALE_REMAPPING = True
