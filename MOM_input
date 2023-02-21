@@ -54,7 +54,7 @@ INPUTDIR = "INPUT"
 GRID_CONFIG = "mosaic"
 GRID_FILE = "ocean_hgrid_0025.nc"
 TOPO_CONFIG = "file"
-TOPO_FILE = "new_topog_37S.nc"
+TOPO_FILE = "topog.nc"
 
 MINIMUM_DEPTH = 9.5
 MAXIMUM_DEPTH = 6000.0
@@ -102,7 +102,7 @@ TEMP_SALT_INIT_VERTICAL_REMAP_ONLY = True
 
 ! === module MOM_initialize_layers_from_Z ===
 ! read "temp" and "salt" from a z-space file
-TEMP_SALT_Z_INIT_FILE = "temp_salt_init_z_0025_modified.nc"
+TEMP_SALT_Z_INIT_FILE = "temp_salt_init_z_0025_filled_NaNs.nc"
 Z_INIT_FILE_PTEMP_VAR = "temp"
 ! remap straight to the model coordinate
 Z_INIT_ALE_REMAPPING = True
