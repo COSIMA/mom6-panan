@@ -14,4 +14,5 @@ Current working configurations are:
 * 1/10° zstar, in the [panan-01-zstar-run](https://github.com/COSIMA/mom6-panan/tree/panan-01-zstar-run) branch. Boundary forcing and initial condition is year 2170 (i.e. 270 year spinup) of ACCESS-OM2-01 RYF (note the discrepancy between conservative temperature at the boundary and potential temperature as the prognostic temperature!).
 * 1/10° with hycom vertical coordinate, in the [panan-01-hycom1-run](https://github.com/COSIMA/mom6-panan/tree/panan-01-hycom-run) branch. Boundary forcing is ACCESS-OM2-01 RYF as above (same issue as above).
 * 1/20° zstar, in the [test-1/20deg](https://github.com/COSIMA/mom6-panan/tree/test-1/20deg) branch. Currently it has ACCESS-OM2-01 RYF boundary forcing and initial condition, as above.
-* As far as Adele knows, the master, hycom1-run and zstar-run branches do not correspond to any up to date configurations.
+
+As far as Adele knows, the master, hycom1-run and zstar-run branches do not correspond to any up to date configurations.
