@@ -1,26 +1,25 @@
-project: g40
+project: ol01
 queue: normal
-walltime: 06:00:00
+walltime: 20:00:00
 jobname: mom6_panan_01
-ncpus: 1959
+ncpus: 962
 jobfs: 10GB
 
-shortpath: /scratch/x77
+shortpath: /scratch/g40
 
 model: mom6
 input:
     - /g/data/ik11/inputs/mom6/panan/01deg/20230314
     - /g/data/ik11/inputs/mom6/regrid_runoff/
-    - /g/data/ua8/JRA55-do/RYF/v1-3/
+    - /g/data/ik11/inputs/JRA-55/RYF/v1-3/
 exe: /g/data/ik11/inputs/mom6/bin/symmetric_FMS2-e7d09b7
 
 restart: /g/data/ik11/outputs/mom6-panan/panant-01-zstar-v13/restart040
 
 collate: false
-#runlog: true
+runlog: true
 storage:
   gdata:
-    - ua8
     - ik11
 
 platform:

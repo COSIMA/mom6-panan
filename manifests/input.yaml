@@ -153,74 +153,79 @@ work/INPUT/RYF.licalvf.1990_1991.OM4_025.nc:
     binhash: 78a5d8bb21e2b4964f9d67ac6977278a
     md5: 2cd93eaa2eb6d6a835040c553a5b00e1
 work/INPUT/RYF.q_10.1984_1985.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.q_10.1984_1985.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.q_10.1984_1985.nc
   hashes:
-    binhash: a432e60dba8ab1e48c131dd33dc313c7
+    binhash: 977ebfe9ae36463a5eed657199c0737b
     md5: 094907fe5509f8c6d07d7072a3099c77
 work/INPUT/RYF.q_10.1990_1991.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.q_10.1990_1991.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.q_10.1990_1991.nc
   hashes:
-    binhash: b465b59faf27f197fef8aeaa92d5c51d
+    binhash: d31f9814f69cd8d444cbb54fc427fa51
     md5: 2aa040c5f4639003dbc4f019c445bf33
 work/INPUT/RYF.q_10.2003_2004.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.q_10.2003_2004.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.q_10.2003_2004.nc
   hashes:
-    binhash: 594a66d1d956bef3f0e162e17ae0fd2e
+    binhash: 7f644f96fcc366e58d923a4799d51b80
     md5: 53064f44de424f2bcf0c1987c0c94938
-work/INPUT/RYF.rain.1984_1985.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rain.1984_1985.nc
+work/INPUT/RYF.r_10.1990_1991.nc:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.r_10.1990_1991.nc
   hashes:
-    binhash: 382cda23802a351761b465c148477926
+    binhash: 56b33f091bfccb8adf93cdc4836b49bc
+    md5: b4c9dd7dcb00055fb286db4742727355
+work/INPUT/RYF.rain.1984_1985.nc:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.rain.1984_1985.nc
+  hashes:
+    binhash: f7e7412f439618ec16039260e0ddc293
     md5: b5e75395fda05e26932f50ec3dd31a61
 work/INPUT/RYF.rain.1990_1991.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rain.1990_1991.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.rain.1990_1991.nc
   hashes:
-    binhash: 2430fbcc2b921011d1a39048b5028ae6
+    binhash: 935c51a485d557bfb15228fe3f86efc1
     md5: 98a063f5f9326645f41498e2a4282c0b
 work/INPUT/RYF.rain.2003_2004.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rain.2003_2004.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.rain.2003_2004.nc
   hashes:
-    binhash: e73609c598ff4b6911a9feaeefef53c0
+    binhash: be588c18f9ae0d8377ea0af84c15b81b
     md5: 94fb0e7c2319e266bade29cf559df3e8
 work/INPUT/RYF.rlds.1984_1985.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rlds.1984_1985.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.rlds.1984_1985.nc
   hashes:
-    binhash: 733a3d8e1275b56c959a0fc2b26ce07b
+    binhash: 00115cf9db5fbd6c0a427abc4729e6a8
     md5: 0dfb74c54f26fb203a9fa5cb85d18e9f
 work/INPUT/RYF.rlds.1990_1991.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rlds.1990_1991.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.rlds.1990_1991.nc
   hashes:
-    binhash: e9f4cc5013dd86bdf70a0c5a9b6221be
+    binhash: e78e5b32c86d7822dde84a5a28e9a144
     md5: b1fb56a065c06a9488c7534c0a6fefbe
 work/INPUT/RYF.rlds.2003_2004.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rlds.2003_2004.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.rlds.2003_2004.nc
   hashes:
-    binhash: 88c701ae867bbf3917b3af42f62efa50
+    binhash: a16dd31f054e3b475a1f6a3b965a05e1
     md5: 76e690c42146325bb566c994c1ec3910
 work/INPUT/RYF.rsds.1984_1985.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rsds.1984_1985.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.rsds.1984_1985.nc
   hashes:
-    binhash: f878baf1d647e850980a458a61c7f30c
+    binhash: 519a3e7e04c366048d9abd34b6d93c0c
     md5: 47715b42745c016a3f363def133fa0a0
 work/INPUT/RYF.rsds.1990_1991.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rsds.1990_1991.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.rsds.1990_1991.nc
   hashes:
-    binhash: c9c12cbef0ada0d29fe1f864e526f65c
+    binhash: 407509ff4dcaef0d063788cef8ca8046
     md5: 2d4cb0f10338dc090880233564dd5f4a
 work/INPUT/RYF.rsds.2003_2004.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rsds.2003_2004.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.rsds.2003_2004.nc
   hashes:
-    binhash: 04e45f06ae49a8555ce41536917f5468
+    binhash: 3e79e2a01925f528cc97f8fea11f6828
     md5: 3abda0630790f98d6459f7224d14614d
 work/INPUT/RYF.runoff_all.1984_1985.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.runoff_all.1984_1985.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.runoff_all.1984_1985.nc
   hashes:
-    binhash: 21eeac4e8ed834b19e89ec371bd69ac7
+    binhash: e06f33ece079cdd78ad53b34816f85cb
     md5: 6a88bf00cef5f7902d872a45dcea44d4
 work/INPUT/RYF.runoff_all.1990_1991.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.runoff_all.1990_1991.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.runoff_all.1990_1991.nc
   hashes:
-    binhash: bc61cc1bace24811cda860684deeb586
+    binhash: 3a86053186aa0944dbd5336e86d282e3
     md5: 7ce1f8aee9e06611936c2bdf3b69f3f0
 work/INPUT/RYF.runoff_all.1990_1991.panan01.nc:
   fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/RYF.runoff_all.1990_1991.panan01.nc
@@ -243,84 +248,84 @@ work/INPUT/RYF.runoff_all.1990_1991.panan01_new_new.nc:
     binhash: 90ad10dcf275f7f06a4dfea4d5cb66c0
     md5: 46176868a71f726ace9a069217afbf49
 work/INPUT/RYF.runoff_all.2003_2004.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.runoff_all.2003_2004.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.runoff_all.2003_2004.nc
   hashes:
-    binhash: ff1c44868909d40d611912a98c0a8f43
+    binhash: b479cd4be30e91e10bcd9db32d1d58b5
     md5: 55c0ccf8f5e006ce18e221404e19eb65
 work/INPUT/RYF.slp.1984_1985.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.slp.1984_1985.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.slp.1984_1985.nc
   hashes:
-    binhash: f7fa74b0b045d450a9ad128052fd9ab4
+    binhash: 7d77a44919429cca4a14be1b5eecb24d
     md5: 58a44a44ccd93e10ae9de26ee70d1f45
 work/INPUT/RYF.slp.1990_1991.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.slp.1990_1991.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.slp.1990_1991.nc
   hashes:
-    binhash: 784be894a5b4a29fcb9e2cb4b7d987bd
+    binhash: ba087e0ad576fb4500d3ec6715afac99
     md5: d1e10cceb1dd42c298d73b46c2fbf511
 work/INPUT/RYF.slp.2003_2004.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.slp.2003_2004.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.slp.2003_2004.nc
   hashes:
-    binhash: 07c5426033ae02d657f71b1d4189cdfa
+    binhash: 5df334015bd0fd3908177f0a640748f2
     md5: 3c08ed89da9936446e055d4b9b3f3306
 work/INPUT/RYF.snow.1984_1985.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.snow.1984_1985.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.snow.1984_1985.nc
   hashes:
-    binhash: 8d768c3ddb11a6401f5800bbaf238894
+    binhash: 7db80cd31cdacf76bfab2320c67de37b
     md5: 5eb6f11e1163689e6c668dc608f73c71
 work/INPUT/RYF.snow.1990_1991.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.snow.1990_1991.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.snow.1990_1991.nc
   hashes:
-    binhash: 8b982abddf374d5721f923808a0c9608
+    binhash: c30ce6ea530ae96ee9f5df53b241f3cb
     md5: 38a51a0d5a6897206ae91ea05f1998d5
 work/INPUT/RYF.snow.2003_2004.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.snow.2003_2004.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.snow.2003_2004.nc
   hashes:
-    binhash: f255713078b6a147eae255ef1e585be5
+    binhash: c6a63f50b6e4d6b26341121d0117cc1c
     md5: f6d9d2709c363a7ffb10158af091cf41
 work/INPUT/RYF.t_10.1984_1985.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.t_10.1984_1985.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.t_10.1984_1985.nc
   hashes:
-    binhash: 42e26f64a121112ffff5a6d27c8f58b1
+    binhash: 0fe05b148aa0ac346e1882a4aad4c041
     md5: ef99e4dc7912142cd26b9c67fdc49161
 work/INPUT/RYF.t_10.1990_1991.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.t_10.1990_1991.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.t_10.1990_1991.nc
   hashes:
-    binhash: f0845bf87748e4e494e1025ddece3a5d
+    binhash: 05acb4c17b0c60efd791cda3cf3b0fcd
     md5: f4dbd5d509a3c3479df66ae398310ace
 work/INPUT/RYF.t_10.2003_2004.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.t_10.2003_2004.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.t_10.2003_2004.nc
   hashes:
-    binhash: df848da85ec34a7570b23924adb9af6b
+    binhash: cc59b62ea2c3381e865a28b4373804da
     md5: 5c752aa45a8038dc025acd272bafa25a
 work/INPUT/RYF.u_10.1984_1985.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.u_10.1984_1985.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.u_10.1984_1985.nc
   hashes:
-    binhash: 804eff5c700555da834b968dec9243b6
+    binhash: 4dd79f44e85d799b3afbcc060fa3eea1
     md5: ff6e32522eeddd775da71cb19858247e
 work/INPUT/RYF.u_10.1990_1991.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.u_10.1990_1991.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.u_10.1990_1991.nc
   hashes:
-    binhash: b373e1ab54ef89a5ec478d793d8e8482
+    binhash: eb6677cf9af223b6a397aa51c6b8d057
     md5: 99a3975202c1db658b0e69ab134c5263
 work/INPUT/RYF.u_10.2003_2004.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.u_10.2003_2004.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.u_10.2003_2004.nc
   hashes:
-    binhash: 0eaf67a40aead945600800f13bc982bd
+    binhash: fd39116f448f7f0337f9c86ea88d6156
     md5: b815c0882971859b190151dafb5cce8f
 work/INPUT/RYF.v_10.1984_1985.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.v_10.1984_1985.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.v_10.1984_1985.nc
   hashes:
-    binhash: 22dcb8943225207908a807b4a50d8312
+    binhash: 1ef5a5fd6ee1a7390b4712689914c037
     md5: a48f2c7efd11e328ac246f4c22adad21
 work/INPUT/RYF.v_10.1990_1991.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.v_10.1990_1991.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.v_10.1990_1991.nc
   hashes:
-    binhash: f1aa09e46060cec9e6d0b845564bef71
+    binhash: 67105a9855620cb72bacf43ba65d9294
     md5: 88f10317d163542a6d1b6d21686c89a9
 work/INPUT/RYF.v_10.2003_2004.nc:
-  fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.v_10.2003_2004.nc
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.v_10.2003_2004.nc
   hashes:
-    binhash: d4ab1c739180d9653a51954ddee0767e
+    binhash: 704381bfc8cf32f2ecef9b21054c04c7
     md5: 4e93d297b872db1fc14665048b6a5e1c
 work/INPUT/Regrid runoff data.ipynb:
   fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/Regrid runoff data.ipynb
@@ -328,89 +333,104 @@ work/INPUT/Regrid runoff data.ipynb:
     binhash: fcc10fef354130ca545795c5014426f2
     md5: 78f05654fc0aa490324f2c2e97f07f6c
 work/INPUT/atmos_mosaic_tile1Xland_mosaic_tile1.nc:
-  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/atmos_mosaic_tile1Xland_mosaic_tile1.nc
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/atmos_mosaic_tile1Xland_mosaic_tile1.nc
   hashes:
-    binhash: 7a699c995c4b11d2c2becfa88941efb3
+    binhash: 83cbb7219e7fea70a048c17f60738d1e
     md5: e75f3f372b8da1c51e6ebfe472491615
 work/INPUT/atmos_mosaic_tile1Xocean_mosaic_tile1.nc:
-  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/atmos_mosaic_tile1Xocean_mosaic_tile1.nc
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/atmos_mosaic_tile1Xocean_mosaic_tile1.nc
   hashes:
-    binhash: 872da8417ebb69d5b2d6449a8542137b
+    binhash: b48fab45de2de9ccb05af0609b8a5711
     md5: e7f22aa6bd7df03b7dc8794675d47215
 work/INPUT/diag_rho2.nc:
-  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/diag_rho2.nc
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/diag_rho2.nc
   hashes:
-    binhash: 2199d22f5d3e2f3c0b9143954440e93b
+    binhash: a44faa0d3d115657e28898cf4f0f1d14
     md5: 2e28890e50220397a167a2b3c4a30271
-work/INPUT/forcing/forcing_obc.nc:
-  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/forcing/forcing_obc.nc
+work/INPUT/forcing/eta_init.nc:
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/forcing/eta_init.nc
   hashes:
-    binhash: b17484497e437608a33eab70a0483bf7
+    binhash: c38d16e2b857577d43f180a9e320eda7
+    md5: ca19c5442e9a274d6a063e5980f261e0
+work/INPUT/forcing/eta_init_panan.nc:
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/forcing/eta_init_panan.nc
+  hashes:
+    binhash: 8e204de23ad2f7f3ade01787bb3b7055
+    md5: 092d13a09b49a1fc3960411606c37fdf
+work/INPUT/forcing/forcing_obc.nc:
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/forcing/forcing_obc.nc
+  hashes:
+    binhash: 646f5a829a651062f5968dfdfefbaf68
     md5: 0f90ece1f7d98347779369c5408b779c
 work/INPUT/forcing/forcing_obc_shifted.nc:
-  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/forcing/forcing_obc_shifted.nc
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/forcing/forcing_obc_shifted.nc
   hashes:
-    binhash: 5b0d1e58bbae2c22156e462e4f0c10ae
+    binhash: fdc2719edcc6b2077d95f063c1a97ca2
     md5: 33fd9c0950d4f27066c3a44e2bf35599
-work/INPUT/forcing/temp_salt_init_z.nc:
-  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/forcing/temp_salt_init_z.nc
+work/INPUT/forcing/ocean_daily.nc:
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/forcing/ocean_daily.nc
   hashes:
-    binhash: b9e9d5ebbb183c39e4036a1b8774b672
+    binhash: d270c00eaee2fa82dcb9231e2e39fa31
+    md5: 2129106b87e2dd08368c8a8e84458a58
+work/INPUT/forcing/temp_salt_init_z.nc:
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/forcing/temp_salt_init_z.nc
+  hashes:
+    binhash: d2db564a88a929af248b2f510d75d1f6
     md5: 15b78def5d1f2d5f5ce2de80ea200352
 work/INPUT/forcing/temp_salt_init_z_0025.nc:
-  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/forcing/temp_salt_init_z_0025.nc
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/forcing/temp_salt_init_z_0025.nc
   hashes:
-    binhash: 2b15415b797e2f8f765038a5d2247a53
+    binhash: b89607a5cd917e72b58651129f62f8cb
     md5: 24088e849324198e8bc02c848eb57098
 work/INPUT/grid_spec.nc:
-  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/grid_spec.nc
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/grid_spec.nc
   hashes:
-    binhash: 05806c52f95b128b271f568a8f42732d
+    binhash: 250dd0ef9b8a987819d3809665fc000a
     md5: fc66a49b8ae7fb12c3ee5f0a0cae7ae9
 work/INPUT/hycom1_75_800m.nc:
-  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/hycom1_75_800m.nc
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/hycom1_75_800m.nc
   hashes:
-    binhash: ac28072dd366757af7a1a6d201174e8b
+    binhash: 2cf3dd2a51b0d9c3a037460dcdfe59e9
     md5: 023b23f6b55e6f3b3de6778e608d0d3d
 work/INPUT/hycom1_panant.nc:
-  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/hycom1_panant.nc
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/hycom1_panant.nc
   hashes:
-    binhash: fe6c0ad093465be972c4d77e021766f0
+    binhash: 679decae98f78519214d735ffd96366e
     md5: 15dcc7048ed27e05e1a2d7d64dc4b235
 work/INPUT/land_mask.nc:
-  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/land_mask.nc
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/land_mask.nc
   hashes:
-    binhash: e3f4780b897dc8e9c7a2ff810bad1812
+    binhash: 67ed0818cc1e377d7b4168466d893a72
     md5: 5262ad0971be37491a80929e0dbcfc14
 work/INPUT/land_mosaic_tile1Xocean_mosaic_tile1.nc:
-  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/land_mosaic_tile1Xocean_mosaic_tile1.nc
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/land_mosaic_tile1Xocean_mosaic_tile1.nc
   hashes:
-    binhash: 4cf32241ec078b6c5c583bc910d81915
+    binhash: ef7fbe0c6f88a98d4a6af674417dcde8
     md5: 884abd9e8b822c32203e7413f76ce063
-work/INPUT/masks/mask_table.262.72x17:
-  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/masks/mask_table.262.72x17
+work/INPUT/masks/mask_table.591.102x25:
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/masks/mask_table.591.102x25
   hashes:
-    binhash: 05824265d788ea82a98b3b2d60238be0
-    md5: 42db5287a23f3105c1e917d60136106b
+    binhash: fabd429e69d0d5cead625ff536d2478c
+    md5: 6f37aeabc1ab9eeb70d02faa686b2580
 work/INPUT/ocean_hgrid.nc:
-  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/ocean_hgrid.nc
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/ocean_hgrid.nc
   hashes:
-    binhash: 74f7cfc0e9f524e67cf6f878732923b1
+    binhash: 0f43756d663cdfc9eb5b1a0e771958c7
     md5: b2b541d3fc0ca9a167a6d467e8e2450c
 work/INPUT/ocean_mask.nc:
-  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/ocean_mask.nc
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/ocean_mask.nc
   hashes:
-    binhash: e196a39fd1a45420f617f7521413b42e
+    binhash: 69b4dc030cb5323ec7e15fe22c441bf1
     md5: 10bea35746097915f0317be62abbf61f
 work/INPUT/ocean_mosaic.nc:
-  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/ocean_mosaic.nc
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/ocean_mosaic.nc
   hashes:
-    binhash: 211e52737c82520648db1ddd51435f82
+    binhash: 951d6604350c1d14ef7ca0728502d5c4
     md5: b353a4114198ab8982b5c1cee33a69b6
 work/INPUT/ocean_topog.nc:
-  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/ocean_topog.nc
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/ocean_topog.nc
   hashes:
-    binhash: 601a949009e5f1b705ebbde4427982a2
+    binhash: 0eddcf8e286533aee1c60fb1a9122145
     md5: 7987fa845db4b0efaa2b20eac716fe72
 work/INPUT/pickle.regrid_runoff_A:
   fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/pickle.regrid_runoff_A
@@ -423,14 +443,14 @@ work/INPUT/regrid_runoff.py:
     binhash: e3b8e72d40909e7386b1c68e6c778214
     md5: 80a1a9074062557be4875201e89d7e93
 work/INPUT/sponges/idamp_1deg_10d_linear.nc:
-  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/sponges/idamp_1deg_10d_linear.nc
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/sponges/idamp_1deg_10d_linear.nc
   hashes:
-    binhash: c294175e2de238ac850838bfac559923
+    binhash: 598b97c6e9c35e5108a7b2564fce8620
     md5: 641cf57844fd8117681f8635dada106d
 work/INPUT/sponges/sponge_uvts.nc:
-  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/sponges/sponge_uvts.nc
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/sponges/sponge_uvts.nc
   hashes:
-    binhash: e5f9fd642d8ee1238017bb571a420d86
+    binhash: 0156312f7a2596a8399492238235379a
     md5: fbe68772cdd71ff4be93b632d3a8f53f
 work/INPUT/test/Makefile:
   fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/test/Makefile
@@ -443,7 +463,7 @@ work/INPUT/test/check.md5:
     binhash: 2610a6f6ca431a9ab1b1905288deb918
     md5: 465998efe8ed8a7d7f9867897b903d40
 work/INPUT/vcoord.nc:
-  fullpath: /g/data/x77/ahg157/inputs/mom6/panan-01/vcoord.nc
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230314/vcoord.nc
   hashes:
-    binhash: d16decda9642a3378c92b76dd1d07cf7
+    binhash: 7c66e33fd4d84ffa5f1c794c733fa8fd
     md5: 667cfc4be085364b8544f84a34d16a00
