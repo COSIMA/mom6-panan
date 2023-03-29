@@ -42,7 +42,7 @@ NJGLOBAL = 845
 LAYOUT = 102,25
 IO_LAYOUT = 1,1
 
-MASKTABLE = "masks/mask_table.591.102x25"
+MASKTABLE = "masks/mask_table.596.102x25"
 
 ! === module MOM_verticalGrid ===
 NK = 75
@@ -69,7 +69,7 @@ OBC_ZERO_BIHARMONIC = True
 OBC_SEGMENT_001 = "J=N,I=N:0,FLATHER,ORLANSKI,NUDGED"
 OBC_SEGMENT_001_VELOCITY_NUDGING_TIMESCALES = .3, 360.0 ! inflow and outflow timescales
 BRUSHCUTTER_MODE = True ! read data on supergrid
-OBC_SEGMENT_001_DATA = "U=file:forcing/forcing_obc.nc(u),V=file:forcing/forcing_obc.nc(v),SSH=file:forcing/forcing_obc.nc(eta_t),TEMP=file:forcing/forcing_obc.nc(temp),SALT=file:forcing/forcing_obc.nc(salt)"
+OBC_SEGMENT_001_DATA = "U=file:forcing_final_140th.nc(u),V=file:forcing_final_140th.nc(v),SSH=file:forcing_final_140th.nc(eta_t),TEMP=file:forcing_final_140th.nc(temp),SALT=file:forcing_final_140th.nc(salt)"
 !RAMP_OBCS = True
 
 OBC_TRACER_RESERVOIR_LENGTH_SCALE_OUT = 30000
@@ -102,7 +102,7 @@ TEMP_SALT_INIT_VERTICAL_REMAP_ONLY = True
 
 ! === module MOM_initialize_layers_from_Z ===
 ! read "temp" and "salt" from a z-space file
-TEMP_SALT_Z_INIT_FILE = "forcing/temp_salt_init_z.nc"
+TEMP_SALT_Z_INIT_FILE = "temp_salt_init_z_panant0025.nc"
 Z_INIT_FILE_PTEMP_VAR = "temp"
 ! remap straight to the model coordinate
 Z_INIT_ALE_REMAPPING = True
