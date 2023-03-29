@@ -27,6 +27,9 @@ panan
 "ocean_model",   "mlotst",       "mlotst",           "ocean_daily",         "all", "mean", "none",2
 # Sea Surface Speed
 "ocean_model",   "speed",        "speed",            "ocean_daily",         "all", "mean", "none",2
+# Temperature
+"ocean_model",   "thetao",        "theta0",            "ocean_daily",         "all", "mean", "none",2
+
 
 # (umo,vmo)  =net mass transport from residual mean velocity (model resolved + SGS)
 "ocean_model_rho2","umo",       "umo",              "ocean_month_rho2",   "all", "mean", "none",2
