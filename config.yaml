@@ -2,7 +2,7 @@ project: ol01
 queue: normal
 walltime: 2:00:00
 jobname: panan_0025
-ncpus: 1954
+ncpus: 3717
 jobfs: 10GB
 
 shortpath: /scratch/g40
