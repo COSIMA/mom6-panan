@@ -191,11 +191,21 @@ work/INPUT/masks/mask_table.1198.141x35:
   hashes:
     binhash: 6f32ef43fe2aa7acf2e08e2e549ffe48
     md5: a8ec7d006caacebe3a6126849724192b
+work/INPUT/masks/mask_table.2431.204x48:
+  fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/masks/mask_table.2431.204x48
+  hashes:
+    binhash: 0fa5ccabfe4e565f4b8419538863c547
+    md5: dc19b6d75177f9423c1d835d12175388
 work/INPUT/masks/mask_table.2537.202x50:
   fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/masks/mask_table.2537.202x50
   hashes:
     binhash: dcd061231c329ba7c1a15e01e96c9ff4
     md5: 5b46007cdeecb62a380d1895150aba74
+work/INPUT/masks/mask_table.3093.220x56:
+  fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/masks/mask_table.3093.220x56
+  hashes:
+    binhash: 9120d90d9571603084266bd35ae9251e
+    md5: 2905bf6b2de4520e62be644aa235e0e0
 work/INPUT/masks/mask_table.580.100x25:
   fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/masks/mask_table.580.100x25
   hashes:

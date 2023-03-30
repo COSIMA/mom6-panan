@@ -1,9 +1,10 @@
 project: ol01
-queue: normal
-walltime: 4:00:00
-jobname: panan_0025_3737
-ncpus: 3737
-jobfs: 10GB
+queue: normalsr
+walltime: 0:30:00
+jobname: panan_0025
+ncpus: 7361
+jobfs: 100GB
+mem: 36000GB
 
 shortpath: /scratch/g40/wf4500/experiments2
 
@@ -26,7 +27,7 @@ storage:
     - x77
 
 platform:
-  nodesize: 48
+  nodesize: 104
 
 mpi:
   module: openmpi/4.1.2
