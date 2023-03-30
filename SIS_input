@@ -12,8 +12,8 @@ DO_ICEBERGS = False
 ! time between writes of global ice diags and conservation
 ICE_STATS_INTERVAL = 0.25
 
-NIGLOBAL = 3600
-NJGLOBAL = 845
+NIGLOBAL = 14400
+NJGLOBAL = 3383
 LAYOUT = 102,25
 MASKTABLE = "masks/mask_table.596.102x25"
 
