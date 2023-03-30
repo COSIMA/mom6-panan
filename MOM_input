@@ -52,7 +52,7 @@ INPUTDIR = "INPUT"
 
 ! === module MOM_grid_init ===
 GRID_CONFIG = "mosaic"
-GRID_FILE = "ocean_hgrid.nc"
+GRID_FILE = "ocean_hgrid_new.nc"
 TOPO_CONFIG = "file"
 TOPO_FILE = "ocean_topog.nc"
 

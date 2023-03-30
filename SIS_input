@@ -18,7 +18,7 @@ LAYOUT = 100,25
 MASKTABLE = "masks/mask_table.580.100x25"
 
 GRID_CONFIG = "mosaic"
-GRID_FILE = "ocean_hgrid.nc"
+GRID_FILE = "ocean_hgrid_new.nc"
 INPUTDIR = "INPUT"
 
 TOPO_FILE = "ocean_topog.nc"

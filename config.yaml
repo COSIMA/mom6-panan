@@ -5,7 +5,7 @@ jobname: panan_0025
 ncpus: 1920
 jobfs: 20GB
 
-shortpath: /scratch/g40/wf4500/experiments
+shortpath: /scratch/g40/wf4500/experiments/panan-0025
 
 model: mom6
 input:
