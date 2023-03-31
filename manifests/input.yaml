@@ -166,6 +166,11 @@ work/INPUT/atmos_mosaic_tile1Xocean_mosaic_tile1.nc:
   hashes:
     binhash: 6905da749b7e0c2c155e8c48ca278cd8
     md5: 2e193ff12439f3113b57c651e9c431f8
+work/INPUT/diag_rho2.nc:
+  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/diag_rho2.nc
+  hashes:
+    binhash: 60df14246521f112261aba99e5bcf37e
+    md5: 2e28890e50220397a167a2b3c4a30271
 work/INPUT/forcing_final_140th.nc:
   fullpath: /g/data/x77/wf4500/mom6-panan-1_40th/forcing_final_140th.nc
   hashes:
