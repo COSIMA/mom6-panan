@@ -69,7 +69,7 @@ OBC_ZERO_BIHARMONIC = True
 OBC_SEGMENT_001 = "J=N,I=N:0,FLATHER,ORLANSKI,NUDGED"
 OBC_SEGMENT_001_VELOCITY_NUDGING_TIMESCALES = .3, 360.0 ! inflow and outflow timescales
 BRUSHCUTTER_MODE = True ! read data on supergrid
-OBC_SEGMENT_001_DATA = "U=file:forcing_final_140th_int.nc(u),V=file:forcing_final_140th_int.nc(v),SSH=file:forcing_final_140th_int.nc(eta_t),TEMP=file:forcing_final_140th_int.nc(temp),SALT=file:forcing_final_140th_int.nc(salt)"
+OBC_SEGMENT_001_DATA = "U=file:forcing_final_140th_int3.nc(u),V=file:forcing_final_140th_int3.nc(v),SSH=file:forcing_final_140th_int3.nc(eta_t),TEMP=file:forcing_final_140th_int3.nc(temp),SALT=file:forcing_final_140th_int3.nc(salt)"
 !RAMP_OBCS = True
 
 OBC_TRACER_RESERVOIR_LENGTH_SCALE_OUT = 30000
