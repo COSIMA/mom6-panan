@@ -171,6 +171,11 @@ work/INPUT/forcing_final_140th.nc:
   hashes:
     binhash: ceec67d608b57bb3cfe390bb5fa36991
     md5: 072b696864f096f8514109909c5d41b7
+work/INPUT/forcing_final_140th_int.nc:
+  fullpath: /g/data/x77/wf4500/mom6-panan-1_40th/forcing_final_140th_int.nc
+  hashes:
+    binhash: 6009d48646f8575beab74020e9103244
+    md5: 75a0204f6c3aebe710f0c49d3ebda2fe
 work/INPUT/grid_spec.nc:
   fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/grid_spec.nc
   hashes:
@@ -276,6 +281,11 @@ work/INPUT/temp_salt_init_z_panant0025_31032023.nc:
   hashes:
     binhash: 434bbf251f3367d4d81800eaf0114da6
     md5: 32387db606304cdef63b4c08e9e83eec
+work/INPUT/temp_salt_init_z_panant0025_31032023b.nc:
+  fullpath: /g/data/x77/wf4500/mom6-panan-1_40th/temp_salt_init_z_panant0025_31032023b.nc
+  hashes:
+    binhash: a26537ecefc8117f7abc994475440157
+    md5: 8bfa18e4ba90bf4bf2bf53beb7be9175
 work/INPUT/vcoord.nc:
   fullpath: /home/156/wf4500/mom6-panan/input_1_40th/vcoord.nc
   hashes:
