@@ -83,11 +83,11 @@
 /
 
 &atmos_model_nml
-    layout = 204, 48
-    mask_table = 'INPUT/masks/mask_table.2431.204x48'
+    layout = 220, 56
+    mask_table = 'INPUT/masks/mask_table.3093.220x56'
 /
 
 &land_model_nml
-    layout = 204, 48
-    mask_table = 'INPUT/masks/mask_table.2431.204x48'
+    layout = 220, 56
+    mask_table = 'INPUT/masks/mask_table.3093.220x56'
 /
