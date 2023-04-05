@@ -1,11 +1,6 @@
 format: yamanifest
 version: 1.0
 ---
-work/INPUT/#fixed_topog.sh#:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/#fixed_topog.sh#
-  hashes:
-    binhash: f7917d701e1fef1accff8cbcb9f9a9fd
-    md5: d41d8cd98f00b204e9800998ecf8427e
 work/INPUT/RYF.q_10.1984_1985.nc:
   fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.q_10.1984_1985.nc
   hashes:
@@ -176,11 +171,6 @@ work/INPUT/diag_rho2.nc:
   hashes:
     binhash: 101e9f9a155be22988db86cc8c3387e9
     md5: 2e28890e50220397a167a2b3c4a30271
-work/INPUT/fixed_topog.sh:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/fixed_topog.sh
-  hashes:
-    binhash: bfe7a934cdf12d8a04537461d20e09ec
-    md5: 1b6b8798c604f61379732c751d2884a6
 work/INPUT/forcing/forcing_obc.nc:
   fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/forcing/forcing_obc.nc
   hashes:
@@ -221,46 +211,11 @@ work/INPUT/land_mosaic_tile1Xocean_mosaic_tile1.nc:
   hashes:
     binhash: 6ebd803928904b1d49d8d820e99268a8
     md5: 0b66eee3d6a9d9517af40da2c2bace47
-work/INPUT/masks/mask_table.1198.141x35:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/masks/mask_table.1198.141x35
-  hashes:
-    binhash: 64b38894528d7d34328207bd8c4285fe
-    md5: a8ec7d006caacebe3a6126849724192b
-work/INPUT/masks/mask_table.2431.204x48:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/masks/mask_table.2431.204x48
-  hashes:
-    binhash: 293dca5cc1b29507ac91fb81f3c6d212
-    md5: dc19b6d75177f9423c1d835d12175388
-work/INPUT/masks/mask_table.2537.202x50:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/masks/mask_table.2537.202x50
-  hashes:
-    binhash: f91a7f408be344fc4c2f72ac696a4002
-    md5: 5b46007cdeecb62a380d1895150aba74
-work/INPUT/masks/mask_table.3093.220x56:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/masks/mask_table.3093.220x56
-  hashes:
-    binhash: 45bdae94cfd902a450692c73032b939d
-    md5: 2905bf6b2de4520e62be644aa235e0e0
-work/INPUT/masks/mask_table.580.100x25:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/masks/mask_table.580.100x25
-  hashes:
-    binhash: 2e100cecfb939fd6ee299243d161dc47
-    md5: 7709cdf00c4a5026ccf4471405daaf04
-work/INPUT/masks/mask_table.596.102x25:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/masks/mask_table.596.102x25
-  hashes:
-    binhash: 64a5159b6b1637d5fcbc3f0852c19e30
-    md5: fb777fd52d40a162adaeaa8f253fea61
 work/INPUT/ocean_hgrid.nc:
   fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/ocean_hgrid.nc
   hashes:
     binhash: 791b1f93ff781fc317b96bb4dc9ae053
     md5: 11110e94a22ecc46e9066bf73ecb963a
-work/INPUT/ocean_hgrid_new.nc:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/ocean_hgrid_new.nc
-  hashes:
-    binhash: 5c21377fa6fc06a06ddbadd31a816aaa
-    md5: 511f30f62cb75d22af1074df0148a322
 work/INPUT/ocean_mask.nc:
   fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/ocean_mask.nc
   hashes:
@@ -321,11 +276,6 @@ work/INPUT/oldtopography/ocean_topog.nc:
   hashes:
     binhash: 9634e8a8490b3cb52d337cc96b38f589
     md5: c8154a7f1a4a3cddf2f3f107447f73f0
-work/INPUT/regridded-box-20230306.nc:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/regridded-box-20230306.nc
-  hashes:
-    binhash: dd96eb2b7a85627dd0d1cab2bbd9a48a
-    md5: 969b5dccf9df9e8af0327a76ee047456
 work/INPUT/runoff.nc:
   fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/runoff.nc
   hashes:
@@ -366,11 +316,6 @@ work/INPUT/temp_salt_init_z_panant0025_31032023b.nc:
   hashes:
     binhash: a26537ecefc8117f7abc994475440157
     md5: 8bfa18e4ba90bf4bf2bf53beb7be9175
-work/INPUT/topog_edited.nc:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/topog_edited.nc
-  hashes:
-    binhash: 6fd074db0944da8f07f0acc0fd881462
-    md5: c64cb770d0aac51f81b295e8468dfda9
 work/INPUT/vcoord.nc:
   fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/vcoord.nc
   hashes:
