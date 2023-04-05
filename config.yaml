@@ -11,8 +11,8 @@ shortpath: /scratch/g40/wf4500/experiments2
 model: mom6
 input:
     - /g/data/ik11/inputs/mom6/panan/0025deg/20230320/
+    - /home/156/wf4500/mom6-panan/input_1_40th/
     - /g/data/ik11/inputs/JRA-55/RYF/v1-3/
-    - /g/data/x77/wf4500/mom6-panan-1_40th/
 exe: /g/data/ik11/inputs/mom6/bin/symmetric_FMS2-e7d09b7
 
 restart: /home/156/wf4500/mom6-panan/restart/
