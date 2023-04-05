@@ -242,9 +242,9 @@ work/INPUT/ocean_hgrid.nc:
     binhash: 791b1f93ff781fc317b96bb4dc9ae053
     md5: 11110e94a22ecc46e9066bf73ecb963a
 work/INPUT/ocean_hgrid_new.nc:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/ocean_hgrid_new.nc
+  fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/ocean_hgrid_new.nc
   hashes:
-    binhash: 5c21377fa6fc06a06ddbadd31a816aaa
+    binhash: 4ac44636947f921ba0cc170d9105cd39
     md5: 511f30f62cb75d22af1074df0148a322
 work/INPUT/ocean_mask.nc:
   fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/ocean_mask.nc
