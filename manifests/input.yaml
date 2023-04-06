@@ -1,11 +1,16 @@
 format: yamanifest
 version: 1.0
 ---
-work/INPUT/#fixed_topog.sh#:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/#fixed_topog.sh#
+work/INPUT/README.md:
+  fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/README.md
   hashes:
-    binhash: f7917d701e1fef1accff8cbcb9f9a9fd
-    md5: d41d8cd98f00b204e9800998ecf8427e
+    binhash: 9d26103f241232eb0e1df62e5c5ece90
+    md5: 08c2b1c89689bf384c8603304025a3e1
+work/INPUT/README.md~:
+  fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/README.md~
+  hashes:
+    binhash: 14852122fb62f4f2f2948a42b793cdb0
+    md5: d974d1e8df441a51188368e54ef213b1
 work/INPUT/RYF.q_10.1984_1985.nc:
   fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.q_10.1984_1985.nc
   hashes:
@@ -176,16 +181,11 @@ work/INPUT/diag_rho2.nc:
   hashes:
     binhash: 101e9f9a155be22988db86cc8c3387e9
     md5: 2e28890e50220397a167a2b3c4a30271
-work/INPUT/fixed_topog.sh:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/fixed_topog.sh
-  hashes:
-    binhash: bfe7a934cdf12d8a04537461d20e09ec
-    md5: 1b6b8798c604f61379732c751d2884a6
 work/INPUT/forcing/forcing_obc.nc:
   fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/forcing/forcing_obc.nc
   hashes:
-    binhash: deeca2db0bf61d82ed7a08b271a868c6
-    md5: f7aba21f7b3a3f42a6c7c19f174b9696
+    binhash: 107a6071701b3fab1c126bb974345efa
+    md5: 7f1f14310d44b9bc180d5085a5d6a961
 work/INPUT/forcing/temp_salt_init_z.nc:
   fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/forcing/temp_salt_init_z.nc
   hashes:
@@ -206,36 +206,6 @@ work/INPUT/land_mosaic_tile1Xocean_mosaic_tile1.nc:
   hashes:
     binhash: 6ebd803928904b1d49d8d820e99268a8
     md5: 0b66eee3d6a9d9517af40da2c2bace47
-work/INPUT/masks2/mask_table.1198.141x35:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/masks2/mask_table.1198.141x35
-  hashes:
-    binhash: a9f3dfd60a279aeddfb0cdbc5c5440f8
-    md5: a8ec7d006caacebe3a6126849724192b
-work/INPUT/masks2/mask_table.2431.204x48:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/masks2/mask_table.2431.204x48
-  hashes:
-    binhash: e6772eaabbae80cfaf64a48fb369fdee
-    md5: dc19b6d75177f9423c1d835d12175388
-work/INPUT/masks2/mask_table.2537.202x50:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/masks2/mask_table.2537.202x50
-  hashes:
-    binhash: dd50cd0f51d9a15bf1aa7d7b44069c80
-    md5: 5b46007cdeecb62a380d1895150aba74
-work/INPUT/masks2/mask_table.3093.220x56:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/masks2/mask_table.3093.220x56
-  hashes:
-    binhash: b6690147505b39b489827b0070db164e
-    md5: 2905bf6b2de4520e62be644aa235e0e0
-work/INPUT/masks2/mask_table.580.100x25:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/masks2/mask_table.580.100x25
-  hashes:
-    binhash: 680ee30d9192db64e8884d83ee0a8d74
-    md5: 7709cdf00c4a5026ccf4471405daaf04
-work/INPUT/masks2/mask_table.596.102x25:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/masks2/mask_table.596.102x25
-  hashes:
-    binhash: bd4406ee5526a829b08eba456bc9f739
-    md5: fb777fd52d40a162adaeaa8f253fea61
 work/INPUT/masks_open/mask_table.1198.141x35:
   fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/masks_open/mask_table.1198.141x35
   hashes:
@@ -271,11 +241,6 @@ work/INPUT/ocean_hgrid.nc:
   hashes:
     binhash: 791b1f93ff781fc317b96bb4dc9ae053
     md5: 11110e94a22ecc46e9066bf73ecb963a
-work/INPUT/ocean_hgrid_new.nc:
-  fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/ocean_hgrid_new.nc
-  hashes:
-    binhash: 4ac44636947f921ba0cc170d9105cd39
-    md5: 511f30f62cb75d22af1074df0148a322
 work/INPUT/ocean_mask.nc:
   fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/ocean_mask.nc
   hashes:
@@ -336,21 +301,11 @@ work/INPUT/oldtopography/ocean_topog.nc:
   hashes:
     binhash: 9634e8a8490b3cb52d337cc96b38f589
     md5: c8154a7f1a4a3cddf2f3f107447f73f0
-work/INPUT/regridded-box-20230306.nc:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/regridded-box-20230306.nc
-  hashes:
-    binhash: dd96eb2b7a85627dd0d1cab2bbd9a48a
-    md5: 969b5dccf9df9e8af0327a76ee047456
 work/INPUT/runoff.nc:
   fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/runoff.nc
   hashes:
     binhash: a35034dc970e44ddce28282a1c0b20c1
     md5: 969b5dccf9df9e8af0327a76ee047456
-work/INPUT/topog_edited.nc:
-  fullpath: /home/156/wf4500/mom6-panan/input_1_40th/topog_edited.nc
-  hashes:
-    binhash: 6fd074db0944da8f07f0acc0fd881462
-    md5: c64cb770d0aac51f81b295e8468dfda9
 work/INPUT/vcoord.nc:
   fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/vcoord.nc
   hashes:
