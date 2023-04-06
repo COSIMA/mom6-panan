@@ -236,6 +236,36 @@ work/INPUT/masks2/mask_table.596.102x25:
   hashes:
     binhash: bd4406ee5526a829b08eba456bc9f739
     md5: fb777fd52d40a162adaeaa8f253fea61
+work/INPUT/masks_open/mask_table.1198.141x35:
+  fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/masks_open/mask_table.1198.141x35
+  hashes:
+    binhash: 93172b5e990d9db2fb56b5bbd034f029
+    md5: a8ec7d006caacebe3a6126849724192b
+work/INPUT/masks_open/mask_table.2431.204x48:
+  fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/masks_open/mask_table.2431.204x48
+  hashes:
+    binhash: dab2e16569a900b375ef646a546c6e42
+    md5: dc19b6d75177f9423c1d835d12175388
+work/INPUT/masks_open/mask_table.2537.202x50:
+  fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/masks_open/mask_table.2537.202x50
+  hashes:
+    binhash: f6e7265ce9c1a84ca4b02111379cfad4
+    md5: 5b46007cdeecb62a380d1895150aba74
+work/INPUT/masks_open/mask_table.3093.220x56:
+  fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/masks_open/mask_table.3093.220x56
+  hashes:
+    binhash: d7ab30fee4eb62e70244cb39ef8b2004
+    md5: 2905bf6b2de4520e62be644aa235e0e0
+work/INPUT/masks_open/mask_table.580.100x25:
+  fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/masks_open/mask_table.580.100x25
+  hashes:
+    binhash: b37073312245fd26350ffa8523234b16
+    md5: 7709cdf00c4a5026ccf4471405daaf04
+work/INPUT/masks_open/mask_table.596.102x25:
+  fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/masks_open/mask_table.596.102x25
+  hashes:
+    binhash: 08901a51b7edc66183a1c0f0f1798698
+    md5: fb777fd52d40a162adaeaa8f253fea61
 work/INPUT/ocean_hgrid.nc:
   fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/ocean_hgrid.nc
   hashes:
