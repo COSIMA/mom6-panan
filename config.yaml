@@ -6,7 +6,7 @@ ncpus: 9227
 jobfs: 100GB
 mem: 45500GB
 
-shortpath: /scratch/g40/wf4500/experiments2
+shortpath: /scratch/hh5/wf4500/panan0025ryf
 
 model: mom6
 input:
@@ -23,6 +23,7 @@ storage:
     - ik11
     - v45
     - x77
+    - hh5
 
 platform:
   nodesize: 104
