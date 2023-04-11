@@ -4,13 +4,13 @@ version: 1.0
 work/INPUT/README.md:
   fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/README.md
   hashes:
-    binhash: 73dc2d89e77fcaf3fb8de0df7362169a
-    md5: 7740e2ba2efe15545e429b09bb8b44f6
+    binhash: c56a11da65b09af6fbcdec691b7b18b6
+    md5: 421d01d64df67ea7499cbd7dda8b9db5
 work/INPUT/README.md~:
   fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/README.md~
   hashes:
-    binhash: d37e22c3b15a0349b1c140ad824e2d90
-    md5: 08c2b1c89689bf384c8603304025a3e1
+    binhash: 44db5944f8125f399e3e9f6d74aa59b5
+    md5: 7740e2ba2efe15545e429b09bb8b44f6
 work/INPUT/RYF.q_10.1984_1985.nc:
   fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-3/RYF.q_10.1984_1985.nc
   hashes:
@@ -256,51 +256,6 @@ work/INPUT/ocean_topog.nc:
   hashes:
     binhash: 689732e48931e4bfb395a8875de3419d
     md5: be3093b08a407438ac3b2a7befc3454c
-work/INPUT/oldforcing/temp_salt_init_z.nc:
-  fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/oldforcing/temp_salt_init_z.nc
-  hashes:
-    binhash: a57f8c5a3ec66606f0e4b57e527de26c
-    md5: 32387db606304cdef63b4c08e9e83eec
-work/INPUT/oldtopography/atmos_mosaic_tile1Xland_mosaic_tile1.nc:
-  fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/oldtopography/atmos_mosaic_tile1Xland_mosaic_tile1.nc
-  hashes:
-    binhash: f2ac5c4487301d12941fb5965295055f
-    md5: 6a115b4f0b0590b6f981f2572692ac36
-work/INPUT/oldtopography/atmos_mosaic_tile1Xocean_mosaic_tile1.nc:
-  fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/oldtopography/atmos_mosaic_tile1Xocean_mosaic_tile1.nc
-  hashes:
-    binhash: c224ff44bee0007b5d20a2db77df59aa
-    md5: 2e193ff12439f3113b57c651e9c431f8
-work/INPUT/oldtopography/grid_spec.nc:
-  fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/oldtopography/grid_spec.nc
-  hashes:
-    binhash: e7868e10720ed8e43726cc309ec2f1ed
-    md5: 792ff011957c02f9a2bd2ffa0f927700
-work/INPUT/oldtopography/land_mask.nc:
-  fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/oldtopography/land_mask.nc
-  hashes:
-    binhash: 55e2afa73c36c08fbf07d38729f1d2ab
-    md5: 0da55bb3bb2f16fb545aa41f89bd8090
-work/INPUT/oldtopography/land_mosaic_tile1Xocean_mosaic_tile1.nc:
-  fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/oldtopography/land_mosaic_tile1Xocean_mosaic_tile1.nc
-  hashes:
-    binhash: ae7edf4ec83074e224fb8d708bb88e13
-    md5: 0b66eee3d6a9d9517af40da2c2bace47
-work/INPUT/oldtopography/ocean_mask.nc:
-  fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/oldtopography/ocean_mask.nc
-  hashes:
-    binhash: d4a9f8279f1cf888905551fdb9e8d7a1
-    md5: e802f8cf66cd9f8cddb55c388efcdd06
-work/INPUT/oldtopography/ocean_mosaic.nc:
-  fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/oldtopography/ocean_mosaic.nc
-  hashes:
-    binhash: c177b60dbcdd82ca828d32e60b665643
-    md5: b11c61ea7727bde8828405dc62b5a87f
-work/INPUT/oldtopography/ocean_topog.nc:
-  fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/oldtopography/ocean_topog.nc
-  hashes:
-    binhash: 9634e8a8490b3cb52d337cc96b38f589
-    md5: c8154a7f1a4a3cddf2f3f107447f73f0
 work/INPUT/runoff.nc:
   fullpath: /g/data/ik11/inputs/mom6/panan/0025deg/20230320/runoff.nc
   hashes:

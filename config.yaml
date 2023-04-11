@@ -6,7 +6,7 @@ ncpus: 9227
 jobfs: 100GB
 mem: 45500GB
 
-shortpath: /g/data/x77/wf4500/simulations/panan0025ryf
+shortpath: /scratch/v45/wf4500/simulations/panan0025
 
 model: mom6
 input:
