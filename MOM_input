@@ -41,10 +41,10 @@ RESTART_CHECKSUMS_REQUIRED = False
 NIGLOBAL = 14400
 NJGLOBAL = 3383
 
-LAYOUT = 220,56
-IO_LAYOUT = 55,14
+LAYOUT = 220,60
+IO_LAYOUT = 22,6
 
-MASKTABLE = "masks/mask_table.3093.220x56"
+MASKTABLE = "masks/mask_table.3328.220x60"
 
 ! === module MOM_verticalGrid ===
 NK = 75
