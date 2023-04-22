@@ -46,6 +46,8 @@ IO_LAYOUT = 22,6
 
 MASKTABLE = "masks/mask_table.3328.220x60"
 
+PARALLEL_RESTARTFILES = True
+
 ! === module MOM_verticalGrid ===
 NK = 75
 
