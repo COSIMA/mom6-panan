@@ -3,7 +3,7 @@ project: oz91
 queue: normal
 walltime: 3:30:00
 jobname: mom6_panan-005
-ncpus: 3717
+ncpus: 3707
 jobfs: 10GB
 
 # change to a project you have access to

@@ -42,7 +42,7 @@ NJGLOBAL = 1690
 LAYOUT = 144,34
 IO_LAYOUT = 1,1
 
-MASKTABLE = "masks/mask_table.1179.144x34"
+MASKTABLE = "masks/mask_table.1189.144x34"
 
 ! === module MOM_verticalGrid ===
 NK = 75

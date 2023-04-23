@@ -81,3 +81,13 @@
 	make_exchange_reproduce = .false.,
 	interp_method = 'second_order'
 /
+
+&atmos_model_nml
+    layout = 144, 34
+    mask_table = 'INPUT/masks/mask_table.1189.144x34'
+/
+
+&land_model_nml
+    layout = 144, 34
+    mask_table = 'INPUT/masks/mask_table.1189.144x34'
+/
