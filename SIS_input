@@ -18,10 +18,10 @@ LAYOUT = 144,34
 MASKTABLE = "masks/mask_table.1179.144x34"
 
 GRID_CONFIG = "mosaic"
-GRID_FILE = "ocean_hgrid_0025.nc"
+GRID_FILE = "ocean_hgrid.nc"
 INPUTDIR = "INPUT"
 
-TOPO_FILE = "topog.nc"
+TOPO_FILE = "ocean_topog.nc"
 
 MAXIMUM_DEPTH = 6000.0
 

@@ -42,6 +42,9 @@ panan
 "ocean_model_z", "so",           "so",               "ocean_month_z",       "all", "mean", "none",2
 # Potential Density referenced to 2000 dbar
 "ocean_model_z", "rhopot2",      "rhopot2",          "ocean_month_z",      "all", "mean", "none", 2
+# Zonal/Meridional heat fluxes
+"ocean_model_z","T_adx",        "T_adx",            "ocean_month_z",     "all", "mean", "none",2
+"ocean_model_z","T_ady",        "T_ady",            "ocean_month_z",     "all", "mean", "none",2
 
 # Ocean Mass X/Y Transport Vertical Sum
 "ocean_model",  "umo_2d",       "umo_2d",      "ocean_month",         "all", "mean", "none",2
@@ -55,6 +58,8 @@ panan
 # Net surface water flux (precip+melt+lrunoff+ice calving-evap)
 "ocean_model",  "wfo",          "wfo",              "ocean_month",        "all", "mean", "none",2
 "ocean_model",  "friver",       "friver",           "ocean_month",        "all", "mean", "none",2
+# Net salt flux into ocean at surface (restoring + sea-ice)
+"ocean_model",  "salt_flux",    "salt_flux",        "ocean_month",        "all", "mean", "none",2
 
 # Surface area of tracer (T) cells
 "ocean_model", "areacello",   "areacello",   "ocean_static", "all", "none", "none", 2
