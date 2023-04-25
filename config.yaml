@@ -1,9 +1,9 @@
 # change to your project with compute time available
 project: oz91
-queue: normal
-walltime: 3:30:00
+queue: normalsr
+walltime: 2:30:00
 jobname: mom6_panan-005
-ncpus: 3707
+ncpus: 3916
 jobfs: 10GB
 
 # change to a project you have access to
@@ -24,7 +24,7 @@ storage:
     - ik11
 
 platform:
-  nodesize: 48
+  nodesize: 104
 
 mpi:
   module: openmpi/4.1.2
