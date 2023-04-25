@@ -11,7 +11,7 @@ CONSTANT_COSZEN_IC = 0.0
 DO_ICEBERGS = False
 ! time between writes of global ice diags and conservation
 ICE_STATS_INTERVAL = 0.25
-1;115;0c
+
 NIGLOBAL = 7200
 NJGLOBAL = 1690
 LAYOUT = 144,34
