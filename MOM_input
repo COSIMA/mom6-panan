@@ -13,7 +13,6 @@ DT = 900.0
 ! thermodynamic and tracer advection timestep
 !DT_THERM = 3600.0
 DT_THERM = 1800.0
-!DT_THERM = 900.0
 ! thermo timesteps can be longer than coupling timestep
 THERMO_SPANS_COUPLING = True
 ! form frazil ice (accumulated heat deficit is returned
@@ -69,7 +68,7 @@ OBC_ZERO_BIHARMONIC = True
 OBC_SEGMENT_001 = "J=N,I=N:0,FLATHER,ORLANSKI,NUDGED"
 OBC_SEGMENT_001_VELOCITY_NUDGING_TIMESCALES = .3, 360.0 ! inflow and outflow timescales
 BRUSHCUTTER_MODE = True ! read data on supergrid
-OBC_SEGMENT_001_DATA = "U=file:forcing/forcing_obc.nc(u),V=file:forcing/forcing_obc.nc(v),SSH=file:forcing/forcing_obc.nc(eta_t),TEMP=file:forcing/forcing_obc.nc(temp),SALT=file:forcing/forcing_obc.nc(salt)"
+OBC_SEGMENT_001_DATA = "U=file:forcing_access_yr2_01.nc(u),V=file:forcing_access_yr2_01.nc(v),SSH=file:forcing_access_yr2_01.nc(eta_t),TEMP=file:forcing_access_yr2_01.nc(pot_temp),SALT=file:forcing_access_yr2_01.nc(salt)"
 !RAMP_OBCS = True
 
 OBC_TRACER_RESERVOIR_LENGTH_SCALE_OUT = 30000
@@ -77,6 +76,9 @@ OBC_TRACER_RESERVOIR_LENGTH_SCALE_IN = 3000
 
 ! sponges
 SPONGE = False
+
+! === module MOM_tracer_flow_control ===
+USE_IDEAL_AGE_TRACER = True
 
 ! === module MOM_coord_initialization ===
 ! don't define layers in ALE mode
@@ -102,7 +104,7 @@ TEMP_SALT_INIT_VERTICAL_REMAP_ONLY = True
 
 ! === module MOM_initialize_layers_from_Z ===
 ! read "temp" and "salt" from a z-space file
-TEMP_SALT_Z_INIT_FILE = "forcing/temp_salt_init_z.nc"
+TEMP_SALT_Z_INIT_FILE = "ACCESS-OM2_pottemp_salt_yr2.nc"
 Z_INIT_FILE_PTEMP_VAR = "temp"
 ! remap straight to the model coordinate
 Z_INIT_ALE_REMAPPING = True
@@ -246,6 +248,12 @@ CD_TIDES = 0.0018
 GUST_CONST = 0.0
 USE_RIGID_SEA_ICE = True
 SEA_ICE_RIGID_MASS = 100.0
+RESTORE_SALINITY = True
+ADJUST_NET_SRESTORE_TO_ZERO = False
+FLUXCONST_SALT = 0.1667
+SALT_RESTORE_FILE = "salt_restore_pauthenet_fixed.nc"
+SRESTORE_AS_SFLUX = True
+MAX_DELTA_SRESTORE = 5
 
 ! === module MOM_sum_output ===
 MAXTRUNC = 100000
