@@ -11,8 +11,7 @@ DT = 450.0
 !DT = 360.0
 
 ! thermodynamic and tracer advection timestep
-!DT_THERM = 3600.0
-!DT_THERM = 1800.0
+! WARNING: Do not increase DT_THERM above 1200.0 for panan-005 config!!
 DT_THERM = 900.0
 ! thermo timesteps can be longer than coupling timestep
 THERMO_SPANS_COUPLING = True
@@ -79,6 +78,9 @@ OBC_TRACER_RESERVOIR_LENGTH_SCALE_IN = 3000
 
 ! sponges
 SPONGE = False
+
+! === module MOM_tracer_flow_control ===
+USE_IDEAL_AGE_TRACER = True
 
 ! === module MOM_coord_initialization ===
 ! don't define layers in ALE mode
@@ -248,6 +250,12 @@ CD_TIDES = 0.0018
 GUST_CONST = 0.0
 USE_RIGID_SEA_ICE = True
 SEA_ICE_RIGID_MASS = 100.0
+RESTORE_SALINITY = True
+ADJUST_NET_SRESTORE_TO_ZERO = False
+FLUXCONST_SALT = 0.1667
+SALT_RESTORE_FILE = "salt_restore_pauthenet_fixed.nc"
+SRESTORE_AS_SFLUX = True
+MAX_DELTA_SRESTORE = 5
 
 ! === module MOM_sum_output ===
 MAXTRUNC = 100000
