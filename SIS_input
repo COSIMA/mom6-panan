@@ -1,6 +1,5 @@
 CGRID_ICE_DYNAMICS = True
 DT_ICE_DYNAMICS = 100.0
-!DT_ICE_DYNAMICS = 180.0
 ! fixed bulk salinity of sea ice
 ICE_BULK_SALINITY = 0.0
 ! salinity of sea ice as fraction of salinity
@@ -43,8 +42,7 @@ CP_SEAWATER = 3992.0
 CP_BRINE = 3992.0
 
 ! subcycling timestep for rheology
-!DT_RHEOLOGY = 50.0
-DT_RHEOLOGY = 5
+DT_RHEOLOGY = 1
 
 U_TRUNC_FILE = "SIS_U_truncations"
 V_TRUNC_FILE = "SIS_V_truncations"
