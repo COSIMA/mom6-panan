@@ -93,4 +93,5 @@ panan
 "ice_model", "siconc",     "siconc",       "ice_month", "all", "mean", "none", 2
 #"ice_model", "siconc",     "siconc",       "ice_daily", "all", "mean", "none", 2
 "ice_model", "sithick",    "sithick",      "ice_month", "all", "mean", "none", 2
+#"ice_model", "net_melt",    "net_melt",      "ice_month", "all", "mean", "none", 2 #ADD ONLY FOR THE FINAL PERIOD
 #"ice_model", "sithick",    "sithick",      "ice_daily", "all", "mean", "none", 2
