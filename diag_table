@@ -93,6 +93,7 @@ panan
 "ice_model", "siconc",     "siconc",       "ice_month", "all", "mean", "none", 2
 #"ice_model", "siconc",     "siconc",       "ice_daily", "all", "mean", "none", 2
 "ice_model", "sithick",    "sithick",      "ice_month", "all", "mean", "none", 2
+"ice_model", "net_melt",    "net_melt",      "ice_month", "all", "mean", "none", 2
 #"ice_model", "sithick",    "sithick",      "ice_daily", "all", "mean", "none", 2
 #"ice_model", "FA_X",       "FA_X",         "ice_month", "all", "mean", "none", 2
 #"ice_model", "FA_Y",       "FA_Y",         "ice_month", "all", "mean", "none", 2
