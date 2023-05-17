@@ -28,5 +28,7 @@ storage:
 platform:
   nodesize: 104
 
-#userscripts:
+userscripts:
+    error: resub.sh
+    run: rm -f resubmit.count
 #   archive: qsub sync_output_to_gdata.sh
