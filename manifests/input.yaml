@@ -231,6 +231,11 @@ work/INPUT/runoff.nc:
   hashes:
     binhash: 07ce651769ebf8f61bd8b91941d9edf0
     md5: 4ae8de6db3940421ea4600f095353440
+work/INPUT/salt_restore_pauthenet_fixed.nc:
+  fullpath: /g/data/ik11/inputs/mom6/panan/005deg/20230424/salt_restore_pauthenet_fixed.nc
+  hashes:
+    binhash: 84a769c7436b4a763a344f2b79bfd5ba
+    md5: 55ece3afc2c5748d770eb176273a7911
 work/INPUT/vcoord.nc:
   fullpath: /g/data/ik11/inputs/mom6/panan/005deg/20230424/vcoord.nc
   hashes:
