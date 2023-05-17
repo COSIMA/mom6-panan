@@ -181,16 +181,16 @@ work/INPUT/diag_rho2.nc:
   hashes:
     binhash: 67d04afdb26057b37f9f796e38603a57
     md5: b8abcb148bb3ef71282d6be4531e491e
-work/INPUT/forcing/forcing_obc.nc:
-  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230404/forcing/forcing_obc.nc
+work/INPUT/forcing/ACCESS-OM2_pottemp_salt_yr2.nc:
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230404/forcing/ACCESS-OM2_pottemp_salt_yr2.nc
   hashes:
-    binhash: 646f5a829a651062f5968dfdfefbaf68
-    md5: 0f90ece1f7d98347779369c5408b779c
-work/INPUT/forcing/temp_salt_init_z.nc:
-  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230404/forcing/temp_salt_init_z.nc
+    binhash: 27848cf51c8387c05c90a41ef9b6c404
+    md5: 4aba0d67e6158c35e269ed6ac859c324
+work/INPUT/forcing/forcing_access_yr2_01.nc:
+  fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230404/forcing/forcing_access_yr2_01.nc
   hashes:
-    binhash: d2db564a88a929af248b2f510d75d1f6
-    md5: 15b78def5d1f2d5f5ce2de80ea200352
+    binhash: 3c32dae7a8f5b9322d766fc4afe77aa5
+    md5: b640705d5222c01dae31de98c535a65e
 work/INPUT/grid_spec.nc:
   fullpath: /g/data/ik11/inputs/mom6/panan/01deg/20230404/grid_spec.nc
   hashes:
