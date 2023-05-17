@@ -1,7 +1,7 @@
 # change to your project with compute time available
 project: oz91
 queue: normalsr
-walltime: 5:00:00
+walltime: 0:30:00
 jobname: mom6_panan-005
 ncpus: 3916
 jobfs: 10GB
@@ -25,4 +25,8 @@ storage:
 
 platform:
   nodesize: 104
+
+userscripts:
+    error: resub.sh
+    run: rm -f resubmit.count
 
