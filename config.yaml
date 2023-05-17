@@ -16,7 +16,15 @@ exe: /g/data/ik11/inputs/mom6/bin/symmetric_FMS2-e7d09b7
 
 restart: /home/156/wf4500/mom6-panan/restart/
 
-collate: false
+collate:
+ restart: true
+ mpi: true
+ walltime: 6:00:00
+ mem: 190GB
+ ncpus: 4
+ queue: normal
+ exe: /g/data/ik11/inputs/access-om2/bin/mppnccombine-fast
+ 
 runlog: true
 storage:
   gdata:
