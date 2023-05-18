@@ -22,7 +22,7 @@ collate:
  mem: 190GB
  ncpus: 4
  queue: normal
- exe: /g/data/ik11/inputs/access-om2/bin/mppnccombine-fast
+ exe: /g/data/ik11/inputs/access-om2/bin/mppnccombine
 
 runlog: true
 storage:
