@@ -104,7 +104,7 @@ TEMP_SALT_INIT_VERTICAL_REMAP_ONLY = True
 
 ! === module MOM_initialize_layers_from_Z ===
 ! read "temp" and "salt" from a z-space file
-TEMP_SALT_Z_INIT_FILE = "ACCESS-OM2_pottemp_salt_yr2.nc"
+TEMP_SALT_Z_INIT_FILE = "forcing/ACCESS-OM2_pottemp_salt_yr2.nc"
 Z_INIT_FILE_PTEMP_VAR = "temp"
 ! remap straight to the model coordinate
 Z_INIT_ALE_REMAPPING = True
