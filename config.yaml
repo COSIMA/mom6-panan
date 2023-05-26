@@ -9,8 +9,9 @@ shortpath: /scratch/x77
 
 model: mom6
 input:
-    - /g/data/ik11/inputs/mom6/panan/01deg/20230404
-    - /g/data/ua8/JRA55-do/RYF/v1-3/
+    - /g/data/ik11/inputs/mom6/panan/01deg/20230404/
+    - /scratch/oz91/akm157/JRA55-do/RYF/v1-3/
+#    - /g/data/ua8/JRA55-do/RYF/v1-3/
 exe: /g/data/ik11/inputs/mom6/bin/symmetric_FMS2-e7d09b7
 
 collate: false
@@ -18,6 +19,8 @@ storage:
   gdata:
     - ua8
     - ik11
+  scratch:
+    - oz91
 
 platform:
   nodesize: 48
