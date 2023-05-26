@@ -6,15 +6,14 @@ ncpus: 9872
 jobfs: 100GB
 mem: 48000GB
 
-shortpath: /scratch/v45/
+shortpath: /scratch/oz91/
 
 model: mom6
 input:
     - /g/data/ik11/inputs/mom6/panan/0025deg/20230320/
-    - /g/data/ik11/inputs/JRA-55/RYF/v1-3/
+    - /scratch/oz91/akm157/JRA55-do/RYF/v1-3/
+#    - /g/data/ik11/inputs/JRA-55/RYF/v1-3/
 exe: /g/data/ik11/inputs/mom6/bin/symmetric_FMS2-e7d09b7
-
-restart: /home/156/wf4500/mom6-panan/restart/
 
 collate:
  restart: true
@@ -32,6 +31,8 @@ storage:
     - v45
     - x77
     - hh5
+  scratch:
+    - oz91
 
 platform:
   nodesize: 104
