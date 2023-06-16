@@ -2,6 +2,7 @@ panan
 1991 1 1 0 0 0
 
 "ocean_daily",            1, "days",   1, "days", "time"
+"ocean_daily_volcello_z", 1, "days",   1, "days", "time"
 "ocean_daily_thetao",     1, "days",   1, "days", "time"
 "ocean_daily_so",         1, "days",   1, "days", "time"
 "ocean_daily_uo",         1, "days",   1, "days", "time"
@@ -19,6 +20,7 @@ panan
 # Ocean grid-cell volume
 "ocean_model_z", "volcello",     "volcello",         "ocean_month_z",       "all", "mean", "none",2
 "ocean_model_rho2", "volcello",  "volcello",         "ocean_month_rho2",    "all", "mean", "none",2
+"ocean_model_z", "volcello",     "volcello",         "ocean_daily_volcello_z",  "all", "mean", "none",2
 
 # Sea surface height above geoid
 "ocean_model",   "zos",          "zos",              "ocean_month",         "all", "mean", "none",2
