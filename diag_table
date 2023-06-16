@@ -4,12 +4,12 @@ panan
 "ocean_daily",            1, "days",   1, "days", "time"
 "ocean_daily_z",          1, "days",   1, "days", "time"
 "ocean_daily_rho2",       1, "days",   1, "days", "time"
-"ocean_daily_thetao",     1, "days",   1, "days", "time"
-"ocean_daily_so",         1, "days",   1, "days", "time"
-"ocean_daily_uo",         1, "days",   1, "days", "time"
-"ocean_daily_vo",         1, "days",   1, "days", "time"
-"ocean_daily_umo",        1, "days",   1, "days", "time"
-"ocean_daily_vmo" ,       1, "days",   1, "days", "time"
+#"ocean_daily_thetao",     1, "days",   1, "days", "time"
+#"ocean_daily_so",         1, "days",   1, "days", "time"
+#"ocean_daily_uo",         1, "days",   1, "days", "time"
+#"ocean_daily_vo",         1, "days",   1, "days", "time"
+#"ocean_daily_umo",        1, "days",   1, "days", "time"
+#"ocean_daily_vmo" ,       1, "days",   1, "days", "time"
 "ocean_daily_snap",       1, "days",   1, "days", "time"
 "ocean_month",            1, "months", 1, "days", "time"
 "ocean_month_z",          1, "months", 1, "days", "time"
@@ -40,22 +40,22 @@ panan
 
 # (umo,vmo)  =net mass transport from residual mean velocity (model resolved + SGS)
 "ocean_model_rho2","umo",       "umo",              "ocean_month_rho2",   "all", "mean", "none",2
-"ocean_model_rho2","umo",       "umo",              "ocean_daily_umo",   "all", "mean", "none",2
+"ocean_model_rho2","umo",       "umo",              "ocean_daily_rho2",   "all", "mean", "none",2
 "ocean_model_rho2","vmo",       "vmo",              "ocean_month_rho2",   "all", "mean", "none",2
-"ocean_model_rho2","vmo",       "vmo",              "ocean_daily_vmo",   "all", "mean", "none",2
+"ocean_model_rho2","vmo",       "vmo",              "ocean_daily_rho2",   "all", "mean", "none",2
 #"ocean_model_rho2", "h",        "hmo",              "ocean_month_rho2",   "all", "mean", "none", 2
 
 # Zonal/Meridional velocity
 "ocean_model_z","uo",           "uo",               "ocean_month_z",      "all", "mean", "none",2
-"ocean_model_z",  "uo",         "uo",               "ocean_daily_uo",      "all","mean","-280.0,80.0,-81.1,-37.0,0,20",2
+"ocean_model_z",  "uo",         "uo",               "ocean_daily_z",      "all","mean","-280.0,80.0,-81.1,-37.0,0,20",2
 "ocean_model_z","vo",           "vo",               "ocean_month_z",      "all", "mean", "none",2
-#"ocean_model_z",  "vo",         "vo",               "ocean_daily_vo",      "all","mean","-280.0,80.0,-81.1,-37.0,0,1500",2
+#"ocean_model_z",  "vo",         "vo",               "ocean_daily_z",      "all","mean","-280.0,80.0,-81.1,-37.0,0,1500",2
 # Potential Temperature
 "ocean_model_z", "thetao",       "thetao",           "ocean_month_z",       "all", "mean", "none",2  # if use pre-TEOS10
-"ocean_model_z", "thetao",       "thetao",           "ocean_daily_thetao",       "all", "mean", "none",2  # if use pre-TEOS10
+"ocean_model_z", "thetao",       "thetao",           "ocean_daily_z",       "all", "mean", "none",2  # if use pre-TEOS10
 # Salinity
 "ocean_model_z", "so",           "so",               "ocean_month_z",       "all", "mean", "none",2
-"ocean_model_z", "so",           "so",               "ocean_daily_so",       "all", "mean", "none",2
+"ocean_model_z", "so",           "so",               "ocean_daily_z",       "all", "mean", "none",2
 # Potential Density referenced to 2000 dbar
 "ocean_model_z", "rhopot2",      "rhopot2",          "ocean_month_z",      "all", "mean", "none", 2
 # Potential Density referenced to 0 dbar
