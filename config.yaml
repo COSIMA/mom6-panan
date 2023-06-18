@@ -33,6 +33,7 @@ storage:
     - ik11
   scratch:
     - oz91
+    - x77  
 
 platform:
   nodesize: 104
