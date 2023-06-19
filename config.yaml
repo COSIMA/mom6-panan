@@ -16,14 +16,14 @@ input:
 #    - /g/data/ik11/inputs/JRA-55/RYF/v1-3/
 exe: /g/data/ik11/inputs/mom6/bin/symmetric_FMS2-e7d09b7
 
-collate:
- restart: true
- mpi: true
- walltime: 6:00:00
- mem: 190GB
- ncpus: 8
- queue: normal
- exe: /scratch/x77/ahg157/software/mppnccombine-fast
+collate: false
+# restart: true
+# mpi: true
+# walltime: 6:00:00
+# mem: 190GB
+# ncpus: 8
+# queue: normal
+# exe: /scratch/x77/ahg157/software/mppnccombine-fast
 
 runlog: true
 storage:
