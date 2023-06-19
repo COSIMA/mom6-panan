@@ -2,7 +2,7 @@ panan
 1991 1 1 0 0 0
 
 "ocean_daily",            1, "days",   1, "days", "time"#, 1, "days"
-"ocean_daily_z_%dy",          1, "days",   1, "days", "time", 1, "days"
+"ocean_daily_z_%4yr_%3dy",          1, "days",   1, "days", "time", 1, "days"
 "ocean_daily_rho2",       1, "days",   1, "days", "time"#, 1, "days"
 #"ocean_daily_thetao",     1, "days",   1, "days", "time"
 #"ocean_daily_so",         1, "days",   1, "days", "time"
@@ -21,7 +21,7 @@ panan
 # Ocean grid-cell volume
 "ocean_model_z", "volcello",     "volcello",         "ocean_month_z",       "all", "mean", "none",2
 "ocean_model_rho2", "volcello",  "volcello",         "ocean_month_rho2",    "all", "mean", "none",2
-"ocean_model_z", "volcello",  "volcello",         "ocean_daily_z_%dy",    "all", "mean", "none",2
+"ocean_model_z", "volcello",  "volcello",         "ocean_daily_z_%4yr_%3dy",    "all", "mean", "none",2
 "ocean_model_rho2", "volcello",  "volcello",         "ocean_daily_rho2",    "all", "mean", "none",2
 
 # Sea surface height above geoid
@@ -47,15 +47,15 @@ panan
 
 # Zonal/Meridional velocity
 "ocean_model_z","uo",           "uo",               "ocean_month_z",      "all", "mean", "none",2
-"ocean_model_z",  "uo",         "uo",               "ocean_daily_z_%dy",      "all","mean","-280.0,80.0,-81.1,-37.0,0,1500",2
+"ocean_model_z",  "uo",         "uo",               "ocean_daily_z_%4yr_%3dy",      "all","mean","-280.0,80.0,-81.1,-37.0,0,1500",2
 "ocean_model_z","vo",           "vo",               "ocean_month_z",      "all", "mean", "none",2
-"ocean_model_z",  "vo",         "vo",               "ocean_daily_z_%dy",      "all","mean","-280.0,80.0,-81.1,-37.0,0,1500",2
+"ocean_model_z",  "vo",         "vo",               "ocean_daily_z_%4yr_%3dy",      "all","mean","-280.0,80.0,-81.1,-37.0,0,1500",2
 # Potential Temperature
 "ocean_model_z", "thetao",       "thetao",           "ocean_month_z",       "all", "mean", "none",2  # if use pre-TEOS10
-"ocean_model_z", "thetao",       "thetao",           "ocean_daily_z_%dy",       "all", "mean", "none",2  # if use pre-TEOS10
+"ocean_model_z", "thetao",       "thetao",           "ocean_daily_z_%4yr_%3dy",       "all", "mean", "none",2  # if use pre-TEOS10
 # Salinity
 "ocean_model_z", "so",           "so",               "ocean_month_z",       "all", "mean", "none",2
-"ocean_model_z", "so",           "so",               "ocean_daily_z_%dy",       "all", "mean", "none",2
+"ocean_model_z", "so",           "so",               "ocean_daily_z_%4yr_%3dy",       "all", "mean", "none",2
 # Potential Density referenced to 2000 dbar
 "ocean_model_z", "rhopot2",      "rhopot2",          "ocean_month_z",      "all", "mean", "none", 2
 # Potential Density referenced to 0 dbar
