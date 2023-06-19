@@ -35,9 +35,9 @@ panan
 
 # (umo,vmo)  =net mass transport from residual mean velocity (model resolved + SGS)
 "ocean_model_rho2","umo",       "umo",              "ocean_month_rho2",   "all", "mean", "none",2
-"ocean_model_rho2","umo",       "umo",              "ocean_daily_rho2",   "all", "mean", "none",2
+"ocean_model_rho2","umo",       "umo",              "ocean_daily_rho2%4yr_%3dy",   "all", "mean", "none",2
 "ocean_model_rho2","vmo",       "vmo",              "ocean_month_rho2",   "all", "mean", "none",2
-"ocean_model_rho2","vmo",       "vmo",              "ocean_daily_rho2",   "all", "mean", "none",2
+"ocean_model_rho2","vmo",       "vmo",              "ocean_daily_rho2%4yr_%3dy",   "all", "mean", "none",2
 #"ocean_model_rho2", "h",        "hmo",              "ocean_month_rho2",   "all", "mean", "none", 2
 
 # Zonal/Meridional velocity
