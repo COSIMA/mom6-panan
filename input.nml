@@ -27,8 +27,8 @@
 /
 
 &coupler_nml
-	months = 0,
-	days = 4,
+	months = 1,
+	days = 0,
 	hours = 0,
 	current_date = 1991,1,1,0,0,0,
 	calendar = 'NOLEAP',

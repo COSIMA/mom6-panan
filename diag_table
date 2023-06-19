@@ -1,9 +1,9 @@
 panan
 1991 1 1 0 0 0
 
-"ocean_daily%4yr_%3dy",         1, "days",   1, "days", "time", 4, "days"
-"ocean_daily_z%4yr_%3dy",       1, "days",   1, "days", "time", 4, "days"
-"ocean_daily_rho2%4yr_%3dy",    1, "days",   1, "days", "time", 4, "days"
+"ocean_daily%4yr_%3dy",         1, "days",   1, "days", "time", 1, "days"
+"ocean_daily_z%4yr_%3dy",       1, "days",   1, "days", "time", 1, "days"
+"ocean_daily_rho2%4yr_%3dy",    1, "days",   1, "days", "time", 1, "days"
 "ocean_daily_snap",             1, "days",   1, "days", "time"
 "ocean_month",                  1, "months", 1, "days", "time"
 "ocean_month_z",                1, "months", 1, "days", "time"
