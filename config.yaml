@@ -41,4 +41,6 @@ platform:
 userscripts:
     error: resub.sh
     run: rm -f resubmit.count
+    run: /scratch/x77/ahg157/software/get_output.sh
+    archive: collate_all.sh
 
