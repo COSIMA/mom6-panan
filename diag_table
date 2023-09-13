@@ -8,6 +8,7 @@ panan
 "ocean_month",                  1, "months", 1, "days", "time"
 "ocean_month_z",                1, "months", 1, "days", "time"
 "ocean_month_rho2",             1, "months", 1, "days", "time"
+"ocean_month_rho2_snap",        1, "months", 1, "days", "time"
 "ocean_static",                -1, "months", 1, "days", "time" # ocean_static is a protected name. Do not change this line.
 "ice_daily",                    1, "days",   1, "days", "time"
 "ice_month",                    1, "months", 1, "days", "time"
@@ -18,6 +19,7 @@ panan
 "ocean_model", "volcello",  "volcello",         "ocean_daily%4yr_%3dy",    "all", "mean", "none",2
 "ocean_model_z", "volcello",  "volcello",         "ocean_daily_z%4yr_%3dy",    "all", "mean", "none",2
 "ocean_model_rho2", "volcello",  "volcello",         "ocean_daily_rho2%4yr_%3dy",    "all", "mean", "none",2
+"ocean_model_rho2", "volcello",  "volcello",         "ocean_month_rho2_snap",    "all", "none", "none",2
 
 # Sea surface height above geoid
 "ocean_model",   "zos",          "zos",              "ocean_month",         "all", "mean", "none",2
@@ -90,8 +92,18 @@ panan
 "ocean_model", "T_adx",      "T_adx_2d",          "ocean_daily%4yr_%3dy",      "all", "mean", "none", 2
 "ocean_model", "T_ady",      "T_ady_2d",          "ocean_daily%4yr_%3dy",      "all", "mean", "none", 2
 
-# Total diapycnal diffusivity 
-"ocean_model_rho2", "Kd_interface",  "Kd_interface",  "ocean_month_rho2",      "all", "mean", "none",2
+# Total diapycnal diffusivity, this diagnostic is not correct  
+# "ocean_model_rho2", "Kd_interface",  "Kd_interface",  "ocean_month_rho2",      "all", "mean", "none",2
+# Total diapycnal diffusivity for heat at interfaces
+"ocean_model_rho2", "Kd_heat",  "Kd_heat",  "ocean_month_rho2",      "all", "mean", "none",2
+# Total diapycnal diffusivity for salt at interfaces
+"ocean_model_rho2", "Kd_salt",  "Kd_salt",  "ocean_month_rho2",      "all", "mean", "none",2
+# ePBL diapycnal diffusivity at interfaces
+"ocean_model_rho2", "Kd_ePBL",  "Kd_ePBL",  "ocean_month_rho2",      "all", "mean", "none",2
+# Shear-driven Diapycnal Diffusivity
+"ocean_model_rho2", "Kd_shear",  "Kd_shear",  "ocean_month_rho2",      "all", "mean", "none",2
+# Bottom Boundary Layer Diffusivity
+"ocean_model_rho2", "Kd_BBL",  "Kd_BBL",  "ocean_month_rho2",      "all", "mean", "none",2
 
 # Surface area of tracer (T) cells
 "ocean_model", "areacello",   "areacello",   "ocean_static", "all", "none", "none", 2
