@@ -1,7 +1,7 @@
 # change to your project with compute time available
 project: ot56
 queue: normalsr
-walltime: 5:00:00
+walltime: 3:30:00
 jobname: mom6_panan-005
 ncpus: 3916
 jobfs: 10GB
