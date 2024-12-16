@@ -61,6 +61,7 @@ panan
 "ocean_model",  "fsitherm",          "fsitherm",              "ocean_month",        "all", "mean", "none",2
 "ocean_model",  "salt_flux",       "salt_flux",           "ocean_month",        "all", "mean", "none",2
 "ocean_model",  "salt_flux_added",       "salt_flux_added",           "ocean_month",        "all", "mean", "none",2
+"ocean_model",  "lrunoff",       "lrunoff",           "ocean_month",        "all", "mean", "none",2
 
 # Surface area of tracer (T) cells
 "ocean_model", "areacello",   "areacello",   "ocean_static", "all", "none", "none", 2
