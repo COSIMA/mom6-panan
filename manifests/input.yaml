@@ -234,8 +234,8 @@ work/INPUT/ocean_topog.nc:
 work/INPUT/runoff.nc:
   fullpath: /g/data/ik11/inputs/mom6/panan/005deg/20241214/runoff.nc
   hashes:
-    binhash: 792f32fd05e571fe84870ad84e84bd23
-    md5: 283dc517db9082d7677570766394661b
+    binhash: db2fea0f3b3b5c09c553560a5b34a6b9
+    md5: 18d1a0fd457f0e2b7205d42dd78e6c14
 work/INPUT/salt_restore_pauthenet_fixed.nc:
   fullpath: /g/data/ik11/inputs/mom6/panan/005deg/20241214/salt_restore_pauthenet_fixed.nc
   hashes:
