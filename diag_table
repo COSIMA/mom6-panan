@@ -6,7 +6,7 @@ panan
 "ocean_month_z",          1, "months", 1, "days", "time"
 "ocean_month_rho2",       1, "months", 1, "days", "time"
 "ocean_static",          -1, "months", 1, "days", "time" # ocean_static is a protected name. Do not change this line.
-#"ice_daily",              1, "days",   1, "days", "time"
+"ice_daily",              1, "days",   1, "days", "time"
 "ice_month",              1, "months", 1, "days", "time"
 
 # Ocean grid-cell volume
