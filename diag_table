@@ -20,9 +20,9 @@ panan
 # Sea Surface Salinity
 #"ocean_model",   "sos",          "sos",              "ocean_daily",         "all", "mean", "none",2
 # Sea Water Potential Temperature at Sea Floor
-#"ocean_model",   "tob",          "tob",              "ocean_month",        "all", "mean", "none",2
+"ocean_model",   "tob",          "tob",              "ocean_month",        "all", "mean", "none",2
 # Sea Water Salinity at Sea Floor
-#"ocean_model",   "sob",          "sob",              "ocean_month",         "all", "mean", "none",2
+"ocean_model",   "sob",          "sob",              "ocean_month",         "all", "mean", "none",2
 # Mixed layer depth (delta rho = 0.03)
 "ocean_model",   "mlotst",       "mlotst",           "ocean_month",         "all", "mean", "none",2
 # Sea Surface Speed
@@ -46,6 +46,7 @@ panan
 "ocean_model_z", "rhopot0",      "rhopot0",          "ocean_month_z",      "all", "mean", "none", 2
 # Ideal age
 "ocean_model_z", "agessc",      "agessc",          "ocean_month_z",      "all", "mean", "none", 2
+"ocean_month_rho2", "agessc",   "agessc",     "ocean_month_rho2",   "all", "mean", "none", 2
 
 # Ocean Mass X/Y Transport Vertical Sum
 "ocean_model",  "umo_2d",       "umo_2d",      "ocean_month",         "all", "mean", "none",2
