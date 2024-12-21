@@ -1,12 +1,12 @@
 panan
 1991 1 1 0 0 0
 
-#"ocean_daily",            1, "days",   1, "days", "time"
+"ocean_daily",            1, "days",   1, "days", "time""ocean_daily%4yr_%3dy",         1, "days",   1, "days", "time", 1, "days"
 "ocean_month",            1, "months", 1, "days", "time"
 "ocean_month_z",          1, "months", 1, "days", "time"
 "ocean_month_rho2",       1, "months", 1, "days", "time"
 "ocean_static",          -1, "months", 1, "days", "time" # ocean_static is a protected name. Do not change this line.
-#"ice_daily",              1, "days",   1, "days", "time"
+"ice_daily",              1, "days",   1, "days", "time"
 "ice_month",              1, "months", 1, "days", "time"
 
 # Ocean grid-cell volume
@@ -15,6 +15,7 @@ panan
 
 # Sea surface height above geoid
 "ocean_model",   "zos",          "zos",              "ocean_month",         "all", "mean", "none",2
+"ocean_model",   "zos",          "zos",              "ocean_daily%4yr_%3dy",         "all", "mean", "none",2
 # Sea Surface Temperature
 #"ocean_model",   "tos",          "tos",              "ocean_daily",         "all", "mean", "none",2
 # Sea Surface Salinity
@@ -36,6 +37,9 @@ panan
 # Zonal/Meridional velocity
 "ocean_model_z","uo",           "uo",               "ocean_month_z",      "all", "mean", "none",2
 "ocean_model_z","vo",           "vo",               "ocean_month_z",      "all", "mean", "none",2
+# Surface zonal/meridional velocity
+"ocean_model_z",  "uo",         "uo",               "ocean_daily_z%4yr_%3dy",      "all","mean","-1,-1,-1,-1,0,0",2
+"ocean_model_z",  "vo",         "vo",               "ocean_daily_z%4yr_%3dy",      "all","mean","-1,-1,-1,-1,0,0",2
 # Potential Temperature
 "ocean_model_z", "thetao",       "thetao",           "ocean_month_z",       "all", "mean", "none",2  # if use pre-TEOS10
 # Salinity
@@ -55,6 +59,8 @@ panan
 # Zonal/Meridional surface stress from ocean interactions with atmos and ice
 "ocean_model",  "tauuo",        "tauuo",            "ocean_month",        "all", "mean", "none",2
 "ocean_model",  "tauvo",        "tauvo",            "ocean_month",        "all", "mean", "none",2
+"ocean_model",  "tauuo",        "tauuo",            "ocean_daily%4yr_%3dy",        "all", "mean", "none",2
+"ocean_model",  "tauvo",        "tauvo",            "ocean_daily%4yr_%3dy",        "all", "mean", "none",2
 # Surface ocean heat flux from SW+LW+lat+sens+mass transfer+frazil+restore+seaice_melt_heat or flux adjustments
 "ocean_model",  "hfds",            "hfds",             "ocean_month",        "all", "mean", "none",2
 # Net surface water flux (precip+melt+lrunoff+ice calving-evap)
@@ -93,9 +99,9 @@ panan
 
 
 "ice_model", "siconc",     "siconc",       "ice_month", "all", "mean", "none", 2
-#"ice_model", "siconc",     "siconc",       "ice_daily", "all", "mean", "none", 2
+"ice_model", "siconc",     "siconc",       "ice_daily", "all", "mean", "none", 2
 "ice_model", "sithick",    "sithick",      "ice_month", "all", "mean", "none", 2
+"ice_model", "sithick",    "sithick",      "ice_daily", "all", "mean", "none", 2
 "ice_model", "net_melt",    "net_melt",      "ice_month", "all", "mean", "none", 2
-#"ice_model", "sithick",    "sithick",      "ice_daily", "all", "mean", "none", 2
 #"ice_model", "FA_X",       "FA_X",         "ice_month", "all", "mean", "none", 2
 #"ice_model", "FA_Y",       "FA_Y",         "ice_month", "all", "mean", "none", 2
