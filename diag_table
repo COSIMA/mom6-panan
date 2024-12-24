@@ -6,7 +6,7 @@ panan
 "ocean_month",            1, "months", 1, "days", "time"
 "ocean_month_z",          1, "months", 1, "days", "time"
 "ocean_month_rho2",       1, "months", 1, "days", "time"
-#"ocean_month_rho2_snap",  1, "months", 1, "days", "time"
+"ocean_month_rho2_snap",  1, "months", 1, "days", "time"
 "ocean_static",          -1, "months", 1, "days", "time" # ocean_static is a protected name. Do not change this line.
 "ice_daily",              1, "days",   1, "days", "time"
 "ice_month",              1, "months", 1, "days", "time"
@@ -14,7 +14,7 @@ panan
 # Ocean grid-cell volume
 "ocean_model_z", "volcello",     "volcello",         "ocean_month_z",       "all", "mean", "none",2
 "ocean_model_rho2", "volcello",  "volcello",         "ocean_month_rho2",    "all", "mean", "none",2
-#"ocean_model_rho2", "volcello",  "volcello",         "ocean_month_rho2_snap",    "all", "none", "none",2
+"ocean_model_rho2", "volcello",  "volcello",         "ocean_month_rho2_snap",    "all", "none", "none",2
 
 # Sea surface height above geoid
 "ocean_model",   "zos",          "zos",              "ocean_month",         "all", "mean", "none",2
@@ -72,14 +72,14 @@ panan
 "ocean_model",  "salt_flux",       "salt_flux",           "ocean_month",        "all", "mean", "none",2
 "ocean_model",  "salt_flux_added",       "salt_flux_added",           "ocean_month",        "all", "mean", "none",2
 "ocean_model",  "lrunoff",       "lrunoff",           "ocean_month",        "all", "mean", "none",2
-#"ocean_model",  "precip",       "precip",           "ocean_month",        "all", "mean", "none",2
+"ocean_model",  "precip",       "precip",           "ocean_month",        "all", "mean", "none",2
 
 # Monthly T advection zonal/meridional
-#"ocean_model_rho2", "T_ady", "T_ady",     "ocean_month_rho2",  "all", "mean", "none",2 
-#"ocean_model_rho2", "T_adx", "T_adx",     "ocean_month_rho2",  "all", "mean", "none",2 
-#"ocean_model_rho2", "thetao", "thetao",   "ocean_month_rho2",    "all", "mean", "none",2 
-#"ocean_model_z", "T_adx",   "T_adx",     "ocean_month_z",   "all", "mean", "none", 2
-#"ocean_model_z", "T_ady",   "T_ady",     "ocean_month_z",   "all", "mean", "none", 2
+"ocean_model_rho2", "T_ady", "T_ady",     "ocean_month_rho2",  "all", "mean", "none",2 
+"ocean_model_rho2", "T_adx", "T_adx",     "ocean_month_rho2",  "all", "mean", "none",2 
+"ocean_model_rho2", "thetao", "thetao",   "ocean_month_rho2",    "all", "mean", "none",2 
+"ocean_model_z", "T_adx",   "T_adx",     "ocean_month_z",   "all", "mean", "none", 2
+"ocean_model_z", "T_ady",   "T_ady",     "ocean_month_z",   "all", "mean", "none", 2
 
 # Surface area of tracer (T) cells
 "ocean_model", "areacello",   "areacello",   "ocean_static", "all", "none", "none", 2
@@ -114,5 +114,5 @@ panan
 "ice_model", "sithick",    "sithick",      "ice_month", "all", "mean", "none", 2
 "ice_model", "sithick",    "sithick",      "ice_daily", "all", "mean", "none", 2
 "ice_model", "net_melt",    "net_melt",      "ice_month", "all", "mean", "none", 2
-#"ice_model", "FA_X",       "FA_X",         "ice_month", "all", "mean", "none", 2
-#"ice_model", "FA_Y",       "FA_Y",         "ice_month", "all", "mean", "none", 2
+"ice_model", "FA_X",       "FA_X",         "ice_month", "all", "mean", "none", 2
+"ice_model", "FA_Y",       "FA_Y",         "ice_month", "all", "mean", "none", 2
