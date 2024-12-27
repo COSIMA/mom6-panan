@@ -75,11 +75,11 @@ panan
 "ocean_model",  "precip",       "precip",           "ocean_month",        "all", "mean", "none",2
 
 # Monthly T advection zonal/meridional
-"ocean_model_rho2", "T_ady", "T_ady",     "ocean_month_rho2",  "all", "mean", "none",2 
-"ocean_model_rho2", "T_adx", "T_adx",     "ocean_month_rho2",  "all", "mean", "none",2 
-"ocean_model_rho2", "thetao", "thetao",   "ocean_month_rho2",    "all", "mean", "none",2 
-"ocean_model_z", "T_adx",   "T_adx",     "ocean_month_z",   "all", "mean", "none", 2
-"ocean_model_z", "T_ady",   "T_ady",     "ocean_month_z",   "all", "mean", "none", 2
+#"ocean_model_rho2", "T_ady", "T_ady",     "ocean_month_rho2",  "all", "mean", "none",2 
+#"ocean_model_rho2", "T_adx", "T_adx",     "ocean_month_rho2",  "all", "mean", "none",2 
+#"ocean_model_rho2", "thetao", "thetao",   "ocean_month_rho2",    "all", "mean", "none",2 
+#"ocean_model_z", "T_adx",   "T_adx",     "ocean_month_z",   "all", "mean", "none", 2
+#"ocean_model_z", "T_ady",   "T_ady",     "ocean_month_z",   "all", "mean", "none", 2
 
 # Surface area of tracer (T) cells
 "ocean_model", "areacello",   "areacello",   "ocean_static", "all", "none", "none", 2
