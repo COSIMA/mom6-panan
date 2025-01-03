@@ -3,6 +3,7 @@ panan
 
 "ocean_daily%4yr_%3dy",         1, "days",   1, "days", "time", 1, "days"
 "ocean_daily_z%4yr_%3dy",       1, "days",   1, "days", "time", 1, "days"
+"ocean_daily_rho2%4yr_%3dy",    1, "days",   1, "days", "time", 1, "days"
 "ocean_month",            1, "months", 1, "days", "time"
 "ocean_month_z",          1, "months", 1, "days", "time"
 "ocean_month_rho2",       1, "months", 1, "days", "time"
@@ -15,38 +16,41 @@ panan
 "ocean_model_z", "volcello",     "volcello",         "ocean_month_z",       "all", "mean", "none",2
 "ocean_model_rho2", "volcello",  "volcello",         "ocean_month_rho2",    "all", "mean", "none",2
 "ocean_model_rho2", "volcello",  "volcello",         "ocean_month_rho2_snap",    "all", "none", "none",2
+"ocean_model_z", "volcello",  "volcello",         "ocean_daily_z%4yr_%3dy",    "all", "mean", "none",2
+"ocean_model_rho2", "volcello",  "volcello",         "ocean_daily_rho2%4yr_%3dy",    "all", "mean", "none",2
 
 # Sea surface height above geoid
 "ocean_model",   "zos",          "zos",              "ocean_month",         "all", "mean", "none",2
 "ocean_model",   "zos",          "zos",              "ocean_daily%4yr_%3dy",         "all", "mean", "none",2
-# Sea Surface Temperature
-#"ocean_model",   "tos",          "tos",              "ocean_daily",         "all", "mean", "none",2
-# Sea Surface Salinity
-#"ocean_model",   "sos",          "sos",              "ocean_daily",         "all", "mean", "none",2
 # Sea Water Potential Temperature at Sea Floor
 "ocean_model",   "tob",          "tob",              "ocean_month",        "all", "mean", "none",2
 # Sea Water Salinity at Sea Floor
 "ocean_model",   "sob",          "sob",              "ocean_month",         "all", "mean", "none",2
 # Mixed layer depth (delta rho = 0.03)
 "ocean_model",   "mlotst",       "mlotst",           "ocean_month",         "all", "mean", "none",2
-# Sea Surface Speed
-#"ocean_model",   "speed",        "speed",            "ocean_daily",         "all", "mean", "none",2
+"ocean_model",   "mlotst",       "mlotst",           "ocean_daily%4yr_%3dy",         "all", "mean", "none",2
 
 # (umo,vmo)  =net mass transport from residual mean velocity (model resolved + SGS)
 "ocean_model_rho2","umo",       "umo",              "ocean_month_rho2",   "all", "mean", "none",2
+"ocean_model_rho2","umo",       "umo",              "ocean_daily_rho2%4yr_%3dy",   "all", "mean", "none",2
 "ocean_model_rho2","vmo",       "vmo",              "ocean_month_rho2",   "all", "mean", "none",2
-#"ocean_model_rho2", "h",        "hmo",              "ocean_month_rho2",   "all", "mean", "none", 2
+"ocean_model_rho2","vmo",       "vmo",              "ocean_daily_rho2%4yr_%3dy",   "all", "mean", "none",2
 
 # Zonal/Meridional velocity
 "ocean_model_z","uo",           "uo",               "ocean_month_z",      "all", "mean", "none",2
 "ocean_model_z","vo",           "vo",               "ocean_month_z",      "all", "mean", "none",2
 # Surface zonal/meridional velocity
-"ocean_model_z",  "uo",         "uo",               "ocean_daily_z%4yr_%3dy",      "all","mean","-1,-1,-1,-1,0,1",2
-"ocean_model_z",  "vo",         "vo",               "ocean_daily_z%4yr_%3dy",      "all","mean","-1,-1,-1,-1,0,1",2
+#"ocean_model_z",  "uo",         "uo",               "ocean_daily_z%4yr_%3dy",      "all","mean","-1,-1,-1,-1,0,1",2
+"ocean_model_z",  "uo",         "uo",               "ocean_daily_z%4yr_%3dy",      "all","mean","none",2
+#"ocean_model_z",  "vo",         "vo",               "ocean_daily_z%4yr_%3dy",      "all","mean","-1,-1,-1,-1,0,1",2
+"ocean_model_z",  "vo",         "vo",               "ocean_daily_z%4yr_%3dy",      "all","mean","none",2
+
 # Potential Temperature
 "ocean_model_z", "thetao",       "thetao",           "ocean_month_z",       "all", "mean", "none",2  # if use pre-TEOS10
+"ocean_model_z", "thetao",       "thetao",           "ocean_daily_z%4yr_%3dy",       "all", "mean", "none",2  # if use pre-TEOS10
 # Salinity
 "ocean_model_z", "so",           "so",               "ocean_month_z",       "all", "mean", "none",2
+"ocean_model_z", "so",           "so",               "ocean_daily_z%4yr_%3dy",       "all", "mean", "none",2
 # Potential Density referenced to 2000 dbar
 "ocean_model_z", "rhopot2",      "rhopot2",          "ocean_month_z",      "all", "mean", "none", 2
 # Potential Density referenced to 0 dbar
@@ -64,6 +68,7 @@ panan
 "ocean_model",  "tauvo",        "tauvo",            "ocean_month",        "all", "mean", "none",2
 "ocean_model",  "tauuo",        "tauuo",            "ocean_daily%4yr_%3dy",        "all", "mean", "none",2
 "ocean_model",  "tauvo",        "tauvo",            "ocean_daily%4yr_%3dy",        "all", "mean", "none",2
+
 # Surface ocean heat flux from SW+LW+lat+sens+mass transfer+frazil+restore+seaice_melt_heat or flux adjustments
 "ocean_model",  "hfds",            "hfds",             "ocean_month",        "all", "mean", "none",2
 # Net surface water flux (precip+melt+lrunoff+ice calving-evap)
@@ -113,6 +118,7 @@ panan
 "ice_model", "siconc",     "siconc",       "ice_daily", "all", "mean", "none", 2
 "ice_model", "sithick",    "sithick",      "ice_month", "all", "mean", "none", 2
 "ice_model", "sithick",    "sithick",      "ice_daily", "all", "mean", "none", 2
-"ice_model", "net_melt",    "net_melt",      "ice_month", "all", "mean", "none", 2
+"ice_model", "net_melt",   "net_melt",     "ice_month", "all", "mean", "none", 2
+"ice_model", "net_melt",   "net_melt",     "ice_daily", "all", "mean", "none", 2
 "ice_model", "FA_X",       "FA_X",         "ice_month", "all", "mean", "none", 2
 "ice_model", "FA_Y",       "FA_Y",         "ice_month", "all", "mean", "none", 2
